@@ -9370,16 +9370,6 @@
     "Url": ""
   },
   {
-    "Title": "No habr\u00E1 paz para los malvados (2011).mkv",
-    "Year": null,
-    "Quality": "1920x1080",
-    "Channel": "Be Mad",
-    "Disk": "PELICULAS",
-    "Duration": "01:44:05",
-    "Rating": null,
-    "Url": ""
-  },
-  {
     "Title": "No hay salida (1987).mkv",
     "Year": null,
     "Quality": "1920x1080",
@@ -13570,16 +13560,6 @@
     "Url": ""
   },
   {
-    "Title": "El exorcista (1973).mkv",
-    "Year": null,
-    "Quality": "1920x1080",
-    "Channel": "VEO 7",
-    "Disk": "PELICULAS",
-    "Duration": "02:03:00",
-    "Rating": null,
-    "Url": ""
-  },
-  {
     "Title": "El vuelo de la paloma (1989).mkv",
     "Year": null,
     "Quality": "1920x1080",
@@ -14633,7 +14613,7 @@
     "Title": "Alatriste (2006).mkv",
     "Year": null,
     "Quality": "1920x1080",
-    "Channel": "",
+    "Channel": "Be Mad",
     "Disk": "PELICULAS",
     "Duration": "02:11:25",
     "Rating": null,
@@ -14653,7 +14633,7 @@
     "Title": "Amigos (2011).mkv",
     "Year": null,
     "Quality": "1920x1080",
-    "Channel": "",
+    "Channel": "Be Mad",
     "Disk": "PELICULAS",
     "Duration": "01:29:43",
     "Rating": null,
@@ -15006,6 +14986,176 @@
     "Channel": "cuatro",
     "Disk": "PELICULAS",
     "Duration": "01:50:34",
+    "Rating": null,
+    "Url": ""
+  },
+  {
+    "Title": "El apartamento (1960).mkv",
+    "Year": null,
+    "Quality": "1920x1080",
+    "Channel": "La 2",
+    "Disk": "PELICULAS",
+    "Duration": "01:59:45",
+    "Rating": null,
+    "Url": ""
+  },
+  {
+    "Title": "El exorcista (1973).mkv",
+    "Year": null,
+    "Quality": "1920x1080",
+    "Channel": "VEO 7",
+    "Disk": "PELICULAS",
+    "Duration": "02:02:59",
+    "Rating": null,
+    "Url": ""
+  },
+  {
+    "Title": "El misterio Gal\u00EDndez (2003).mkv",
+    "Year": null,
+    "Quality": "1920x1080",
+    "Channel": "8 Madrid",
+    "Disk": "PELICULAS",
+    "Duration": "02:00:40",
+    "Rating": null,
+    "Url": ""
+  },
+  {
+    "Title": "Entre las piernas (1999).mkv",
+    "Year": null,
+    "Quality": "1920x1080",
+    "Channel": "8 Madrid",
+    "Disk": "PELICULAS",
+    "Duration": "01:52:27",
+    "Rating": null,
+    "Url": ""
+  },
+  {
+    "Title": "Guardianes de la galaxia 1 (2014).mkv",
+    "Year": null,
+    "Quality": "1920x1080",
+    "Channel": "cuatro",
+    "Disk": "PELICULAS",
+    "Duration": "01:55:35",
+    "Rating": null,
+    "Url": ""
+  },
+  {
+    "Title": "La casa sin fronteras (1972).mkv",
+    "Year": null,
+    "Quality": "1920x1080",
+    "Channel": "8 Madrid",
+    "Disk": "PELICULAS",
+    "Duration": "01:30:35",
+    "Rating": null,
+    "Url": ""
+  },
+  {
+    "Title": "L\u00E1zaro de Tormes (2001).mkv",
+    "Year": null,
+    "Quality": "1920x1080",
+    "Channel": "8 Madrid",
+    "Disk": "PELICULAS",
+    "Duration": "01:26:14",
+    "Rating": null,
+    "Url": ""
+  },
+  {
+    "Title": "Los aires dif\u00EDciles (2006).mkv",
+    "Year": null,
+    "Quality": "1920x1080",
+    "Channel": "8 Madrid",
+    "Disk": "PELICULAS",
+    "Duration": "01:45:18",
+    "Rating": null,
+    "Url": ""
+  },
+  {
+    "Title": "No habr\u00E1 paz para los malvados (2011).mkv",
+    "Year": null,
+    "Quality": "1920x1080",
+    "Channel": "Be Mad",
+    "Disk": "PELICULAS",
+    "Duration": "01:44:04",
+    "Rating": null,
+    "Url": ""
+  },
+  {
+    "Title": "Perdita Durango (1997).mkv",
+    "Year": null,
+    "Quality": "1920x1080",
+    "Channel": "8 Madrid",
+    "Disk": "PELICULAS",
+    "Duration": "02:00:09",
+    "Rating": null,
+    "Url": ""
+  },
+  {
+    "Title": "Pura formalidad (1994).mkv",
+    "Year": null,
+    "Quality": "1920x1080",
+    "Channel": "8 Madrid",
+    "Disk": "PELICULAS",
+    "Duration": "01:44:04",
+    "Rating": null,
+    "Url": ""
+  },
+  {
+    "Title": "Puro vicio (2014).mkv",
+    "Year": null,
+    "Quality": "1920x1080",
+    "Channel": "VEO 7",
+    "Disk": "PELICULAS",
+    "Duration": "02:16:08",
+    "Rating": null,
+    "Url": ""
+  },
+  {
+    "Title": "Remando al viento (1988).mkv",
+    "Year": null,
+    "Quality": "1920x1080",
+    "Channel": "8 Madrid",
+    "Disk": "PELICULAS",
+    "Duration": "01:29:38",
+    "Rating": null,
+    "Url": ""
+  },
+  {
+    "Title": "Sin hijos (2015).mkv",
+    "Year": null,
+    "Quality": "1920x1080",
+    "Channel": "8 Madrid",
+    "Disk": "PELICULAS",
+    "Duration": "01:35:43",
+    "Rating": null,
+    "Url": ""
+  },
+  {
+    "Title": "Speed (1994).mkv",
+    "Year": null,
+    "Quality": "1920x1080",
+    "Channel": "Be Mad",
+    "Disk": "PELICULAS",
+    "Duration": "01:46:14",
+    "Rating": null,
+    "Url": ""
+  },
+  {
+    "Title": "Spotlight (2015).mkv",
+    "Year": null,
+    "Quality": "1920x1080",
+    "Channel": "La 1",
+    "Disk": "PELICULAS",
+    "Duration": "01:55:40",
+    "Rating": null,
+    "Url": ""
+  },
+  {
+    "Title": "Territorio comanche (1996).mkv",
+    "Year": null,
+    "Quality": "1920x1080",
+    "Channel": "8 Madrid",
+    "Disk": "PELICULAS",
+    "Duration": "01:27:24",
     "Rating": null,
     "Url": ""
   }
