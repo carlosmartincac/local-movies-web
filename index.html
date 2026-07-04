@@ -29,6 +29,14 @@
             border-left: 4px solid #0d6efd;
         }
 
+        .movie-card.deleted,
+        .movie-card.deleted .text-white,
+        .movie-card.deleted .quality,
+        .movie-card.deleted .info-row,
+        .movie-card.deleted .rating {
+            color: #ff4444 !important;
+        }
+
         .quality {
             font-weight: bold;
             color: #ffc107;
@@ -54,12 +62,13 @@
         </div>
 
         <div class="movie-list">
-            <div v-for="m in filteredMovies" :key="m.Title" class="movie-card shadow">
+            <div v-for="m in filteredMovies" :key="m.Title" class="movie-card shadow" :class="{ deleted: m.Status === '(DELETED)' }">
 
                 <div class="d-flex justify-content-between align-items-start">
                     <h6 class="mb-0 text-white">
                         {{ m.Title }}                 
                         <span v-if="m.Year" class="text-secondary small">({{ m.Year }})</span>
+                            <span v-if="m.Status === '(DELETED)'" class="ms-1">🗑️</span>
                     </h6>
                     <span class="quality small">{{ m.Quality }}</span>
                 </div>
@@ -71,7 +80,7 @@
                 </div>
 
                 <div class="info-row d-flex justify-content-between">
-                    <span>⏱ {{ m.Duration }}</span>
+                    <span>⏱ {{ m.Duration }} <span v-if="m.BitRate">| 📊 {{ m.BitRate }} kbps</span></span>
                     <span v-if="m.Rating" class="rating">⭐ {{ m.Rating }}</span>
                 </div>
 
