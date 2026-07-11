@@ -77,25 +77,21 @@
                         {{ m.FileName }} 
                         <span v-if="m.FileStatus === 'DELETED'" class="ms-1">🗑️ ELIMINADA</span>
                     </h6>
-                    <span class="quality small">{{ m.Quality }}</span>
+                    <span class="quality small">🖥️ {{ m.Quality }}</span>
                 </div>
 
                 <div class="d-flex justify-content-between align-items-start">
-                    <span v-if="m.Channel && m.Channel !== '-'">
-                        📺 {{ m.Channel }}
-                    </span>                    
-                    <span v-if="m.FilmAffinityRating" class="rating">
-                        ⭐ {{ m.FilmAffinityRating }}
-                    </span>             
+                    <span v-if="m.Channel && m.Channel !== '-'">📺 {{ m.Channel }}</span>                    
+                    <span class="quality small">⏱ {{ m.Duration }}</span>                    
                 </div>
 
-                <div class="info-row d-flex justify-content-between">
+                <div class="info-row d-flex justify-content-between align-items-start">
                     <span>
-                        ⏱ {{ m.Duration }}
-                        <span v-if="m.BitRate"> | 📊 {{ m.BitRate }} kbps</span>
-                        <span v-if="m.FileSizeGB"> | 💾 {{ m.FileSizeGB }}</span>
-                        <span v-if="m.FileDate"> | 📅 {{ new Date(m.FileDate).toLocaleDateString('es-ES', { day: '2-digit', month: '2-digit', year: 'numeric' }) }}</span>
+                        <span v-if="m.BitRate"> 📊 {{ m.BitRate }} kbps </span>
+                        <span v-if="m.FileSizeGB"> 💾 {{ m.FileSizeGB }} </span>
+                        <span v-if="m.FileDate"> 📅 {{ new Date(m.FileDate).toLocaleDateString('es-ES', { day: '2-digit', month: '2-digit', year: 'numeric' }) }} </span>
                     </span>
+                    <span v-if="m.FilmAffinityRating" class="rating">⭐ {{ m.FilmAffinityRating }}</span>
                 </div>
 
             </div>
