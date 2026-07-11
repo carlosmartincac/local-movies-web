@@ -32,12 +32,17 @@
             border-left: 4px solid #0d6efd;
         }
 
+        .movie-card.deleted {
+            background: #2a1215;
+            border-left-color: #ff4444;
+        }
+
         .movie-card.deleted,
         .movie-card.deleted .text-white,
         .movie-card.deleted .quality,
         .movie-card.deleted .info-row,
         .movie-card.deleted .rating {
-            color: #ff4444 !important;
+            color: #ff6b6b !important;
         }
 
         .quality {
@@ -73,7 +78,10 @@
                         <span v-if="m.Year" class="text-secondary small">({{ m.Year }})</span>
                             <span v-if="m.Status === 'DELETED'" class="ms-1">🗑️</span>
                     </h6>
-                    <span class="quality small">{{ m.Quality }}</span>
+                    <div class="text-end">
+                        <span class="quality small">{{ m.Quality }}</span>
+                        <div v-if="m.FileDate" class="info-row small">📅 {{ new Date(m.FileDate).toLocaleDateString('es-ES', { day: '2-digit', month: '2-digit', year: 'numeric' }) }}</div>
+                    </div>
                 </div>
 
                 <div class="info-row">
@@ -83,13 +91,8 @@
                 </div>
 
                 <div class="info-row d-flex justify-content-between">
-                    <span>⏱ {{ m.Duration }} <span v-if="m.BitRate">| 📊 {{ m.BitRate }} kbps</span></span>
+                    <span>⏱ {{ m.Duration }} <span v-if="m.BitRate">| 📊 {{ m.BitRate }} kbps</span> <span v-if="m.FileSizeGB">| 💾 {{ m.FileSizeGB }}</span></span>
                     <span v-if="m.Rating" class="rating">⭐ {{ m.Rating }}</span>
-                </div>
-
-                <div class="info-row d-flex justify-content-between">
-                    <span v-if="m.FileSizeGB">💾 {{ m.FileSizeGB }}</span>
-                    <span v-if="m.FileDate">📅 {{ new Date(m.FileDate).toLocaleDateString('es-ES', { day: '2-digit', month: '2-digit', year: 'numeric' }) }}</span>
                 </div>
 
             </div>
