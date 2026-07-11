@@ -81,11 +81,11 @@
                     <span class="quality small">{{ m.Quality }}</span>
                 </div>
 
-                <div class="info-row">
+                <div class="d-flex justify-content-between align-items-start">
                     <span v-if="m.Channel && m.Channel !== '-'">
                         📺 {{ m.Channel }}
                     </span>
-                    <span class="quality small">
+                    <span class="small">
                         📅 {{ new Date(m.FileDate).toLocaleDateString('es-ES', { day: '2-digit', month: '2-digit', year: 'numeric' }) }}
                     </span>                 
                 </div>
