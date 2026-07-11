@@ -80,14 +80,11 @@
                     </h6>
                     <div class="text-end">
                         <span class="quality small">{{ m.Quality }}</span>
-                        <div v-if="m.FileDate" class="info-row small">📅 {{ new Date(m.FileDate).toLocaleDateString('es-ES', { day: '2-digit', month: '2-digit', year: 'numeric' }) }}</div>
+                        <div class="info-row small">
+                            <span v-if="m.Channel && m.Channel !== '-'">📺 {{ m.Channel }}</span>
+                            <span v-if="m.FileDate"> · 📅 {{ new Date(m.FileDate).toLocaleDateString('es-ES', { day: '2-digit', month: '2-digit', year: 'numeric' }) }}</span>
+                        </div>
                     </div>
-                </div>
-
-                <div class="info-row">
-                    <span v-if="m.Channel && m.Channel !== '-'">
-                        📺 {{ m.Channel }}
-                    </span>
                 </div>
 
                 <div class="info-row d-flex justify-content-between">
