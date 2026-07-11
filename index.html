@@ -71,7 +71,7 @@
                     <h6 class="mb-0 text-white">
                         {{ m.Title }}                 
                         <span v-if="m.Year" class="text-secondary small">({{ m.Year }})</span>
-                            <span v-if="m.Status === '(DELETED)'" class="ms-1">🗑️</span>
+                            <span v-if="m.Status === 'DELETED'" class="ms-1">🗑️</span>
                     </h6>
                     <span class="quality small">{{ m.Quality }}</span>
                 </div>
@@ -85,6 +85,11 @@
                 <div class="info-row d-flex justify-content-between">
                     <span>⏱ {{ m.Duration }} <span v-if="m.BitRate">| 📊 {{ m.BitRate }} kbps</span></span>
                     <span v-if="m.Rating" class="rating">⭐ {{ m.Rating }}</span>
+                </div>
+
+                <div class="info-row d-flex justify-content-between">
+                    <span v-if="m.FileSizeGB">💾 {{ m.FileSizeGB }}</span>
+                    <span v-if="m.FileDate">📅 {{ new Date(m.FileDate).toLocaleDateString('es-ES', { day: '2-digit', month: '2-digit', year: 'numeric' }) }}</span>
                 </div>
 
             </div>
