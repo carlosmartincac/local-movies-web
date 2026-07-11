@@ -76,20 +76,29 @@
                     <h6 class="mb-0 text-white">
                         {{ m.Title }}                 
                         <span v-if="m.Year" class="text-secondary small">({{ m.Year }})</span>
-                            <span v-if="m.Status === 'DELETED'" class="ms-1">🗑️</span>
+                        <span v-if="m.Status === 'DELETED'" class="ms-1">🗑️</span>
                     </h6>
-                    <div class="text-end">
-                        <span class="quality small">{{ m.Quality }}</span>
-                        <div class="info-row small">
-                            <span v-if="m.Channel && m.Channel !== '-'">📺 {{ m.Channel }}</span>
-                            <span v-if="m.FileDate"> · 📅 {{ new Date(m.FileDate).toLocaleDateString('es-ES', { day: '2-digit', month: '2-digit', year: 'numeric' }) }}</span>
-                        </div>
-                    </div>
+                    <span class="quality small">{{ m.Quality }}</span>
+                </div>
+
+                <div class="info-row">
+                    <span v-if="m.Channel && m.Channel !== '-'">
+                        📺 {{ m.Channel }}
+                    </span>
+                    <span class="quality small">
+                        📅 {{ new Date(m.FileDate).toLocaleDateString('es-ES', { day: '2-digit', month: '2-digit', year: 'numeric' }) }}
+                    </span>                 
                 </div>
 
                 <div class="info-row d-flex justify-content-between">
-                    <span>⏱ {{ m.Duration }} <span v-if="m.BitRate">| 📊 {{ m.BitRate }} kbps</span> <span v-if="m.FileSizeGB">| 💾 {{ m.FileSizeGB }}</span></span>
-                    <span v-if="m.Rating" class="rating">⭐ {{ m.Rating }}</span>
+                    <span>
+                        ⏱ {{ m.Duration }} <span v-if="m.BitRate">| 
+                        📊 {{ m.BitRate }} kbps |
+                        💾 {{ m.FileSizeGB }}
+                    </span>
+                    <span v-if="m.Rating" class="rating">
+                        ⭐ {{ m.Rating }}
+                    </span>
                 </div>
 
             </div>
