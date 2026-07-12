@@ -73,24 +73,26 @@
             <div v-for="m in filteredMovies" :key="m.FileName" class="movie-card shadow" :class="{ deleted: m.FileStatus === 'DELETED' }">
 
                 <div class="d-flex justify-content-between align-items-start">
-                    <h6 class="mb-0 text-white">
-                        {{ m.FileName }} 
-                        <span v-if="m.FileStatus === 'DELETED'" class="ms-1">🗑️ ELIMINADA</span>
-                    </h6>
-                    <span class="quality small">🖥️ {{ m.Quality }}</span>
+                    <h6 class="mb-0 text-white">{{ m.FileName }}</h6>
                 </div>
 
                 <div class="d-flex justify-content-between align-items-start">
-                    <span v-if="m.Channel && m.Channel !== '-'">📺 {{ m.Channel }}</span>                    
-                    <span class="info-row ms-auto">⏱ {{ m.Duration }}</span>                    
+                    <span v-if="m.FileStatus === 'DELETED'" class="ms-1">🗑️ ELIMINADA</span>
+                </div>
+
+                <div class="d-flex justify-content-between align-items-start">
+                    <span class="quality small">🖥️ {{ m.Quality }}</span>
+                    <span class="info-row ms-auto">⏱ {{ m.Duration }}</span>
+                    <span v-if="m.Channel && m.Channel !== '-'">📺 {{ m.Channel }}</span>
                 </div>
 
                 <div class="info-row d-flex justify-content-between align-items-start">
-                    <span>
-                        <span v-if="m.BitRate"> 📊 {{ m.BitRate }} kbps </span>
-                        <span v-if="m.FileSizeGB"> 💾 {{ m.FileSizeGB }} </span>
-                        <span v-if="m.FileDate"> 📅 {{ new Date(m.FileDate).toLocaleDateString('es-ES', { day: '2-digit', month: '2-digit', year: 'numeric' }) }} </span>
-                    </span>
+                    <span v-if="m.BitRate"> 📊 {{ m.BitRate }} kbps </span>
+                    <span v-if="m.FileSizeGB"> 💾 {{ m.FileSizeGB }} </span>
+                    <span v-if="m.FileDate"> 📅 {{ new Date(m.FileDate).toLocaleDateString('es-ES', { day: '2-digit', month: '2-digit', year: 'numeric' }) }} </span>
+                </div>
+
+                <div class="info-row d-flex justify-content-between align-items-start">
                     <span v-if="m.FilmAffinityRating" class="rating">⭐ {{ m.FilmAffinityRating }}</span>
                 </div>
 
