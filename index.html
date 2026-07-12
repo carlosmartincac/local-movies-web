@@ -77,12 +77,12 @@
                 </div>
 
                 <div class="info-row">
-                    <span v-if="m.FileStatus === 'DELETED'" class="ms-1">🗑️ ELIMINADA</span>
+                    <h6 class="mb-0 text-white" v-if="m.FileStatus === 'DELETED'">🗑️ ELIMINADA</h6>
                 </div>
 
                 <div class="info-row">
-                    <span class="quality small">🖥️ {{ m.Quality }} </span>
-                    <span class="ms-auto"> ⏱ {{ m.Duration }} </span>
+                    <span class="quality">🖥️ {{ m.Quality }} </span>
+                    <span> ⏱ {{ m.Duration }} </span>
                     <span v-if="m.Channel && m.Channel !== '-'"> 📺 {{ m.Channel }} </span>
                 </div>
 
