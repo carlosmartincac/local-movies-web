@@ -37,8 +37,8 @@
     "BitRate": 4316,
     "Duration": "01:59:58",
     "Channel": "Be Mad",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Twelve Monkeys",
+    "MovieYear": 1995,
     "FileSizeGB": "3,62 GB"
   },
   {
@@ -51,13 +51,13 @@
     "BitRate": 4304,
     "Duration": "01:42:03",
     "Channel": "Telemadrid",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Elser \u2013 Er h\u00E4tte die Welt ver\u00E4ndert",
+    "MovieYear": 2015,
     "FileSizeGB": "3,07 GB"
   },
   {
     "VolumeName": "PELICULAS",
-    "FileName": "1492 La conquista del para\u00EDso (1992).mkv",
+    "FileName": "1492 - La conquista del para\u00EDso (1992).mkv",
     "FileStatus": "",
     "FileDate": "2025-05-25T11:46:20.267",
     "FileSize": 3127729570,
@@ -99,7 +99,7 @@
   },
   {
     "VolumeName": "PELICULAS",
-    "FileName": "2001, Una odisea del espacio (1968).mkv",
+    "FileName": "2001 - Una odisea del espacio (1968).mkv",
     "FileStatus": "",
     "FileDate": "2023-04-09T17:14:06.107",
     "FileSize": 4162669135,
@@ -127,7 +127,7 @@
   },
   {
     "VolumeName": "PELICULAS",
-    "FileName": "23-F, La pel\u00EDcula (2011).mkv",
+    "FileName": "23-F - La pel\u00EDcula (2011).mkv",
     "FileStatus": "",
     "FileDate": "2024-06-30T14:39:26.753",
     "FileSize": 3514597868,
@@ -163,8 +163,8 @@
     "BitRate": 3719,
     "Duration": "01:24:47",
     "Channel": "nova",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Tres bodas de m\u00E1s",
+    "MovieYear": 2013,
     "FileSizeGB": "2,20 GB"
   },
   {
@@ -261,8 +261,8 @@
     "BitRate": 4283,
     "Duration": "01:22:19",
     "Channel": "Paramount",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Nick of Time",
+    "MovieYear": 1995,
     "FileSizeGB": "2,46 GB"
   },
   {
@@ -359,8 +359,8 @@
     "BitRate": 4085,
     "Duration": "01:45:14",
     "Channel": "Telemadrid",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "A Civil Action",
+    "MovieYear": 1998,
     "FileSizeGB": "3,00 GB"
   },
   {
@@ -387,8 +387,8 @@
     "BitRate": 4284,
     "Duration": "01:42:41",
     "Channel": "Paramount",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "The Accused",
+    "MovieYear": 1988,
     "FileSizeGB": "3,07 GB"
   },
   {
@@ -667,8 +667,8 @@
     "BitRate": 4308,
     "Duration": "01:50:13",
     "Channel": "Be Mad",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "American History X",
+    "MovieYear": 1998,
     "FileSizeGB": "3,32 GB"
   },
   {
@@ -681,8 +681,8 @@
     "BitRate": 4318,
     "Duration": "01:27:18",
     "Channel": "Be Mad",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "American Pie",
+    "MovieYear": 1999,
     "FileSizeGB": "2,63 GB"
   },
   {
@@ -793,8 +793,8 @@
     "BitRate": 3368,
     "Duration": "01:56:11",
     "Channel": "La 1",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "\u30DF\u30E5\u30FC\u30B8\u30AB\u30EB\u300E\u30A2\u30F3\u30CA\u30FB\u30AB\u30EC\u30FC\u30CB\u30CA\u300F",
+    "MovieYear": 2011,
     "FileSizeGB": "2,73 GB"
   },
   {
@@ -807,8 +807,8 @@
     "BitRate": 3616,
     "Duration": "01:27:25",
     "Channel": "La 2",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Annie Hall",
+    "MovieYear": 1977,
     "FileSizeGB": "2,21 GB"
   },
   {
@@ -821,8 +821,8 @@
     "BitRate": 4152,
     "Duration": "01:47:11",
     "Channel": "Telemadrid",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "The Dry",
+    "MovieYear": 2021,
     "FileSizeGB": "3,11 GB"
   },
   {
@@ -835,8 +835,8 @@
     "BitRate": 4314,
     "Duration": "02:04:09",
     "Channel": "Be Mad",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Apocalypto",
+    "MovieYear": 2006,
     "FileSizeGB": "3,74 GB"
   },
   {
@@ -975,8 +975,8 @@
     "BitRate": 3879,
     "Duration": "01:45:00",
     "Channel": "La sexta",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Lethal Weapon 2",
+    "MovieYear": 1989,
     "FileSizeGB": "2,85 GB"
   },
   {
@@ -989,8 +989,8 @@
     "BitRate": 4285,
     "Duration": "01:49:06",
     "Channel": "Telemadrid",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Lethal Weapon 3",
+    "MovieYear": 1992,
     "FileSizeGB": "3,27 GB"
   },
   {
@@ -1003,8 +1003,8 @@
     "BitRate": 3640,
     "Duration": "02:02:03",
     "Channel": "La sexta",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Lethal Weapon 4",
+    "MovieYear": 1998,
     "FileSizeGB": "3,10 GB"
   },
   {
@@ -1017,8 +1017,8 @@
     "BitRate": 4320,
     "Duration": "01:46:12",
     "Channel": "Be Mad",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Working Girl",
+    "MovieYear": 1988,
     "FileSizeGB": "3,20 GB"
   },
   {
@@ -1065,20 +1065,6 @@
   },
   {
     "VolumeName": "PELICULAS",
-    "FileName": "Asalto al Banco Central (1983).mkv",
-    "FileStatus": "",
-    "FileDate": "2024-12-08T11:58:02.593",
-    "FileSize": 3536288272,
-    "Quality": "1800x1080",
-    "BitRate": 5046,
-    "Duration": "01:33:26",
-    "Channel": "",
-    "MovieName": "Asalto al Banco Central",
-    "MovieYear": 1983,
-    "FileSizeGB": "3,29 GB"
-  },
-  {
-    "VolumeName": "PELICULAS",
     "FileName": "Asalto al banco de St. Luis (2014).mkv",
     "FileStatus": "",
     "FileDate": "2025-01-11T12:09:07.273",
@@ -1087,8 +1073,8 @@
     "BitRate": 4546,
     "Duration": "01:26:44",
     "Channel": "Realmadrid TV",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "American Heist",
+    "MovieYear": 2014,
     "FileSizeGB": "2,75 GB"
   },
   {
@@ -1171,8 +1157,8 @@
     "BitRate": 3252,
     "Duration": "01:34:58",
     "Channel": "La 2",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "\u00A1\u00C1tame!",
+    "MovieYear": 1990,
     "FileSizeGB": "2,16 GB"
   },
   {
@@ -1199,8 +1185,8 @@
     "BitRate": 1695,
     "Duration": "01:54:34",
     "Channel": "",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Fatal Attraction",
+    "MovieYear": 1987,
     "FileSizeGB": "1,36 GB"
   },
   {
@@ -1213,8 +1199,8 @@
     "BitRate": 3321,
     "Duration": "01:42:04",
     "Channel": "La 2",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Skiptrace",
+    "MovieYear": 2016,
     "FileSizeGB": "2,37 GB"
   },
   {
@@ -1255,8 +1241,8 @@
     "BitRate": 3372,
     "Duration": "02:13:04",
     "Channel": "La 1",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Carlito\u0027s Way",
+    "MovieYear": 1993,
     "FileSizeGB": "3,13 GB"
   },
   {
@@ -1269,8 +1255,8 @@
     "BitRate": 4383,
     "Duration": "02:10:02",
     "Channel": "La sexta",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Catch Me If You Can",
+    "MovieYear": 2002,
     "FileSizeGB": "3,98 GB"
   },
   {
@@ -1283,8 +1269,8 @@
     "BitRate": 3261,
     "Duration": "01:42:52",
     "Channel": "Telemadrid",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Aunque t\u00FA no lo sepas",
+    "MovieYear": 2001,
     "FileSizeGB": "2,34 GB"
   },
   {
@@ -1325,8 +1311,8 @@
     "BitRate": 6187,
     "Duration": "01:45:24",
     "Channel": "RTVE",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Aut\u00F3mata",
+    "MovieYear": 2014,
     "FileSizeGB": "4,56 GB"
   },
   {
@@ -1339,8 +1325,8 @@
     "BitRate": 4320,
     "Duration": "01:35:24",
     "Channel": "",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Alien Autopsy",
+    "MovieYear": 2006,
     "FileSizeGB": "2,88 GB"
   },
   {
@@ -1367,8 +1353,8 @@
     "BitRate": 2904,
     "Duration": "02:57:59",
     "Channel": "",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Avatar",
+    "MovieYear": 2009,
     "FileSizeGB": "3,61 GB"
   },
   {
@@ -1381,8 +1367,8 @@
     "BitRate": 3611,
     "Duration": "03:16:42",
     "Channel": "",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Avatar: The Way of Water",
+    "MovieYear": 2022,
     "FileSizeGB": "4,96 GB"
   },
   {
@@ -1479,8 +1465,8 @@
     "BitRate": 4318,
     "Duration": "02:53:30",
     "Channel": "Be Mad",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Barry Lyndon",
+    "MovieYear": 1975,
     "FileSizeGB": "5,23 GB"
   },
   {
@@ -1619,8 +1605,8 @@
     "BitRate": 4111,
     "Duration": "01:40:15",
     "Channel": "Telemadrid",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Billy Elliot",
+    "MovieYear": 2000,
     "FileSizeGB": "2,88 GB"
   },
   {
@@ -1661,8 +1647,8 @@
     "BitRate": 4311,
     "Duration": "02:10:41",
     "Channel": "Be Mad",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Black Hawk Down",
+    "MovieYear": 2001,
     "FileSizeGB": "3,94 GB"
   },
   {
@@ -1731,8 +1717,8 @@
     "BitRate": 4223,
     "Duration": "01:40:20",
     "Channel": "Paramount",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Blood",
+    "MovieYear": 2023,
     "FileSizeGB": "2,96 GB"
   },
   {
@@ -1745,8 +1731,8 @@
     "BitRate": 2190,
     "Duration": "02:12:03",
     "Channel": "",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Bone Tomahawk",
+    "MovieYear": 2015,
     "FileSizeGB": "2,02 GB"
   },
   {
@@ -1759,8 +1745,8 @@
     "BitRate": 4312,
     "Duration": "02:20:17",
     "Channel": "Be Mad",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Boogie Nights",
+    "MovieYear": 1997,
     "FileSizeGB": "4,23 GB"
   },
   {
@@ -1787,8 +1773,8 @@
     "BitRate": 3694,
     "Duration": "01:46:59",
     "Channel": "cuatro",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "The Bourne Identity",
+    "MovieYear": 2002,
     "FileSizeGB": "2,76 GB"
   },
   {
@@ -1871,8 +1857,8 @@
     "BitRate": 4235,
     "Duration": "01:29:23",
     "Channel": "Telemadrid",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Bridget Jones\u0027s Diary",
+    "MovieYear": 2001,
     "FileSizeGB": "2,64 GB"
   },
   {
@@ -1885,8 +1871,8 @@
     "BitRate": 4401,
     "Duration": "01:36:35",
     "Channel": "Telemadrid",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Bridget Jones: The Edge of Reason",
+    "MovieYear": 2004,
     "FileSizeGB": "2,97 GB"
   },
   {
@@ -1899,8 +1885,8 @@
     "BitRate": 4146,
     "Duration": "01:50:27",
     "Channel": "Telemadrid",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Bridget Jones\u0027s Baby",
+    "MovieYear": 2016,
     "FileSizeGB": "3,20 GB"
   },
   {
@@ -1941,8 +1927,8 @@
     "BitRate": 4319,
     "Duration": "01:48:29",
     "Channel": "Be Mad",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Bullitt",
+    "MovieYear": 1968,
     "FileSizeGB": "3,27 GB"
   },
   {
@@ -2039,8 +2025,8 @@
     "BitRate": 2956,
     "Duration": "01:59:44",
     "Channel": "La 1",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Nedodr\u017Ean\u00FD s\u013Eub",
+    "MovieYear": 2009,
     "FileSizeGB": "2,47 GB"
   },
   {
@@ -2095,8 +2081,8 @@
     "BitRate": 3016,
     "Duration": "01:38:30",
     "Channel": "La 2",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Singin\u0027 in the Rain",
+    "MovieYear": 1952,
     "FileSizeGB": "2,08 GB"
   },
   {
@@ -2137,8 +2123,8 @@
     "BitRate": 4069,
     "Duration": "01:56:15",
     "Channel": "Telemadrid",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Capricorn One",
+    "MovieYear": 1977,
     "FileSizeGB": "3,30 GB"
   },
   {
@@ -2165,8 +2151,8 @@
     "BitRate": 4320,
     "Duration": "01:33:38",
     "Channel": "Be Mad",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Roadgames",
+    "MovieYear": 1981,
     "FileSizeGB": "2,83 GB"
   },
   {
@@ -2193,8 +2179,8 @@
     "BitRate": 4321,
     "Duration": "01:56:38",
     "Channel": "Be Mad",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Chariots of Fire",
+    "MovieYear": 1981,
     "FileSizeGB": "3,52 GB"
   },
   {
@@ -2207,8 +2193,8 @@
     "BitRate": 3278,
     "Duration": "01:38:19",
     "Channel": "La 2",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Casablanca",
+    "MovieYear": 1943,
     "FileSizeGB": "2,25 GB"
   },
   {
@@ -2291,8 +2277,8 @@
     "BitRate": 4555,
     "Duration": "01:25:22",
     "Channel": "Realmadrid TV",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Butterfly on a Wheel",
+    "MovieYear": 2007,
     "FileSizeGB": "2,72 GB"
   },
   {
@@ -2417,8 +2403,8 @@
     "BitRate": 4324,
     "Duration": "01:55:21",
     "Channel": "Be Mad",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Nuovo Cinema Paradiso",
+    "MovieYear": 1988,
     "FileSizeGB": "3,48 GB"
   },
   {
@@ -2445,8 +2431,8 @@
     "BitRate": 1317,
     "Duration": "01:43:43",
     "Channel": "",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Cisne Cuello Negro, Cuello Blanco",
+    "MovieYear": 2009,
     "FileSizeGB": "0,95 GB"
   },
   {
@@ -2459,8 +2445,8 @@
     "BitRate": 4275,
     "Duration": "01:40:42",
     "Channel": "Telemadrid",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "City Hall",
+    "MovieYear": 1996,
     "FileSizeGB": "3,01 GB"
   },
   {
@@ -2473,8 +2459,8 @@
     "BitRate": 2768,
     "Duration": "01:53:33",
     "Channel": "La 2",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Citizen Kane",
+    "MovieYear": 1941,
     "FileSizeGB": "2,20 GB"
   },
   {
@@ -2543,8 +2529,8 @@
     "BitRate": 2885,
     "Duration": "01:27:52",
     "Channel": "",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Coherence",
+    "MovieYear": 2014,
     "FileSizeGB": "1,77 GB"
   },
   {
@@ -2683,8 +2669,8 @@
     "BitRate": 3305,
     "Duration": "01:27:06",
     "Channel": "cuatro",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "D\u00E9flagrations",
+    "MovieYear": 2022,
     "FileSizeGB": "2,01 GB"
   },
   {
@@ -2739,8 +2725,8 @@
     "BitRate": 1863,
     "Duration": "01:48:10",
     "Channel": "",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Being John Malkovich",
+    "MovieYear": 1999,
     "FileSizeGB": "1,41 GB"
   },
   {
@@ -2823,8 +2809,8 @@
     "BitRate": 3385,
     "Duration": "01:24:39",
     "Channel": "La 2",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Br\u00E1cula: Condemor II",
+    "MovieYear": 1997,
     "FileSizeGB": "2,00 GB"
   },
   {
@@ -2893,8 +2879,8 @@
     "BitRate": 2974,
     "Duration": "01:36:38",
     "Channel": "La sexta",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Contratiempo",
+    "MovieYear": 2017,
     "FileSizeGB": "2,01 GB"
   },
   {
@@ -2907,8 +2893,8 @@
     "BitRate": 4768,
     "Duration": "01:52:20",
     "Channel": "Telemadrid",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Copycat",
+    "MovieYear": 1995,
     "FileSizeGB": "3,74 GB"
   },
   {
@@ -2935,8 +2921,8 @@
     "BitRate": 4323,
     "Duration": "01:58:22",
     "Channel": "Be Mad",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Coraz\u00F3n salvaje",
+    "MovieYear": 1968,
     "FileSizeGB": "3,57 GB"
   },
   {
@@ -2949,8 +2935,8 @@
     "BitRate": 2341,
     "Duration": "02:14:38",
     "Channel": "",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Fury",
+    "MovieYear": 2014,
     "FileSizeGB": "2,20 GB"
   },
   {
@@ -2977,8 +2963,8 @@
     "BitRate": 4317,
     "Duration": "01:47:04",
     "Channel": "Be Mad",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Midnight Cowboy",
+    "MovieYear": 1969,
     "FileSizeGB": "3,23 GB"
   },
   {
@@ -3047,8 +3033,8 @@
     "BitRate": 2726,
     "Duration": "01:23:13",
     "Channel": "La 2",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Valentina",
+    "MovieYear": 1982,
     "FileSizeGB": "1,59 GB"
   },
   {
@@ -3061,8 +3047,8 @@
     "BitRate": 2471,
     "Duration": "01:23:50",
     "Channel": "La 2",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "1919, cr\u00F3nica del alba",
+    "MovieYear": 1983,
     "FileSizeGB": "1,45 GB"
   },
   {
@@ -3075,8 +3061,8 @@
     "BitRate": 2074,
     "Duration": "01:36:48",
     "Channel": "",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Soylent Green",
+    "MovieYear": 1973,
     "FileSizeGB": "1,40 GB"
   },
   {
@@ -3103,8 +3089,8 @@
     "BitRate": 2227,
     "Duration": "01:21:43",
     "Channel": "La sexta",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Death Game",
+    "MovieYear": 1996,
     "FileSizeGB": "1,27 GB"
   },
   {
@@ -3187,8 +3173,8 @@
     "BitRate": 3461,
     "Duration": "01:47:24",
     "Channel": "La 2",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "\u00BFDe qu\u00E9 se r\u00EDen las mujeres?",
+    "MovieYear": 1997,
     "FileSizeGB": "2,60 GB"
   },
   {
@@ -3285,8 +3271,8 @@
     "BitRate": 4319,
     "Duration": "01:37:20",
     "Channel": "Be Mad",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Predator 2",
+    "MovieYear": 1990,
     "FileSizeGB": "2,94 GB"
   },
   {
@@ -3369,8 +3355,8 @@
     "BitRate": 3901,
     "Duration": "02:06:29",
     "Channel": "Telemadrid",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Finding Forrester",
+    "MovieYear": 2000,
     "FileSizeGB": "3,45 GB"
   },
   {
@@ -3411,8 +3397,8 @@
     "BitRate": 3316,
     "Duration": "01:52:28",
     "Channel": "Telemadrid",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Awakenings",
+    "MovieYear": 1990,
     "FileSizeGB": "2,61 GB"
   },
   {
@@ -3607,8 +3593,8 @@
     "BitRate": 3873,
     "Duration": "02:42:58",
     "Channel": "La sexta",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "And Then There Were None",
+    "MovieYear": 1974,
     "FileSizeGB": "4,41 GB"
   },
   {
@@ -3635,8 +3621,8 @@
     "BitRate": 4425,
     "Duration": "01:32:59",
     "Channel": "Telemadrid",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Dirty Dancing",
+    "MovieYear": 1987,
     "FileSizeGB": "2,87 GB"
   },
   {
@@ -3649,8 +3635,8 @@
     "BitRate": 5193,
     "Duration": "01:40:05",
     "Channel": "La 1",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "District 9",
+    "MovieYear": 2009,
     "FileSizeGB": "3,63 GB"
   },
   {
@@ -3663,8 +3649,8 @@
     "BitRate": 4320,
     "Duration": "02:06:24",
     "Channel": "Be Mad",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Divergent",
+    "MovieYear": 2014,
     "FileSizeGB": "3,81 GB"
   },
   {
@@ -3691,8 +3677,8 @@
     "BitRate": 4325,
     "Duration": "01:44:32",
     "Channel": "Be Mad",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Allegiant",
+    "MovieYear": 2016,
     "FileSizeGB": "3,16 GB"
   },
   {
@@ -3705,8 +3691,8 @@
     "BitRate": 1519,
     "Duration": "02:45:22",
     "Channel": "",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Django Unchained",
+    "MovieYear": 2012,
     "FileSizeGB": "1,75 GB"
   },
   {
@@ -3775,8 +3761,8 @@
     "BitRate": 4320,
     "Duration": "03:42:30",
     "Channel": "Be Mad",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Doctor Zhivago",
+    "MovieYear": 1965,
     "FileSizeGB": "6,71 GB"
   },
   {
@@ -3845,8 +3831,8 @@
     "BitRate": 4076,
     "Duration": "01:42:49",
     "Channel": "BOM",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Donnie Darko",
+    "MovieYear": 2001,
     "FileSizeGB": "2,93 GB"
   },
   {
@@ -3859,8 +3845,8 @@
     "BitRate": 2759,
     "Duration": "01:45:17",
     "Channel": "La 2",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Butch Cassidy and the Sundance Kid",
+    "MovieYear": 1969,
     "FileSizeGB": "2,03 GB"
   },
   {
@@ -3873,8 +3859,8 @@
     "BitRate": 4323,
     "Duration": "01:48:21",
     "Channel": "Be Mad",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Two Mules for Sister Sara",
+    "MovieYear": 1970,
     "FileSizeGB": "3,27 GB"
   },
   {
@@ -4013,8 +3999,8 @@
     "BitRate": 4320,
     "Duration": "01:35:36",
     "Channel": "Be Mad",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Edward Scissorhands",
+    "MovieYear": 1990,
     "FileSizeGB": "2,89 GB"
   },
   {
@@ -4083,8 +4069,8 @@
     "BitRate": 4188,
     "Duration": "01:53:34",
     "Channel": "Be Mad",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "El amor perjudica seriamente la salud",
+    "MovieYear": 1997,
     "FileSizeGB": "3,32 GB"
   },
   {
@@ -4265,8 +4251,8 @@
     "BitRate": 3303,
     "Duration": "02:08:32",
     "Channel": "Telemadrid",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "The Hustler",
+    "MovieYear": 1961,
     "FileSizeGB": "2,97 GB"
   },
   {
@@ -4293,8 +4279,8 @@
     "BitRate": 2554,
     "Duration": "01:51:02",
     "Channel": "",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "The Nile Hilton Incident",
+    "MovieYear": 2017,
     "FileSizeGB": "1,98 GB"
   },
   {
@@ -4307,8 +4293,8 @@
     "BitRate": 2920,
     "Duration": "02:14:39",
     "Channel": "La 1",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Nightmare Alley",
+    "MovieYear": 2021,
     "FileSizeGB": "2,75 GB"
   },
   {
@@ -4363,8 +4349,8 @@
     "BitRate": 2479,
     "Duration": "01:55:43",
     "Channel": "",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Pawn Sacrifice",
+    "MovieYear": 2015,
     "FileSizeGB": "2,00 GB"
   },
   {
@@ -4391,8 +4377,8 @@
     "BitRate": 2508,
     "Duration": "02:12:10",
     "Channel": "",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Miss Sloane",
+    "MovieYear": 2016,
     "FileSizeGB": "2,32 GB"
   },
   {
@@ -4419,8 +4405,8 @@
     "BitRate": 4354,
     "Duration": "01:25:57",
     "Channel": "Telemadrid",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "The Golden Child",
+    "MovieYear": 1986,
     "FileSizeGB": "2,61 GB"
   },
   {
@@ -4489,8 +4475,8 @@
     "BitRate": 2541,
     "Duration": "01:43:51",
     "Channel": "",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Billionaire Boys Club",
+    "MovieYear": 2018,
     "FileSizeGB": "1,84 GB"
   },
   {
@@ -4517,8 +4503,8 @@
     "BitRate": 3799,
     "Duration": "01:47:14",
     "Channel": "La sexta",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Kiss the Girls",
+    "MovieYear": 1997,
     "FileSizeGB": "2,85 GB"
   },
   {
@@ -4531,8 +4517,8 @@
     "BitRate": 2815,
     "Duration": "01:51:25",
     "Channel": "Telemadrid",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "The Color of Money",
+    "MovieYear": 1986,
     "FileSizeGB": "2,19 GB"
   },
   {
@@ -4545,8 +4531,8 @@
     "BitRate": 3088,
     "Duration": "02:23:01",
     "Channel": "La 2",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "The Color Purple",
+    "MovieYear": 2023,
     "FileSizeGB": "3,09 GB"
   },
   {
@@ -4629,8 +4615,8 @@
     "BitRate": 4213,
     "Duration": "01:47:56",
     "Channel": "Telemadrid",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "El desaf\u00EDo",
+    "MovieYear": 2014,
     "FileSizeGB": "3,18 GB"
   },
   {
@@ -4685,8 +4671,8 @@
     "BitRate": 3413,
     "Duration": "01:24:41",
     "Channel": "cuatro",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Il falsario",
+    "MovieYear": 2025,
     "FileSizeGB": "2,02 GB"
   },
   {
@@ -4755,8 +4741,8 @@
     "BitRate": 3375,
     "Duration": "02:02:10",
     "Channel": "La 2",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "El m\u00E1s fabuloso golpe del Far-West",
+    "MovieYear": 1972,
     "FileSizeGB": "2,88 GB"
   },
   {
@@ -4769,8 +4755,8 @@
     "BitRate": 4317,
     "Duration": "01:41:08",
     "Channel": "Be Mad",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "The Graduate",
+    "MovieYear": 1967,
     "FileSizeGB": "3,05 GB"
   },
   {
@@ -4951,8 +4937,8 @@
     "BitRate": 4051,
     "Duration": "01:38:49",
     "Channel": "Telemadrid",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "The Man Who Knew Infinity",
+    "MovieYear": 2016,
     "FileSizeGB": "2,80 GB"
   },
   {
@@ -4993,8 +4979,8 @@
     "BitRate": 3247,
     "Duration": "01:54:38",
     "Channel": "Telemadrid",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "The Man Who Knew Too Much",
+    "MovieYear": 1956,
     "FileSizeGB": "2,60 GB"
   },
   {
@@ -5035,8 +5021,8 @@
     "BitRate": 2602,
     "Duration": "02:35:11",
     "Channel": "",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "El Hundimiento del Belgrano",
+    "MovieYear": 2003,
     "FileSizeGB": "2,82 GB"
   },
   {
@@ -5091,8 +5077,8 @@
     "BitRate": 3093,
     "Duration": "02:11:04",
     "Channel": "La 1",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "The Pelican Brief",
+    "MovieYear": 1993,
     "FileSizeGB": "2,83 GB"
   },
   {
@@ -5133,8 +5119,8 @@
     "BitRate": 3031,
     "Duration": "01:54:23",
     "Channel": "La 1",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Darkest Hour",
+    "MovieYear": 2017,
     "FileSizeGB": "2,42 GB"
   },
   {
@@ -5203,8 +5189,8 @@
     "BitRate": 4025,
     "Duration": "01:52:17",
     "Channel": "La 1",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Silver Linings Playbook",
+    "MovieYear": 2012,
     "FileSizeGB": "3,16 GB"
   },
   {
@@ -5217,8 +5203,8 @@
     "BitRate": 3413,
     "Duration": "01:50:34",
     "Channel": "La 1",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "El lector",
+    "MovieYear": 2022,
     "FileSizeGB": "2,64 GB"
   },
   {
@@ -5231,8 +5217,8 @@
     "BitRate": 4289,
     "Duration": "02:12:50",
     "Channel": "Paramount",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "El Libro Negro",
+    "MovieYear": 2009,
     "FileSizeGB": "3,98 GB"
   },
   {
@@ -5273,8 +5259,8 @@
     "BitRate": 3116,
     "Duration": "01:37:11",
     "Channel": "La 2",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "The Wizard of Oz",
+    "MovieYear": 1939,
     "FileSizeGB": "2,12 GB"
   },
   {
@@ -5371,8 +5357,8 @@
     "BitRate": 3724,
     "Duration": "02:06:19",
     "Channel": "La 1",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "The New World",
+    "MovieYear": 2005,
     "FileSizeGB": "3,29 GB"
   },
   {
@@ -5385,8 +5371,8 @@
     "BitRate": 2278,
     "Duration": "01:59:43",
     "Channel": "La 2",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "J\u0027accuse",
+    "MovieYear": 2019,
     "FileSizeGB": "1,91 GB"
   },
   {
@@ -5427,8 +5413,8 @@
     "BitRate": 3659,
     "Duration": "03:08:06",
     "Channel": "La 2",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "El padrino y sus ahijadas",
+    "MovieYear": 1974,
     "FileSizeGB": "4,81 GB"
   },
   {
@@ -5441,8 +5427,8 @@
     "BitRate": 2927,
     "Duration": "02:24:04",
     "Channel": "La 2",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "The Godfather Part II",
+    "MovieYear": 1974,
     "FileSizeGB": "2,95 GB"
   },
   {
@@ -5567,8 +5553,8 @@
     "BitRate": 5654,
     "Duration": "01:34:42",
     "Channel": "",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Beneath the Planet of the Apes",
+    "MovieYear": 1970,
     "FileSizeGB": "3,74 GB"
   },
   {
@@ -5581,8 +5567,8 @@
     "BitRate": 4994,
     "Duration": "01:37:32",
     "Channel": "",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Escape from the Planet of the Apes",
+    "MovieYear": 1971,
     "FileSizeGB": "3,40 GB"
   },
   {
@@ -5595,13 +5581,13 @@
     "BitRate": 4318,
     "Duration": "01:22:37",
     "Channel": "Be Mad",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Conquest of the Planet of the Apes",
+    "MovieYear": 1972,
     "FileSizeGB": "2,49 GB"
   },
   {
     "VolumeName": "PELICULAS",
-    "FileName": "El planeta de los simios 5 - Batalla por el planeta de los simios (1973).mkv",
+    "FileName": "El planeta de los simios 5 - La batalla por el planeta de los simios (1973).mkv",
     "FileStatus": "",
     "FileDate": "2023-04-09T17:11:28.967",
     "FileSize": 2667363146,
@@ -5665,8 +5651,8 @@
     "BitRate": 3396,
     "Duration": "02:02:00",
     "Channel": "Telemadrid",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "The Prince of Tides",
+    "MovieYear": 1991,
     "FileSizeGB": "2,89 GB"
   },
   {
@@ -5693,8 +5679,8 @@
     "BitRate": 4282,
     "Duration": "01:37:52",
     "Channel": "Be Mad",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Unbreakable",
+    "MovieYear": 2000,
     "FileSizeGB": "2,93 GB"
   },
   {
@@ -5777,8 +5763,8 @@
     "BitRate": 4269,
     "Duration": "02:20:28",
     "Channel": "Paramount",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "The Revenant",
+    "MovieYear": 2015,
     "FileSizeGB": "4,19 GB"
   },
   {
@@ -5805,8 +5791,8 @@
     "BitRate": 3762,
     "Duration": "01:41:07",
     "Channel": "neox",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Dorian Gray",
+    "MovieYear": 2009,
     "FileSizeGB": "2,66 GB"
   },
   {
@@ -5833,8 +5819,8 @@
     "BitRate": 4315,
     "Duration": "01:54:25",
     "Channel": "Be Mad",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "A River Runs Through It",
+    "MovieYear": 1992,
     "FileSizeGB": "3,45 GB"
   },
   {
@@ -5861,8 +5847,8 @@
     "BitRate": 3310,
     "Duration": "02:01:33",
     "Channel": "La 1",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Heartbreak Ridge",
+    "MovieYear": 1986,
     "FileSizeGB": "2,81 GB"
   },
   {
@@ -5917,8 +5903,8 @@
     "BitRate": 3881,
     "Duration": "03:12:00",
     "Channel": "neox",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "The Lord of the Rings: The Fellowship of the Ring",
+    "MovieYear": 2001,
     "FileSizeGB": "5,21 GB"
   },
   {
@@ -5931,8 +5917,8 @@
     "BitRate": 4144,
     "Duration": "03:25:48",
     "Channel": "neox",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "The Lord of the Rings: The Two Towers",
+    "MovieYear": 2002,
     "FileSizeGB": "5,96 GB"
   },
   {
@@ -5945,8 +5931,8 @@
     "BitRate": 2791,
     "Duration": "04:23:12",
     "Channel": "",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "The Lord of the Rings: The Return of the King",
+    "MovieYear": 2003,
     "FileSizeGB": "5,13 GB"
   },
   {
@@ -5959,8 +5945,8 @@
     "BitRate": 3750,
     "Duration": "01:37:39",
     "Channel": "cuatro",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "The Sixth Sense",
+    "MovieYear": 1999,
     "FileSizeGB": "2,56 GB"
   },
   {
@@ -6029,8 +6015,8 @@
     "BitRate": 1401,
     "Duration": "02:13:22",
     "Channel": "",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "The Talented Mr. Ripley",
+    "MovieYear": 1999,
     "FileSizeGB": "1,31 GB"
   },
   {
@@ -6057,8 +6043,8 @@
     "BitRate": 4501,
     "Duration": "01:50:00",
     "Channel": "Telemadrid",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "The Third Miracle",
+    "MovieYear": 1999,
     "FileSizeGB": "3,46 GB"
   },
   {
@@ -6113,8 +6099,8 @@
     "BitRate": 4223,
     "Duration": "01:52:23",
     "Channel": "Telemadrid",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "3:10 to Yuma",
+    "MovieYear": 1957,
     "FileSizeGB": "3,32 GB"
   },
   {
@@ -6141,8 +6127,8 @@
     "BitRate": 3074,
     "Duration": "01:59:17",
     "Channel": "La 1",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "The Prestige",
+    "MovieYear": 2006,
     "FileSizeGB": "2,56 GB"
   },
   {
@@ -6183,8 +6169,8 @@
     "BitRate": 4549,
     "Duration": "01:16:55",
     "Channel": "Realmadrid TV",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "\u5287\u5834\u7248\u30DD\u30B1\u30C3\u30C8\u30E2\u30F3\u30B9\u30BF\u30FC \u5E7B\u306E\u30DD\u30B1\u30E2\u30F3 \u30EB\u30AE\u30A2\u7206\u8A95",
+    "MovieYear": 1999,
     "FileSizeGB": "2,44 GB"
   },
   {
@@ -6253,8 +6239,8 @@
     "BitRate": 2158,
     "Duration": "02:12:27",
     "Channel": "",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Vice",
+    "MovieYear": 2018,
     "FileSizeGB": "2,00 GB"
   },
   {
@@ -6267,8 +6253,8 @@
     "BitRate": 3806,
     "Duration": "02:12:31",
     "Channel": "Telecinco",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Flight of the Butterflies",
+    "MovieYear": 2012,
     "FileSizeGB": "3,52 GB"
   },
   {
@@ -6309,8 +6295,8 @@
     "BitRate": 4291,
     "Duration": "01:48:18",
     "Channel": "Telemadrid",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "The Pursuit of Happyness",
+    "MovieYear": 2006,
     "FileSizeGB": "3,25 GB"
   },
   {
@@ -6337,8 +6323,8 @@
     "BitRate": 3128,
     "Duration": "01:47:18",
     "Channel": "Telemadrid",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "In the Electric Mist",
+    "MovieYear": 2009,
     "FileSizeGB": "2,34 GB"
   },
   {
@@ -6365,8 +6351,8 @@
     "BitRate": 2886,
     "Duration": "01:39:47",
     "Channel": "La 1",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "En fuera de juego",
+    "MovieYear": 2012,
     "FileSizeGB": "2,01 GB"
   },
   {
@@ -6379,8 +6365,8 @@
     "BitRate": 4120,
     "Duration": "01:46:42",
     "Channel": "neox",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Walk the Line",
+    "MovieYear": 2005,
     "FileSizeGB": "3,07 GB"
   },
   {
@@ -6393,8 +6379,8 @@
     "BitRate": 4220,
     "Duration": "02:04:06",
     "Channel": "neox",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "What Women Want",
+    "MovieYear": 2000,
     "FileSizeGB": "3,66 GB"
   },
   {
@@ -6421,8 +6407,8 @@
     "BitRate": 4319,
     "Duration": "02:07:06",
     "Channel": "Be Mad",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Close Encounters of the Third Kind",
+    "MovieYear": 1977,
     "FileSizeGB": "3,84 GB"
   },
   {
@@ -6449,8 +6435,8 @@
     "BitRate": 3124,
     "Duration": "02:01:16",
     "Channel": "La 1",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Enemy of the State",
+    "MovieYear": 1998,
     "FileSizeGB": "2,65 GB"
   },
   {
@@ -6491,8 +6477,8 @@
     "BitRate": 3448,
     "Duration": "01:28:22",
     "Channel": "La 1",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Es peligroso casarse a los 60",
+    "MovieYear": 1981,
     "FileSizeGB": "2,13 GB"
   },
   {
@@ -6561,8 +6547,8 @@
     "BitRate": 3197,
     "Duration": "02:59:16",
     "Channel": "La 1",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Spartacus",
+    "MovieYear": 1960,
     "FileSizeGB": "4,00 GB"
   },
   {
@@ -6603,8 +6589,8 @@
     "BitRate": 3477,
     "Duration": "01:29:53",
     "Channel": "Telecinco",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Eye in the Sky",
+    "MovieYear": 2015,
     "FileSizeGB": "2,18 GB"
   },
   {
@@ -6701,8 +6687,8 @@
     "BitRate": 4259,
     "Duration": "01:38:18",
     "Channel": "Paramount",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Ex Machina",
+    "MovieYear": 2015,
     "FileSizeGB": "2,92 GB"
   },
   {
@@ -6715,8 +6701,8 @@
     "BitRate": 1889,
     "Duration": "01:36:52",
     "Channel": "",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Exam",
+    "MovieYear": 2009,
     "FileSizeGB": "1,28 GB"
   },
   {
@@ -6757,8 +6743,8 @@
     "BitRate": 2997,
     "Duration": "01:49:10",
     "Channel": "cuatro",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Rendition",
+    "MovieYear": 2007,
     "FileSizeGB": "2,29 GB"
   },
   {
@@ -6771,8 +6757,8 @@
     "BitRate": 4307,
     "Duration": "01:48:28",
     "Channel": "Be Mad",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "The X-Files",
+    "MovieYear": 1998,
     "FileSizeGB": "3,26 GB"
   },
   {
@@ -6785,8 +6771,8 @@
     "BitRate": 4315,
     "Duration": "01:36:12",
     "Channel": "Be Mad",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "The X-Files: I Want to Believe",
+    "MovieYear": 2008,
     "FileSizeGB": "2,90 GB"
   },
   {
@@ -6813,8 +6799,8 @@
     "BitRate": 2408,
     "Duration": "01:37:47",
     "Channel": "clan",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Our Brand Is Crisis",
+    "MovieYear": 2015,
     "FileSizeGB": "1,65 GB"
   },
   {
@@ -6841,8 +6827,8 @@
     "BitRate": 3165,
     "Duration": "01:28:03",
     "Channel": "La sexta",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "The Universe, UFO: The Real Deal",
+    "MovieYear": 2011,
     "FileSizeGB": "1,95 GB"
   },
   {
@@ -6869,8 +6855,8 @@
     "BitRate": 4063,
     "Duration": "01:19:50",
     "Channel": "nova",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Domestic Disturbance",
+    "MovieYear": 2001,
     "FileSizeGB": "2,27 GB"
   },
   {
@@ -6939,8 +6925,8 @@
     "BitRate": 4266,
     "Duration": "01:26:45",
     "Channel": "Paramount",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Happy Death Day",
+    "MovieYear": 2017,
     "FileSizeGB": "2,59 GB"
   },
   {
@@ -6981,8 +6967,8 @@
     "BitRate": 2843,
     "Duration": "01:59:03",
     "Channel": "",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Saturday Night Fever",
+    "MovieYear": 1977,
     "FileSizeGB": "2,36 GB"
   },
   {
@@ -6995,8 +6981,8 @@
     "BitRate": 2864,
     "Duration": "01:54:20",
     "Channel": "Telemadrid",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Hidden Figures",
+    "MovieYear": 2016,
     "FileSizeGB": "2,29 GB"
   },
   {
@@ -7135,8 +7121,8 @@
     "BitRate": 4321,
     "Duration": "01:45:31",
     "Channel": "Be Mad",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Body Heat",
+    "MovieYear": 1981,
     "FileSizeGB": "3,19 GB"
   },
   {
@@ -7233,8 +7219,8 @@
     "BitRate": 4316,
     "Duration": "02:30:52",
     "Channel": "Be Mad",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Gangs of New York",
+    "MovieYear": 2002,
     "FileSizeGB": "4,55 GB"
   },
   {
@@ -7275,8 +7261,8 @@
     "BitRate": 4318,
     "Duration": "01:19:48",
     "Channel": "Be Mad",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "\u96FB\u5F71\u9D28",
+    "MovieYear": 1999,
     "FileSizeGB": "2,41 GB"
   },
   {
@@ -7303,8 +7289,8 @@
     "BitRate": 2231,
     "Duration": "01:31:33",
     "Channel": "La 1",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Gloria Bell",
+    "MovieYear": 2019,
     "FileSizeGB": "1,43 GB"
   },
   {
@@ -7345,8 +7331,8 @@
     "BitRate": 4265,
     "Duration": "01:47:54",
     "Channel": "Telemadrid",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Gold",
+    "MovieYear": 2016,
     "FileSizeGB": "3,21 GB"
   },
   {
@@ -7471,8 +7457,8 @@
     "BitRate": 4121,
     "Duration": "01:38:36",
     "Channel": "La sexta",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Gremlins",
+    "MovieYear": 1984,
     "FileSizeGB": "2,84 GB"
   },
   {
@@ -7513,8 +7499,8 @@
     "BitRate": 3772,
     "Duration": "02:17:24",
     "Channel": "neox",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "The Wild Bunch",
+    "MovieYear": 1969,
     "FileSizeGB": "3,62 GB"
   },
   {
@@ -7541,8 +7527,8 @@
     "BitRate": 3083,
     "Duration": "03:19:46",
     "Channel": "Telemadrid",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "War and Peace",
+    "MovieYear": 1956,
     "FileSizeGB": "4,30 GB"
   },
   {
@@ -7583,8 +7569,8 @@
     "BitRate": 4678,
     "Duration": "01:45:10",
     "Channel": "neox",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "The Arrival",
+    "MovieYear": 1996,
     "FileSizeGB": "3,44 GB"
   },
   {
@@ -7611,8 +7597,8 @@
     "BitRate": 4288,
     "Duration": "02:37:31",
     "Channel": "Paramount",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "C\u0027era una volta il West",
+    "MovieYear": 1968,
     "FileSizeGB": "4,72 GB"
   },
   {
@@ -7625,8 +7611,8 @@
     "BitRate": 4320,
     "Duration": "01:33:09",
     "Channel": "Be Mad",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Headhunters of World War II",
+    "MovieYear": 2010,
     "FileSizeGB": "2,81 GB"
   },
   {
@@ -7667,8 +7653,8 @@
     "BitRate": 3959,
     "Duration": "01:26:23",
     "Channel": "La 2",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Hola, \u00BFest\u00E1s sola?",
+    "MovieYear": 1995,
     "FileSizeGB": "2,39 GB"
   },
   {
@@ -7695,8 +7681,8 @@
     "BitRate": 4324,
     "Duration": "01:17:07",
     "Channel": "Be Mad",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Men in Black II",
+    "MovieYear": 2002,
     "FileSizeGB": "2,33 GB"
   },
   {
@@ -7709,8 +7695,8 @@
     "BitRate": 4324,
     "Duration": "01:33:36",
     "Channel": "Be Mad",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Men in Black 3",
+    "MovieYear": 2012,
     "FileSizeGB": "2,83 GB"
   },
   {
@@ -7723,8 +7709,8 @@
     "BitRate": 4702,
     "Duration": "01:40:05",
     "Channel": "cuatro",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Men in Black: International",
+    "MovieYear": 2019,
     "FileSizeGB": "3,29 GB"
   },
   {
@@ -7863,8 +7849,8 @@
     "BitRate": 4080,
     "Duration": "01:45:12",
     "Channel": "cuatro",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Independence Day: Resurgence",
+    "MovieYear": 2016,
     "FileSizeGB": "3,00 GB"
   },
   {
@@ -7891,8 +7877,8 @@
     "BitRate": 4199,
     "Duration": "01:48:32",
     "Channel": "La 1",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Indiana Jones and the Temple of Doom",
+    "MovieYear": 1984,
     "FileSizeGB": "3,18 GB"
   },
   {
@@ -7905,8 +7891,8 @@
     "BitRate": 3562,
     "Duration": "01:55:44",
     "Channel": "La 1",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Indiana Jones and the Last Crusade",
+    "MovieYear": 1989,
     "FileSizeGB": "2,88 GB"
   },
   {
@@ -7919,8 +7905,8 @@
     "BitRate": 4228,
     "Duration": "01:51:52",
     "Channel": "La 1",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Indiana Jones and the Kingdom of the Crystal Skull",
+    "MovieYear": 2008,
     "FileSizeGB": "3,30 GB"
   },
   {
@@ -7933,8 +7919,8 @@
     "BitRate": 3283,
     "Duration": "02:17:16",
     "Channel": "La 1",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Indiana Jones and the Dial of Destiny",
+    "MovieYear": 2023,
     "FileSizeGB": "3,15 GB"
   },
   {
@@ -8017,8 +8003,8 @@
     "BitRate": 4322,
     "Duration": "01:57:50",
     "Channel": "Be Mad",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Basic Instinct",
+    "MovieYear": 1992,
     "FileSizeGB": "3,56 GB"
   },
   {
@@ -8059,8 +8045,8 @@
     "BitRate": 4231,
     "Duration": "01:43:46",
     "Channel": "nova",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Intouchables",
+    "MovieYear": 2011,
     "FileSizeGB": "3,07 GB"
   },
   {
@@ -8101,8 +8087,8 @@
     "BitRate": 3476,
     "Duration": "01:25:54",
     "Channel": "cuatro",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Isi/Disi - Amor a lo bestia",
+    "MovieYear": 2004,
     "FileSizeGB": "2,09 GB"
   },
   {
@@ -8115,8 +8101,8 @@
     "BitRate": 3511,
     "Duration": "01:22:37",
     "Channel": "cuatro",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Isi \u0026 Disi: alto voltaje",
+    "MovieYear": 2006,
     "FileSizeGB": "2,03 GB"
   },
   {
@@ -8129,8 +8115,8 @@
     "BitRate": 3077,
     "Duration": "02:04:38",
     "Channel": "Antena 3",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "J. Edgar",
+    "MovieYear": 2011,
     "FileSizeGB": "2,68 GB"
   },
   {
@@ -8143,8 +8129,8 @@
     "BitRate": 3606,
     "Duration": "01:59:44",
     "Channel": "neox",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Jack Reacher",
+    "MovieYear": 2012,
     "FileSizeGB": "3,02 GB"
   },
   {
@@ -8157,8 +8143,8 @@
     "BitRate": 3595,
     "Duration": "01:54:44",
     "Channel": "neox",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Jack Reacher: Never Go Back",
+    "MovieYear": 2016,
     "FileSizeGB": "2,88 GB"
   },
   {
@@ -8199,8 +8185,8 @@
     "BitRate": 3062,
     "Duration": "01:49:10",
     "Channel": "La 2",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "From Russia with Love",
+    "MovieYear": 1963,
     "FileSizeGB": "2,34 GB"
   },
   {
@@ -8241,8 +8227,8 @@
     "BitRate": 3062,
     "Duration": "01:44:30",
     "Channel": "La 2",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Goldfinger",
+    "MovieYear": 1964,
     "FileSizeGB": "2,24 GB"
   },
   {
@@ -8283,8 +8269,8 @@
     "BitRate": 3456,
     "Duration": "02:04:20",
     "Channel": "Telemadrid",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Never Say Never Again",
+    "MovieYear": 1983,
     "FileSizeGB": "3,00 GB"
   },
   {
@@ -8381,8 +8367,8 @@
     "BitRate": 4329,
     "Duration": "01:57:13",
     "Channel": "Telemadrid",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Jennifer Eight",
+    "MovieYear": 1992,
     "FileSizeGB": "3,55 GB"
   },
   {
@@ -8409,8 +8395,8 @@
     "BitRate": 3780,
     "Duration": "01:56:49",
     "Channel": "Antena 3",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "John Wick: Chapter 2",
+    "MovieYear": 2017,
     "FileSizeGB": "3,08 GB"
   },
   {
@@ -8423,8 +8409,8 @@
     "BitRate": 4030,
     "Duration": "01:56:37",
     "Channel": "cuatro",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "John Wick: Chapter 3 - Parabellum",
+    "MovieYear": 2019,
     "FileSizeGB": "3,28 GB"
   },
   {
@@ -8465,8 +8451,8 @@
     "BitRate": 3791,
     "Duration": "01:34:26",
     "Channel": "neox",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "The Lost Boys",
+    "MovieYear": 1987,
     "FileSizeGB": "2,50 GB"
   },
   {
@@ -8507,8 +8493,8 @@
     "BitRate": 6043,
     "Duration": "01:45:28",
     "Channel": "Realmadrid TV",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "WarGames",
+    "MovieYear": 1983,
     "FileSizeGB": "4,45 GB"
   },
   {
@@ -8549,8 +8535,8 @@
     "BitRate": 2436,
     "Duration": "01:30:12",
     "Channel": "",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "The Call Up",
+    "MovieYear": 2016,
     "FileSizeGB": "1,54 GB"
   },
   {
@@ -8605,8 +8591,8 @@
     "BitRate": 3714,
     "Duration": "01:53:04",
     "Channel": "neox",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Jurassic World: Fallen Kingdom",
+    "MovieYear": 2018,
     "FileSizeGB": "2,93 GB"
   },
   {
@@ -8619,8 +8605,8 @@
     "BitRate": 4733,
     "Duration": "02:16:41",
     "Channel": "Telecinco",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Jurassic World Dominion",
+    "MovieYear": 2022,
     "FileSizeGB": "4,52 GB"
   },
   {
@@ -8647,8 +8633,8 @@
     "BitRate": 4313,
     "Duration": "01:35:56",
     "Channel": "Be Mad",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "The Vanishing",
+    "MovieYear": 2019,
     "FileSizeGB": "2,89 GB"
   },
   {
@@ -8661,8 +8647,8 @@
     "BitRate": 4073,
     "Duration": "01:38:32",
     "Channel": "neox",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "The Making of \u0027Kill Bill Vol. 1\u0027",
+    "MovieYear": 2003,
     "FileSizeGB": "2,80 GB"
   },
   {
@@ -8675,8 +8661,8 @@
     "BitRate": 3877,
     "Duration": "01:58:46",
     "Channel": "neox",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Kill Bill: Vol. 2",
+    "MovieYear": 2004,
     "FileSizeGB": "3,22 GB"
   },
   {
@@ -8731,8 +8717,8 @@
     "BitRate": 4205,
     "Duration": "01:50:11",
     "Channel": "Telemadrid",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "K-PAX",
+    "MovieYear": 2001,
     "FileSizeGB": "3,24 GB"
   },
   {
@@ -8801,8 +8787,8 @@
     "BitRate": 4277,
     "Duration": "01:26:20",
     "Channel": "Paramount",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "The Cabin in the Woods",
+    "MovieYear": 2012,
     "FileSizeGB": "2,58 GB"
   },
   {
@@ -8885,8 +8871,8 @@
     "BitRate": 4323,
     "Duration": "01:34:29",
     "Channel": "Telemadrid",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "The House on Carroll Street",
+    "MovieYear": 1988,
     "FileSizeGB": "2,85 GB"
   },
   {
@@ -8913,8 +8899,8 @@
     "BitRate": 3196,
     "Duration": "01:44:31",
     "Channel": "La 1",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Crooked House",
+    "MovieYear": 2017,
     "FileSizeGB": "2,33 GB"
   },
   {
@@ -8955,8 +8941,8 @@
     "BitRate": 4385,
     "Duration": "01:54:41",
     "Channel": "neox",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Full Metal Jacket",
+    "MovieYear": 1987,
     "FileSizeGB": "3,51 GB"
   },
   {
@@ -9123,8 +9109,8 @@
     "BitRate": 4310,
     "Duration": "02:35:53",
     "Channel": "Be Mad",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "The Thin Red Line",
+    "MovieYear": 1998,
     "FileSizeGB": "4,69 GB"
   },
   {
@@ -9165,8 +9151,8 @@
     "BitRate": 4313,
     "Duration": "01:53:00",
     "Channel": "Be Mad",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "The Shape of Water",
+    "MovieYear": 2017,
     "FileSizeGB": "3,40 GB"
   },
   {
@@ -9221,8 +9207,8 @@
     "BitRate": 2837,
     "Duration": "01:43:33",
     "Channel": "La 2",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Cat on a Hot Tin Roof",
+    "MovieYear": 1958,
     "FileSizeGB": "2,05 GB"
   },
   {
@@ -9235,8 +9221,8 @@
     "BitRate": 2547,
     "Duration": "02:10:15",
     "Channel": "",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "The Big Short",
+    "MovieYear": 2015,
     "FileSizeGB": "2,32 GB"
   },
   {
@@ -9263,8 +9249,8 @@
     "BitRate": 4315,
     "Duration": "02:05:20",
     "Channel": "Be Mad",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "American Hustle",
+    "MovieYear": 2013,
     "FileSizeGB": "3,78 GB"
   },
   {
@@ -9291,8 +9277,8 @@
     "BitRate": 4146,
     "Duration": "01:37:20",
     "Channel": "Telemadrid",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "The Current War",
+    "MovieYear": 2018,
     "FileSizeGB": "2,82 GB"
   },
   {
@@ -9319,8 +9305,8 @@
     "BitRate": 2671,
     "Duration": "01:47:22",
     "Channel": "Telemadrid",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "The War of the Roses",
+    "MovieYear": 1989,
     "FileSizeGB": "2,00 GB"
   },
   {
@@ -9403,8 +9389,8 @@
     "BitRate": 3626,
     "Duration": "01:24:32",
     "Channel": "La 2",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "The Unbelievable Truth",
+    "MovieYear": 1990,
     "FileSizeGB": "2,14 GB"
   },
   {
@@ -9473,8 +9459,8 @@
     "BitRate": 2995,
     "Duration": "01:29:53",
     "Channel": "La sexta",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "\u041E\u0441\u0442\u0440\u043E\u0432 \u0441\u043E\u043A\u0440\u043E\u0432\u0438\u0449",
+    "MovieYear": 1971,
     "FileSizeGB": "1,88 GB"
   },
   {
@@ -9501,8 +9487,8 @@
     "BitRate": 4311,
     "Duration": "01:30:33",
     "Channel": "Be Mad",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Girl with a Pearl Earring",
+    "MovieYear": 2003,
     "FileSizeGB": "2,73 GB"
   },
   {
@@ -9515,8 +9501,8 @@
     "BitRate": 4321,
     "Duration": "01:37:52",
     "Channel": "Be Mad",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "The Jewel of the Nile",
+    "MovieYear": 1985,
     "FileSizeGB": "2,95 GB"
   },
   {
@@ -9543,8 +9529,8 @@
     "BitRate": 2554,
     "Duration": "01:59:38",
     "Channel": "La 1",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "The Book Thief",
+    "MovieYear": 2013,
     "FileSizeGB": "2,13 GB"
   },
   {
@@ -9585,8 +9571,8 @@
     "BitRate": 3629,
     "Duration": "03:00:55",
     "Channel": "La 2",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Schindler\u0027s List",
+    "MovieYear": 1993,
     "FileSizeGB": "4,59 GB"
   },
   {
@@ -9655,8 +9641,8 @@
     "BitRate": 4318,
     "Duration": "01:27:31",
     "Channel": "Be Mad",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "The Fly",
+    "MovieYear": 1986,
     "FileSizeGB": "2,64 GB"
   },
   {
@@ -9683,8 +9669,8 @@
     "BitRate": 4305,
     "Duration": "02:08:40",
     "Channel": "Paramount",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "A Clockwork Orange",
+    "MovieYear": 1971,
     "FileSizeGB": "3,87 GB"
   },
   {
@@ -9767,8 +9753,8 @@
     "BitRate": 2443,
     "Duration": "02:07:47",
     "Channel": "",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Verdens verste menneske",
+    "MovieYear": 2021,
     "FileSizeGB": "2,18 GB"
   },
   {
@@ -9949,8 +9935,8 @@
     "BitRate": 2518,
     "Duration": "01:37:11",
     "Channel": "",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "White Bird in a Blizzard",
+    "MovieYear": 2014,
     "FileSizeGB": "1,71 GB"
   },
   {
@@ -10075,8 +10061,8 @@
     "BitRate": 4072,
     "Duration": "01:51:48",
     "Channel": "nova",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "The Theory of Everything",
+    "MovieYear": 2014,
     "FileSizeGB": "3,18 GB"
   },
   {
@@ -10117,8 +10103,8 @@
     "BitRate": 1911,
     "Duration": "01:41:53",
     "Channel": "La 2",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "La trastienda",
+    "MovieYear": 1976,
     "FileSizeGB": "1,36 GB"
   },
   {
@@ -10131,8 +10117,8 @@
     "BitRate": 3963,
     "Duration": "02:00:37",
     "Channel": "cuatro",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "The Last Castle",
+    "MovieYear": 2001,
     "FileSizeGB": "3,34 GB"
   },
   {
@@ -10159,8 +10145,8 @@
     "BitRate": 2987,
     "Duration": "01:47:25",
     "Channel": "La 2",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Rear Window",
+    "MovieYear": 1954,
     "FileSizeGB": "2,24 GB"
   },
   {
@@ -10201,8 +10187,8 @@
     "BitRate": 3112,
     "Duration": "01:32:27",
     "Channel": "La 2",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Life of Brian",
+    "MovieYear": 1979,
     "FileSizeGB": "2,01 GB"
   },
   {
@@ -10229,8 +10215,8 @@
     "BitRate": 4281,
     "Duration": "01:48:06",
     "Channel": "Paramount",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "La vita \u00E8 bella",
+    "MovieYear": 1997,
     "FileSizeGB": "3,23 GB"
   },
   {
@@ -10299,8 +10285,8 @@
     "BitRate": 383,
     "Duration": "01:44:08",
     "Channel": "",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Time Lapse",
+    "MovieYear": 2014,
     "FileSizeGB": "0,28 GB"
   },
   {
@@ -10313,8 +10299,8 @@
     "BitRate": 4316,
     "Duration": "01:51:51",
     "Channel": "Be Mad",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Dangerous Liaisons",
+    "MovieYear": 1988,
     "FileSizeGB": "3,37 GB"
   },
   {
@@ -10481,8 +10467,8 @@
     "BitRate": 4223,
     "Duration": "03:05:20",
     "Channel": "TRECE",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Lawrence of Arabia",
+    "MovieYear": 1962,
     "FileSizeGB": "5,47 GB"
   },
   {
@@ -10523,8 +10509,8 @@
     "BitRate": 4505,
     "Duration": "02:01:54",
     "Channel": "La 1",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Legends of the Fall",
+    "MovieYear": 1994,
     "FileSizeGB": "3,84 GB"
   },
   {
@@ -10579,8 +10565,8 @@
     "BitRate": 2691,
     "Duration": "03:31:18",
     "Channel": "La 1",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Gone with the Wind",
+    "MovieYear": 1939,
     "FileSizeGB": "3,97 GB"
   },
   {
@@ -10649,8 +10635,8 @@
     "BitRate": 3305,
     "Duration": "01:55:47",
     "Channel": "cuatro",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Los 33",
+    "MovieYear": 2021,
     "FileSizeGB": "2,67 GB"
   },
   {
@@ -10677,8 +10663,8 @@
     "BitRate": 2419,
     "Duration": "01:55:58",
     "Channel": "",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "The Post",
+    "MovieYear": 2017,
     "FileSizeGB": "1,96 GB"
   },
   {
@@ -10733,8 +10719,8 @@
     "BitRate": 4655,
     "Duration": "01:38:40",
     "Channel": "Telemadrid",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "The Ghost and the Darkness",
+    "MovieYear": 1996,
     "FileSizeGB": "3,21 GB"
   },
   {
@@ -10747,8 +10733,8 @@
     "BitRate": 2188,
     "Duration": "01:45:09",
     "Channel": "La 1",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Descendants",
+    "MovieYear": 2015,
     "FileSizeGB": "1,61 GB"
   },
   {
@@ -10761,8 +10747,8 @@
     "BitRate": 4231,
     "Duration": "03:30:45",
     "Channel": "Telemadrid",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "The Ten Commandments",
+    "MovieYear": 1956,
     "FileSizeGB": "6,23 GB"
   },
   {
@@ -10817,8 +10803,8 @@
     "BitRate": 3645,
     "Duration": "01:47:04",
     "Channel": "La sexta",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "The Sisters Brothers",
+    "MovieYear": 2018,
     "FileSizeGB": "2,73 GB"
   },
   {
@@ -10831,8 +10817,8 @@
     "BitRate": 3166,
     "Duration": "01:37:02",
     "Channel": "",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "The Ides of March",
+    "MovieYear": 2011,
     "FileSizeGB": "2,15 GB"
   },
   {
@@ -10873,8 +10859,8 @@
     "BitRate": 3737,
     "Duration": "02:09:51",
     "Channel": "neox",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "The Hunger Games: Catching Fire",
+    "MovieYear": 2013,
     "FileSizeGB": "3,39 GB"
   },
   {
@@ -10887,8 +10873,8 @@
     "BitRate": 3499,
     "Duration": "01:45:50",
     "Channel": "neox",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "The Hunger Games: Mockingjay - Part 1",
+    "MovieYear": 2014,
     "FileSizeGB": "2,59 GB"
   },
   {
@@ -10901,8 +10887,8 @@
     "BitRate": 3168,
     "Duration": "01:59:50",
     "Channel": "neox",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "The Hunger Games: Mockingjay - Part 2",
+    "MovieYear": 2015,
     "FileSizeGB": "2,65 GB"
   },
   {
@@ -10957,8 +10943,8 @@
     "BitRate": 3347,
     "Duration": "02:36:37",
     "Channel": "neox",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "The Hateful Eight",
+    "MovieYear": 2015,
     "FileSizeGB": "3,66 GB"
   },
   {
@@ -10999,8 +10985,8 @@
     "BitRate": 3216,
     "Duration": "01:33:18",
     "Channel": "La 1",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "The Pelayos",
+    "MovieYear": 2012,
     "FileSizeGB": "2,10 GB"
   },
   {
@@ -11013,8 +10999,8 @@
     "BitRate": 2884,
     "Duration": "02:00:19",
     "Channel": "Antena 3",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "The Next Three Days",
+    "MovieYear": 2010,
     "FileSizeGB": "2,42 GB"
   },
   {
@@ -11111,8 +11097,8 @@
     "BitRate": 4044,
     "Duration": "02:15:38",
     "Channel": "La 2",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Kelly\u0027s Heroes",
+    "MovieYear": 1970,
     "FileSizeGB": "3,83 GB"
   },
   {
@@ -11125,8 +11111,8 @@
     "BitRate": 4321,
     "Duration": "01:38:23",
     "Channel": "Be Mad",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Les Visiteurs",
+    "MovieYear": 1993,
     "FileSizeGB": "2,97 GB"
   },
   {
@@ -11139,8 +11125,8 @@
     "BitRate": 4321,
     "Duration": "01:48:40",
     "Channel": "Be Mad",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Les Couloirs du temps : Les Visiteurs II",
+    "MovieYear": 1998,
     "FileSizeGB": "3,28 GB"
   },
   {
@@ -11153,8 +11139,8 @@
     "BitRate": 4321,
     "Duration": "01:39:44",
     "Channel": "Be Mad",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Les Visiteurs : La R\u00E9volution",
+    "MovieYear": 2016,
     "FileSizeGB": "3,01 GB"
   },
   {
@@ -11181,8 +11167,8 @@
     "BitRate": 3221,
     "Duration": "01:51:50",
     "Channel": "La 1",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Loving Pablo",
+    "MovieYear": 2017,
     "FileSizeGB": "2,52 GB"
   },
   {
@@ -11307,8 +11293,8 @@
     "BitRate": 4496,
     "Duration": "01:45:25",
     "Channel": "RTVE",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Madame Curie",
+    "MovieYear": 1943,
     "FileSizeGB": "3,31 GB"
   },
   {
@@ -11335,8 +11321,8 @@
     "BitRate": 3251,
     "Duration": "01:45:49",
     "Channel": "La 2",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Mean Streets",
+    "MovieYear": 1973,
     "FileSizeGB": "2,40 GB"
   },
   {
@@ -11377,8 +11363,8 @@
     "BitRate": 4306,
     "Duration": "01:38:56",
     "Channel": "Telemadrid",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Poison Ivy",
+    "MovieYear": 1992,
     "FileSizeGB": "2,98 GB"
   },
   {
@@ -11419,8 +11405,8 @@
     "BitRate": 4323,
     "Duration": "01:20:49",
     "Channel": "squirrel",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Radin !",
+    "MovieYear": 2016,
     "FileSizeGB": "2,44 GB"
   },
   {
@@ -11461,8 +11447,8 @@
     "BitRate": 3808,
     "Duration": "01:41:50",
     "Channel": "neox",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Mars Attacks!",
+    "MovieYear": 1996,
     "FileSizeGB": "2,71 GB"
   },
   {
@@ -11489,8 +11475,8 @@
     "BitRate": 4034,
     "Duration": "01:57:37",
     "Channel": "Telemadrid",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "After.Life",
+    "MovieYear": 2009,
     "FileSizeGB": "3,31 GB"
   },
   {
@@ -11559,8 +11545,8 @@
     "BitRate": 4315,
     "Duration": "02:03:33",
     "Channel": "Be Mad",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "The Matrix",
+    "MovieYear": 1999,
     "FileSizeGB": "3,72 GB"
   },
   {
@@ -11573,8 +11559,8 @@
     "BitRate": 4317,
     "Duration": "02:02:39",
     "Channel": "Be Mad",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "The Matrix Reloaded",
+    "MovieYear": 2003,
     "FileSizeGB": "3,70 GB"
   },
   {
@@ -11587,8 +11573,8 @@
     "BitRate": 4316,
     "Duration": "01:54:55",
     "Channel": "Be Mad",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "The Matrix Revolutions",
+    "MovieYear": 2003,
     "FileSizeGB": "3,47 GB"
   },
   {
@@ -11601,8 +11587,8 @@
     "BitRate": 2903,
     "Duration": "02:27:54",
     "Channel": "",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "The Matrix Resurrections",
+    "MovieYear": 2021,
     "FileSizeGB": "3,00 GB"
   },
   {
@@ -11643,8 +11629,8 @@
     "BitRate": 3593,
     "Duration": "02:08:04",
     "Channel": "La 1",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "As Good as It Gets",
+    "MovieYear": 1997,
     "FileSizeGB": "3,21 GB"
   },
   {
@@ -11657,8 +11643,8 @@
     "BitRate": 3745,
     "Duration": "01:28:02",
     "Channel": "La 1",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "My Week with Marilyn",
+    "MovieYear": 2011,
     "FileSizeGB": "2,30 GB"
   },
   {
@@ -11769,8 +11755,8 @@
     "BitRate": 4007,
     "Duration": "02:00:41",
     "Channel": "La sexta",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Mission: Impossible II",
+    "MovieYear": 2000,
     "FileSizeGB": "3,38 GB"
   },
   {
@@ -11783,8 +11769,8 @@
     "BitRate": 4372,
     "Duration": "01:54:02",
     "Channel": "cuatro",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Mission: Impossible III",
+    "MovieYear": 2006,
     "FileSizeGB": "3,48 GB"
   },
   {
@@ -11797,8 +11783,8 @@
     "BitRate": 3990,
     "Duration": "02:07:42",
     "Channel": "La sexta",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Mission: Impossible - Ghost Protocol",
+    "MovieYear": 2011,
     "FileSizeGB": "3,56 GB"
   },
   {
@@ -11811,8 +11797,8 @@
     "BitRate": 4182,
     "Duration": "01:59:46",
     "Channel": "Telemadrid",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Mission: Impossible - Rogue Nation",
+    "MovieYear": 2015,
     "FileSizeGB": "3,50 GB"
   },
   {
@@ -11825,8 +11811,8 @@
     "BitRate": 3346,
     "Duration": "02:13:39",
     "Channel": "cuatro",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Mission: Impossible - Fallout",
+    "MovieYear": 2018,
     "FileSizeGB": "3,12 GB"
   },
   {
@@ -11867,8 +11853,8 @@
     "BitRate": 2134,
     "Duration": "01:19:56",
     "Channel": "",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Most Beautiful Island",
+    "MovieYear": 2017,
     "FileSizeGB": "1,19 GB"
   },
   {
@@ -11923,8 +11909,8 @@
     "BitRate": 3018,
     "Duration": "02:26:34",
     "Channel": "",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Mulholland Drive",
+    "MovieYear": 2001,
     "FileSizeGB": "3,09 GB"
   },
   {
@@ -12049,8 +12035,8 @@
     "BitRate": 2997,
     "Duration": "01:54:36",
     "Channel": "La 2",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Network",
+    "MovieYear": 1976,
     "FileSizeGB": "2,40 GB"
   },
   {
@@ -12077,8 +12063,8 @@
     "BitRate": 4285,
     "Duration": "01:49:07",
     "Channel": "Paramount",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Nightcrawlers",
+    "MovieYear": 2013,
     "FileSizeGB": "3,27 GB"
   },
   {
@@ -12091,8 +12077,8 @@
     "BitRate": 4272,
     "Duration": "01:51:53",
     "Channel": "Paramount",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "No Country for Old Men",
+    "MovieYear": 2007,
     "FileSizeGB": "3,34 GB"
   },
   {
@@ -12105,8 +12091,8 @@
     "BitRate": 3695,
     "Duration": "01:45:43",
     "Channel": "La 1",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "No Way Out",
+    "MovieYear": 1987,
     "FileSizeGB": "2,73 GB"
   },
   {
@@ -12133,8 +12119,8 @@
     "BitRate": 3526,
     "Duration": "01:39:17",
     "Channel": "Telemadrid",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Night at the Museum",
+    "MovieYear": 2006,
     "FileSizeGB": "2,45 GB"
   },
   {
@@ -12147,8 +12133,8 @@
     "BitRate": 3544,
     "Duration": "02:35:30",
     "Channel": "La 2",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Novecento",
+    "MovieYear": 1976,
     "FileSizeGB": "3,85 GB"
   },
   {
@@ -12161,8 +12147,8 @@
     "BitRate": 3429,
     "Duration": "02:23:14",
     "Channel": "La 2",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Novecento",
+    "MovieYear": 1976,
     "FileSizeGB": "3,43 GB"
   },
   {
@@ -12189,8 +12175,8 @@
     "BitRate": 4325,
     "Duration": "01:27:11",
     "Channel": "Be Mad",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "What We Did on Our Holiday",
+    "MovieYear": 2014,
     "FileSizeGB": "2,63 GB"
   },
   {
@@ -12203,8 +12189,8 @@
     "BitRate": 8214,
     "Duration": "01:49:34",
     "Channel": "",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Nueve reinas",
+    "MovieYear": 2000,
     "FileSizeGB": "6,29 GB"
   },
   {
@@ -12259,8 +12245,8 @@
     "BitRate": 4018,
     "Duration": "01:53:51",
     "Channel": "neox",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Ocean\u0027s Twelve",
+    "MovieYear": 2004,
     "FileSizeGB": "3,20 GB"
   },
   {
@@ -12273,8 +12259,8 @@
     "BitRate": 4555,
     "Duration": "01:51:21",
     "Channel": "La 1",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Ocean\u0027s Thirteen",
+    "MovieYear": 2007,
     "FileSizeGB": "3,54 GB"
   },
   {
@@ -12343,8 +12329,8 @@
     "BitRate": 3889,
     "Duration": "01:59:56",
     "Channel": "",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "\uC62C\uB4DC\uBCF4\uC774",
+    "MovieYear": 2003,
     "FileSizeGB": "3,26 GB"
   },
   {
@@ -12357,8 +12343,8 @@
     "BitRate": 4096,
     "Duration": "01:34:34",
     "Channel": "La sexta",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "\uC62C\uB4DC\uBCF4\uC774",
+    "MovieYear": 2003,
     "FileSizeGB": "2,71 GB"
   },
   {
@@ -12553,8 +12539,8 @@
     "BitRate": 3816,
     "Duration": "01:54:40",
     "Channel": "cuatro",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Jurassic Park",
+    "MovieYear": 1993,
     "FileSizeGB": "3,06 GB"
   },
   {
@@ -12567,8 +12553,8 @@
     "BitRate": 2239,
     "Duration": "01:56:14",
     "Channel": "clan",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "The Lost World: Jurassic Park",
+    "MovieYear": 1997,
     "FileSizeGB": "1,82 GB"
   },
   {
@@ -12581,8 +12567,8 @@
     "BitRate": 3664,
     "Duration": "01:20:14",
     "Channel": "cuatro",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Jurassic Park III",
+    "MovieYear": 2001,
     "FileSizeGB": "2,05 GB"
   },
   {
@@ -12609,8 +12595,8 @@
     "BitRate": 4321,
     "Duration": "02:41:22",
     "Channel": "Be Mad",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Patton",
+    "MovieYear": 1970,
     "FileSizeGB": "4,87 GB"
   },
   {
@@ -12637,8 +12623,8 @@
     "BitRate": 4286,
     "Duration": "01:49:34",
     "Channel": "Paramount",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Paycheck",
+    "MovieYear": 2003,
     "FileSizeGB": "3,28 GB"
   },
   {
@@ -12763,8 +12749,8 @@
     "BitRate": 5393,
     "Duration": "01:24:04",
     "Channel": "",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Pi",
+    "MovieYear": 1998,
     "FileSizeGB": "3,17 GB"
   },
   {
@@ -12777,8 +12763,8 @@
     "BitRate": 3007,
     "Duration": "01:44:45",
     "Channel": "La 2",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Pierrot le fou",
+    "MovieYear": 1965,
     "FileSizeGB": "2,20 GB"
   },
   {
@@ -12791,8 +12777,8 @@
     "BitRate": 4131,
     "Duration": "02:08:19",
     "Channel": "cuatro",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Pirates of the Caribbean: The Curse of the Black Pearl",
+    "MovieYear": 2003,
     "FileSizeGB": "3,70 GB"
   },
   {
@@ -12805,8 +12791,8 @@
     "BitRate": 4311,
     "Duration": "02:14:33",
     "Channel": "cuatro",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Pirates of the Caribbean: Dead Man\u0027s Chest",
+    "MovieYear": 2006,
     "FileSizeGB": "4,05 GB"
   },
   {
@@ -12819,8 +12805,8 @@
     "BitRate": 4067,
     "Duration": "02:32:44",
     "Channel": "cuatro",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Pirates of the Caribbean: At World\u0027s End",
+    "MovieYear": 2007,
     "FileSizeGB": "4,34 GB"
   },
   {
@@ -12833,8 +12819,8 @@
     "BitRate": 3873,
     "Duration": "02:01:35",
     "Channel": "cuatro",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Pirates of the Caribbean: On Stranger Tides",
+    "MovieYear": 2011,
     "FileSizeGB": "3,29 GB"
   },
   {
@@ -12847,8 +12833,8 @@
     "BitRate": 4248,
     "Duration": "01:59:25",
     "Channel": "cuatro",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Pirates of the Caribbean: Dead Men Tell No Tales",
+    "MovieYear": 2017,
     "FileSizeGB": "3,54 GB"
   },
   {
@@ -12861,8 +12847,8 @@
     "BitRate": 3042,
     "Duration": "01:22:15",
     "Channel": "La 1",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Pisito de solteras",
+    "MovieYear": 1973,
     "FileSizeGB": "1,75 GB"
   },
   {
@@ -12931,8 +12917,8 @@
     "BitRate": 4547,
     "Duration": "01:52:02",
     "Channel": "Realmadrid TV",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Platoon",
+    "MovieYear": 1986,
     "FileSizeGB": "3,56 GB"
   },
   {
@@ -12945,8 +12931,8 @@
     "BitRate": 4315,
     "Duration": "01:51:14",
     "Channel": "Be Mad",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Pleasantville",
+    "MovieYear": 1998,
     "FileSizeGB": "3,35 GB"
   },
   {
@@ -12959,8 +12945,8 @@
     "BitRate": 2554,
     "Duration": "01:46:22",
     "Channel": "",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Can You Ever Forgive Me?",
+    "MovieYear": 2018,
     "FileSizeGB": "1,90 GB"
   },
   {
@@ -13001,8 +12987,8 @@
     "BitRate": 3970,
     "Duration": "01:35:32",
     "Channel": "cuatro",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "The Meg",
+    "MovieYear": 2018,
     "FileSizeGB": "2,65 GB"
   },
   {
@@ -13015,8 +13001,8 @@
     "BitRate": 3604,
     "Duration": "01:26:07",
     "Channel": "cuatro",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Prey",
+    "MovieYear": 2022,
     "FileSizeGB": "2,17 GB"
   },
   {
@@ -13057,8 +13043,8 @@
     "BitRate": 4208,
     "Duration": "01:42:57",
     "Channel": "Telemadrid",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "\u0E19\u0E32\u0E07\u0E19\u0E32\u0E01",
+    "MovieYear": 1999,
     "FileSizeGB": "3,03 GB"
   },
   {
@@ -13155,8 +13141,8 @@
     "BitRate": 4672,
     "Duration": "01:46:13",
     "Channel": "",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Project Almanac",
+    "MovieYear": 2015,
     "FileSizeGB": "3,47 GB"
   },
   {
@@ -13225,8 +13211,8 @@
     "BitRate": 2809,
     "Duration": "02:04:34",
     "Channel": "La 2",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "It\u0027s a Wonderful Life",
+    "MovieYear": 1946,
     "FileSizeGB": "2,44 GB"
   },
   {
@@ -13281,8 +13267,8 @@
     "BitRate": 3517,
     "Duration": "01:59:45",
     "Channel": "Telemadrid",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "The Russians Are Coming! The Russians Are Coming!",
+    "MovieYear": 1966,
     "FileSizeGB": "2,94 GB"
   },
   {
@@ -13309,8 +13295,8 @@
     "BitRate": 4706,
     "Duration": "01:30:19",
     "Channel": "",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Jeux d\u0027enfants",
+    "MovieYear": 2003,
     "FileSizeGB": "2,97 GB"
   },
   {
@@ -13351,8 +13337,8 @@
     "BitRate": 6039,
     "Duration": "02:05:21",
     "Channel": "Realmadrid TV",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Rain Man",
+    "MovieYear": 1988,
     "FileSizeGB": "5,29 GB"
   },
   {
@@ -13365,8 +13351,8 @@
     "BitRate": 3085,
     "Duration": "01:26:09",
     "Channel": "La 1",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "First Blood",
+    "MovieYear": 1982,
     "FileSizeGB": "1,86 GB"
   },
   {
@@ -13379,8 +13365,8 @@
     "BitRate": 4312,
     "Duration": "01:28:39",
     "Channel": "Be Mad",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Rambo: First Blood Part II",
+    "MovieYear": 1985,
     "FileSizeGB": "2,67 GB"
   },
   {
@@ -13393,8 +13379,8 @@
     "BitRate": 4319,
     "Duration": "01:32:30",
     "Channel": "Be Mad",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Rambo III",
+    "MovieYear": 1988,
     "FileSizeGB": "2,79 GB"
   },
   {
@@ -13407,8 +13393,8 @@
     "BitRate": 3129,
     "Duration": "01:26:37",
     "Channel": "cuatro",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Rambo: Last Blood",
+    "MovieYear": 2019,
     "FileSizeGB": "1,89 GB"
   },
   {
@@ -13435,8 +13421,8 @@
     "BitRate": 4319,
     "Duration": "01:46:03",
     "Channel": "Be Mad",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Rebel Without a Cause",
+    "MovieYear": 1955,
     "FileSizeGB": "3,20 GB"
   },
   {
@@ -13449,8 +13435,8 @@
     "BitRate": 4317,
     "Duration": "01:23:57",
     "Channel": "Be Mad",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Valley Girl",
+    "MovieYear": 1983,
     "FileSizeGB": "2,53 GB"
   },
   {
@@ -13505,8 +13491,8 @@
     "BitRate": 4375,
     "Duration": "01:38:49",
     "Channel": "cuatro",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Back to the Future Part II",
+    "MovieYear": 1989,
     "FileSizeGB": "3,02 GB"
   },
   {
@@ -13519,8 +13505,8 @@
     "BitRate": 4410,
     "Duration": "01:46:41",
     "Channel": "cuatro",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Back to the Future Part III",
+    "MovieYear": 1990,
     "FileSizeGB": "3,29 GB"
   },
   {
@@ -13547,8 +13533,8 @@
     "BitRate": 4313,
     "Duration": "01:32:22",
     "Channel": "Be Mad",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Replicas",
+    "MovieYear": 2018,
     "FileSizeGB": "2,78 GB"
   },
   {
@@ -13631,8 +13617,8 @@
     "BitRate": 4313,
     "Duration": "01:31:41",
     "Channel": "Be Mad",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Risky Business",
+    "MovieYear": 1983,
     "FileSizeGB": "2,76 GB"
   },
   {
@@ -13673,8 +13659,8 @@
     "BitRate": 4321,
     "Duration": "01:40:35",
     "Channel": "Be Mad",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Robin and Marian",
+    "MovieYear": 1976,
     "FileSizeGB": "3,04 GB"
   },
   {
@@ -13701,8 +13687,8 @@
     "BitRate": 5883,
     "Duration": "01:52:17",
     "Channel": "Be Mad",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Rocky",
+    "MovieYear": 1976,
     "FileSizeGB": "4,61 GB"
   },
   {
@@ -13715,8 +13701,8 @@
     "BitRate": 5887,
     "Duration": "01:51:14",
     "Channel": "Be Mad",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Rocky II",
+    "MovieYear": 1979,
     "FileSizeGB": "4,57 GB"
   },
   {
@@ -13729,8 +13715,8 @@
     "BitRate": 4546,
     "Duration": "01:31:50",
     "Channel": "Realmadrid TV",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Rocky III",
+    "MovieYear": 1982,
     "FileSizeGB": "2,92 GB"
   },
   {
@@ -13743,8 +13729,8 @@
     "BitRate": 4320,
     "Duration": "01:23:37",
     "Channel": "Be Mad",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Rocky Hollow",
+    "MovieYear": 1985,
     "FileSizeGB": "2,52 GB"
   },
   {
@@ -13827,8 +13813,8 @@
     "BitRate": 1894,
     "Duration": "01:58:24",
     "Channel": "",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "\u0421\u0430\u043B\u044E\u0442-7",
+    "MovieYear": 2017,
     "FileSizeGB": "1,57 GB"
   },
   {
@@ -13841,8 +13827,8 @@
     "BitRate": 5831,
     "Duration": "01:35:55",
     "Channel": "",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Blood Simple",
+    "MovieYear": 1985,
     "FileSizeGB": "3,91 GB"
   },
   {
@@ -13981,8 +13967,8 @@
     "BitRate": 3240,
     "Duration": "02:07:48",
     "Channel": "La 1",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Sense and Sensibility",
+    "MovieYear": 1995,
     "FileSizeGB": "2,89 GB"
   },
   {
@@ -14121,8 +14107,8 @@
     "BitRate": 4320,
     "Duration": "01:58:20",
     "Channel": "Be Mad",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Showgirls",
+    "MovieYear": 1995,
     "FileSizeGB": "3,57 GB"
   },
   {
@@ -14163,8 +14149,8 @@
     "BitRate": 3572,
     "Duration": "01:49:20",
     "Channel": "FDF",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Sicario: Day of the Soldado",
+    "MovieYear": 2018,
     "FileSizeGB": "2,73 GB"
   },
   {
@@ -14177,8 +14163,8 @@
     "BitRate": 4331,
     "Duration": "01:52:32",
     "Channel": "Paramount",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Seven Pounds",
+    "MovieYear": 2008,
     "FileSizeGB": "3,41 GB"
   },
   {
@@ -14191,8 +14177,8 @@
     "BitRate": 3086,
     "Duration": "01:36:23",
     "Channel": "La 1",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Derailed",
+    "MovieYear": 2005,
     "FileSizeGB": "2,08 GB"
   },
   {
@@ -14303,8 +14289,8 @@
     "BitRate": 3344,
     "Duration": "01:41:55",
     "Channel": "Telemadrid",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Wait Until Dark",
+    "MovieYear": 1967,
     "FileSizeGB": "2,38 GB"
   },
   {
@@ -14331,8 +14317,8 @@
     "BitRate": 4325,
     "Duration": "01:45:16",
     "Channel": "Be Mad",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Sommersby",
+    "MovieYear": 1993,
     "FileSizeGB": "3,18 GB"
   },
   {
@@ -14499,13 +14485,13 @@
     "BitRate": 3370,
     "Duration": "01:47:34",
     "Channel": "cuatro",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Star Trek Beyond",
+    "MovieYear": 2016,
     "FileSizeGB": "2,53 GB"
   },
   {
     "VolumeName": "PELICULAS",
-    "FileName": "Star Wars - El legado.mkv",
+    "FileName": "Star Wars - El legado (2007).mkv",
     "FileStatus": "",
     "FileDate": "2023-03-14T13:09:32.43",
     "FileSize": 3058039200,
@@ -14527,8 +14513,8 @@
     "BitRate": 3067,
     "Duration": "02:00:27",
     "Channel": "cuatro",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Rogue One: A Star Wars Story",
+    "MovieYear": 2016,
     "FileSizeGB": "2,58 GB"
   },
   {
@@ -14541,8 +14527,8 @@
     "BitRate": 4095,
     "Duration": "02:01:46",
     "Channel": "cuatro",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Star Wars: The Force Awakens",
+    "MovieYear": 2015,
     "FileSizeGB": "3,48 GB"
   },
   {
@@ -14555,8 +14541,8 @@
     "BitRate": 3559,
     "Duration": "02:07:05",
     "Channel": "FDF",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Star Wars: The Rise of Skywalker",
+    "MovieYear": 2019,
     "FileSizeGB": "3,16 GB"
   },
   {
@@ -14583,8 +14569,8 @@
     "BitRate": 4632,
     "Duration": "01:49:57",
     "Channel": "Be Mad",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Stargate",
+    "MovieYear": 1994,
     "FileSizeGB": "3,56 GB"
   },
   {
@@ -14625,8 +14611,8 @@
     "BitRate": 4285,
     "Duration": "01:36:56",
     "Channel": "Paramount",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Beverly Hills Cop",
+    "MovieYear": 1984,
     "FileSizeGB": "2,90 GB"
   },
   {
@@ -14639,8 +14625,8 @@
     "BitRate": 4287,
     "Duration": "01:34:53",
     "Channel": "Paramount",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Beverly Hills Cop II",
+    "MovieYear": 1987,
     "FileSizeGB": "2,84 GB"
   },
   {
@@ -14653,8 +14639,8 @@
     "BitRate": 4321,
     "Duration": "02:10:01",
     "Channel": "Be Mad",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Abar, the First Black Superman",
+    "MovieYear": 1977,
     "FileSizeGB": "3,92 GB"
   },
   {
@@ -14667,8 +14653,8 @@
     "BitRate": 4319,
     "Duration": "01:58:03",
     "Channel": "Be Mad",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Superman II",
+    "MovieYear": 1980,
     "FileSizeGB": "3,56 GB"
   },
   {
@@ -14681,8 +14667,8 @@
     "BitRate": 3186,
     "Duration": "01:28:20",
     "Channel": "La 2",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Suspiros de Espa\u00F1a (y Portugal)",
+    "MovieYear": 1995,
     "FileSizeGB": "1,97 GB"
   },
   {
@@ -14751,8 +14737,8 @@
     "BitRate": 4549,
     "Duration": "01:38:34",
     "Channel": "Realmadrid TV",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "The Terminator",
+    "MovieYear": 1984,
     "FileSizeGB": "3,13 GB"
   },
   {
@@ -14779,8 +14765,8 @@
     "BitRate": 4365,
     "Duration": "01:36:08",
     "Channel": "Telemadrid",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "La Nueve ou les Oubli\u00E9s de la victoire",
+    "MovieYear": 2010,
     "FileSizeGB": "2,93 GB"
   },
   {
@@ -14807,8 +14793,8 @@
     "BitRate": 4185,
     "Duration": "01:43:39",
     "Channel": "Telemadrid",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Gentlemen Of The World",
+    "MovieYear": 2019,
     "FileSizeGB": "3,03 GB"
   },
   {
@@ -14877,8 +14863,8 @@
     "BitRate": 4343,
     "Duration": "01:31:52",
     "Channel": "squirrel",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Behind the Scenes of Full Metal Jacket",
+    "MovieYear": 2005,
     "FileSizeGB": "2,79 GB"
   },
   {
@@ -14891,8 +14877,8 @@
     "BitRate": 4101,
     "Duration": "01:35:29",
     "Channel": "nova",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "The Lady in the Van",
+    "MovieYear": 2015,
     "FileSizeGB": "2,74 GB"
   },
   {
@@ -14905,8 +14891,8 @@
     "BitRate": 3948,
     "Duration": "01:22:54",
     "Channel": "Telemadrid",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "The Old Man \u0026 the Gun",
+    "MovieYear": 2018,
     "FileSizeGB": "2,29 GB"
   },
   {
@@ -15115,8 +15101,8 @@
     "BitRate": 1837,
     "Duration": "01:24:00",
     "Channel": "La 1",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "The Whole Truth",
+    "MovieYear": 2016,
     "FileSizeGB": "1,08 GB"
   },
   {
@@ -15171,8 +15157,8 @@
     "BitRate": 3999,
     "Duration": "01:42:37",
     "Channel": "cuatro",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Lara Croft: Tomb Raider - The Cradle of Life",
+    "MovieYear": 2003,
     "FileSizeGB": "2,87 GB"
   },
   {
@@ -15185,8 +15171,8 @@
     "BitRate": 4121,
     "Duration": "01:40:52",
     "Channel": "cuatro",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Top Gun",
+    "MovieYear": 1986,
     "FileSizeGB": "2,90 GB"
   },
   {
@@ -15199,8 +15185,8 @@
     "BitRate": 3708,
     "Duration": "02:10:15",
     "Channel": "",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Top Gun: Maverick",
+    "MovieYear": 2022,
     "FileSizeGB": "3,37 GB"
   },
   {
@@ -15227,8 +15213,8 @@
     "BitRate": 4320,
     "Duration": "02:06:01",
     "Channel": "Be Mad",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "\u7537\u306F\u3064\u3089\u3044\u3088 \u30D5\u30FC\u30C6\u30F3\u306E\u5BC5",
+    "MovieYear": 1970,
     "FileSizeGB": "3,80 GB"
   },
   {
@@ -15244,34 +15230,6 @@
     "MovieName": "Torremolinos 73",
     "MovieYear": 2003,
     "FileSizeGB": "1,84 GB"
-  },
-  {
-    "VolumeName": "PELICULAS",
-    "FileName": "Torrente 1 - El brazo tonto de la ley (1998).mkv",
-    "FileStatus": "",
-    "FileDate": "2024-04-13T14:45:41.677",
-    "FileSize": 2564342635,
-    "Quality": "1920x1080",
-    "BitRate": 3743,
-    "Duration": "01:31:19",
-    "Channel": "neox",
-    "MovieName": "",
-    "MovieYear": null,
-    "FileSizeGB": "2,39 GB"
-  },
-  {
-    "VolumeName": "PELICULAS",
-    "FileName": "Torrente 2 - Misi\u00F3n en Marbella (2001).mkv",
-    "FileStatus": "",
-    "FileDate": "2024-04-13T14:44:55.163",
-    "FileSize": 3070980855,
-    "Quality": "1920x1080",
-    "BitRate": 4567,
-    "Duration": "01:29:39",
-    "Channel": "neox",
-    "MovieName": "Torrente 2: Misi\u00F3n en Marbella",
-    "MovieYear": 2001,
-    "FileSizeGB": "2,86 GB"
   },
   {
     "VolumeName": "PELICULAS",
@@ -15297,8 +15255,8 @@
     "BitRate": 4652,
     "Duration": "01:23:28",
     "Channel": "cuatro",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "The Transporter",
+    "MovieYear": 2002,
     "FileSizeGB": "2,71 GB"
   },
   {
@@ -15325,8 +15283,8 @@
     "BitRate": 4461,
     "Duration": "01:32:49",
     "Channel": "Telemadrid",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Transporter 3",
+    "MovieYear": 2008,
     "FileSizeGB": "2,89 GB"
   },
   {
@@ -15367,8 +15325,8 @@
     "BitRate": 4280,
     "Duration": "02:13:33",
     "Channel": "Paramount",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Thirteen Days",
+    "MovieYear": 2000,
     "FileSizeGB": "3,99 GB"
   },
   {
@@ -15395,8 +15353,8 @@
     "BitRate": 3091,
     "Duration": "01:59:43",
     "Channel": "La sexta",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "El guardi\u00E1n invisible",
+    "MovieYear": 2017,
     "FileSizeGB": "2,59 GB"
   },
   {
@@ -15409,8 +15367,8 @@
     "BitRate": 3121,
     "Duration": "01:51:45",
     "Channel": "La sexta",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Legado en los huesos",
+    "MovieYear": 2019,
     "FileSizeGB": "2,44 GB"
   },
   {
@@ -15423,8 +15381,8 @@
     "BitRate": 3676,
     "Duration": "01:25:55",
     "Channel": "La 2",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "La escopeta nacional",
+    "MovieYear": 1978,
     "FileSizeGB": "2,21 GB"
   },
   {
@@ -15437,8 +15395,8 @@
     "BitRate": 3451,
     "Duration": "01:46:32",
     "Channel": "La 2",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Patrimonio nacional",
+    "MovieYear": 1981,
     "FileSizeGB": "2,57 GB"
   },
   {
@@ -15451,8 +15409,8 @@
     "BitRate": 2721,
     "Duration": "01:38:44",
     "Channel": "8 Madrid",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Nacional III",
+    "MovieYear": 1982,
     "FileSizeGB": "1,88 GB"
   },
   {
@@ -15563,8 +15521,8 @@
     "BitRate": 2872,
     "Duration": "01:48:48",
     "Channel": "La 2",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "An American in Paris",
+    "MovieYear": 1951,
     "FileSizeGB": "2,18 GB"
   },
   {
@@ -15759,8 +15717,8 @@
     "BitRate": 4307,
     "Duration": "01:22:46",
     "Channel": "Be Mad",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "\u558B\u8840\u8857\u982D",
+    "MovieYear": 1990,
     "FileSizeGB": "2,49 GB"
   },
   {
@@ -15773,8 +15731,8 @@
     "BitRate": 4137,
     "Duration": "01:29:35",
     "Channel": "nova",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Wild Mountain Thyme",
+    "MovieYear": 2020,
     "FileSizeGB": "2,59 GB"
   },
   {
@@ -15815,8 +15773,8 @@
     "BitRate": 3188,
     "Duration": "01:23:40",
     "Channel": "La 2",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Una pareja perfecta",
+    "MovieYear": 1998,
     "FileSizeGB": "1,86 GB"
   },
   {
@@ -15899,8 +15857,8 @@
     "BitRate": 1941,
     "Duration": "01:43:20",
     "Channel": "La 1",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Let Him Go",
+    "MovieYear": 2020,
     "FileSizeGB": "1,40 GB"
   },
   {
@@ -15913,8 +15871,8 @@
     "BitRate": 3489,
     "Duration": "01:58:57",
     "Channel": "cuatro",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Man on Fire",
+    "MovieYear": 2004,
     "FileSizeGB": "2,90 GB"
   },
   {
@@ -15941,8 +15899,8 @@
     "BitRate": 3172,
     "Duration": "01:39:42",
     "Channel": "Telemadrid",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "True Grit",
+    "MovieYear": 2010,
     "FileSizeGB": "2,21 GB"
   },
   {
@@ -15997,8 +15955,8 @@
     "BitRate": 2877,
     "Duration": "01:35:00",
     "Channel": "La 1",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Verano 70",
+    "MovieYear": 1970,
     "FileSizeGB": "1,91 GB"
   },
   {
@@ -16025,8 +15983,8 @@
     "BitRate": 3962,
     "Duration": "01:30:52",
     "Channel": "nova",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Very Bad Things",
+    "MovieYear": 1998,
     "FileSizeGB": "2,52 GB"
   },
   {
@@ -16053,8 +16011,8 @@
     "BitRate": 2087,
     "Duration": "01:38:34",
     "Channel": "",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Senescent Vivarium",
+    "MovieYear": 2018,
     "FileSizeGB": "1,44 GB"
   },
   {
@@ -16109,8 +16067,8 @@
     "BitRate": 3086,
     "Duration": "02:20:58",
     "Channel": "La 2",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "West Side Story",
+    "MovieYear": 1961,
     "FileSizeGB": "3,04 GB"
   },
   {
@@ -16221,8 +16179,8 @@
     "BitRate": 4309,
     "Duration": "01:32:53",
     "Channel": "Paramount",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Zathura: A Space Adventure",
+    "MovieYear": 2005,
     "FileSizeGB": "2,80 GB"
   },
   {
@@ -16333,8 +16291,8 @@
     "BitRate": 3152,
     "Duration": "02:12:16",
     "Channel": "La 1",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "The Shawshank Redemption",
+    "MovieYear": 1994,
     "FileSizeGB": "2,91 GB"
   },
   {
@@ -16375,8 +16333,8 @@
     "BitRate": 4531,
     "Duration": "01:27:59",
     "Channel": "Telemadrid",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "When Harry Met Sally...",
+    "MovieYear": 1989,
     "FileSizeGB": "2,79 GB"
   },
   {
@@ -16473,8 +16431,8 @@
     "BitRate": 4262,
     "Duration": "03:35:46",
     "Channel": "Paramount",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Once Upon a Time in America",
+    "MovieYear": 1984,
     "FileSizeGB": "6,42 GB"
   },
   {
@@ -16585,8 +16543,8 @@
     "BitRate": 3261,
     "Duration": "01:51:18",
     "Channel": "La 1",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Die Hard 2",
+    "MovieYear": 1990,
     "FileSizeGB": "2,54 GB"
   },
   {
@@ -16599,8 +16557,8 @@
     "BitRate": 4131,
     "Duration": "01:58:40",
     "Channel": "cuatro",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Live Free or Die Hard",
+    "MovieYear": 2007,
     "FileSizeGB": "3,42 GB"
   },
   {
@@ -16613,8 +16571,8 @@
     "BitRate": 3758,
     "Duration": "01:27:51",
     "Channel": "cuatro",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "A Good Day to Die Hard",
+    "MovieYear": 2013,
     "FileSizeGB": "2,31 GB"
   },
   {
@@ -16725,8 +16683,8 @@
     "BitRate": 4385,
     "Duration": "01:30:24",
     "Channel": "Telemadrid",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "D.O.A.",
+    "MovieYear": 1988,
     "FileSizeGB": "2,77 GB"
   },
   {
@@ -16781,8 +16739,8 @@
     "BitRate": 4383,
     "Duration": "01:28:46",
     "Channel": "Telemadrid",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Fear",
+    "MovieYear": 1996,
     "FileSizeGB": "2,72 GB"
   },
   {
@@ -16801,7 +16759,7 @@
   },
   {
     "VolumeName": "PELICULAS",
-    "FileName": "Rambo 4 - John Rambo.mkv",
+    "FileName": "Rambo 4 - John Rambo (2008).mkv",
     "FileStatus": "",
     "FileDate": "2025-10-11T15:47:31.707",
     "FileSize": 2469573564,
@@ -16865,8 +16823,8 @@
     "BitRate": 4246,
     "Duration": "01:54:04",
     "Channel": "Paramount",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "What Happened to Monday",
+    "MovieYear": 2017,
     "FileSizeGB": "3,38 GB"
   },
   {
@@ -16893,8 +16851,8 @@
     "BitRate": 2532,
     "Duration": "01:33:53",
     "Channel": "La 2",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Tambi\u00E9n la lluvia",
+    "MovieYear": 2011,
     "FileSizeGB": "1,66 GB"
   },
   {
@@ -16949,8 +16907,8 @@
     "BitRate": 4295,
     "Duration": "01:23:16",
     "Channel": "Telemadrid",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "The Good Girl",
+    "MovieYear": 2002,
     "FileSizeGB": "2,50 GB"
   },
   {
@@ -17215,8 +17173,8 @@
     "BitRate": 4045,
     "Duration": "02:09:07",
     "Channel": "cuatro",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Kingsman: The Golden Circle",
+    "MovieYear": 2017,
     "FileSizeGB": "3,65 GB"
   },
   {
@@ -17243,8 +17201,8 @@
     "BitRate": 4326,
     "Duration": "01:53:34",
     "Channel": "Be Mad",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "The Russia House",
+    "MovieYear": 1990,
     "FileSizeGB": "3,43 GB"
   },
   {
@@ -17257,8 +17215,8 @@
     "BitRate": 3866,
     "Duration": "01:56:02",
     "Channel": "La 1",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Die Hard: With a Vengeance",
+    "MovieYear": 1995,
     "FileSizeGB": "3,13 GB"
   },
   {
@@ -17453,8 +17411,8 @@
     "BitRate": 4317,
     "Duration": "01:32:29",
     "Channel": "Be Mad",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "The Purge: Anarchy",
+    "MovieYear": 2014,
     "FileSizeGB": "2,79 GB"
   },
   {
@@ -17565,8 +17523,8 @@
     "BitRate": 3418,
     "Duration": "01:20:53",
     "Channel": "8 Madrid",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Ladri di biciclette",
+    "MovieYear": 1948,
     "FileSizeGB": "1,93 GB"
   },
   {
@@ -17621,8 +17579,8 @@
     "BitRate": 3665,
     "Duration": "01:37:27",
     "Channel": "Telemadrid",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Blink",
+    "MovieYear": 1993,
     "FileSizeGB": "2,50 GB"
   },
   {
@@ -17635,8 +17593,8 @@
     "BitRate": 3303,
     "Duration": "01:30:01",
     "Channel": "8 Madrid",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Una rosa de Francia",
+    "MovieYear": 2006,
     "FileSizeGB": "2,08 GB"
   },
   {
@@ -17655,7 +17613,7 @@
   },
   {
     "VolumeName": "PELICULAS",
-    "FileName": "2010, Odisea dos (1984).mkv",
+    "FileName": "2010 - Odisea dos (1984).mkv",
     "FileStatus": "",
     "FileDate": "2025-12-14T10:36:58.057",
     "FileSize": 1300236157,
@@ -17691,8 +17649,8 @@
     "BitRate": 4226,
     "Duration": "01:51:16",
     "Channel": "VEO 7",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "American Beauty",
+    "MovieYear": 1999,
     "FileSizeGB": "3,29 GB"
   },
   {
@@ -17719,8 +17677,8 @@
     "BitRate": 6259,
     "Duration": "01:26:32",
     "Channel": "",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "The Apology Line",
+    "MovieYear": 2011,
     "FileSizeGB": "3,78 GB"
   },
   {
@@ -17789,8 +17747,8 @@
     "BitRate": 4265,
     "Duration": "01:34:10",
     "Channel": "Be Mad",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "All Is Lost",
+    "MovieYear": 2013,
     "FileSizeGB": "2,81 GB"
   },
   {
@@ -17817,8 +17775,8 @@
     "BitRate": 2037,
     "Duration": "02:59:52",
     "Channel": "",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "The Wolf of Wall Street",
+    "MovieYear": 2013,
     "FileSizeGB": "2,56 GB"
   },
   {
@@ -17845,8 +17803,8 @@
     "BitRate": 4276,
     "Duration": "01:26:57",
     "Channel": "Paramount",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "They Live",
+    "MovieYear": 1988,
     "FileSizeGB": "2,60 GB"
   },
   {
@@ -17887,8 +17845,8 @@
     "BitRate": 3943,
     "Duration": "02:18:09",
     "Channel": "cuatro",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Harry Potter and the Philosopher\u0027s Stone",
+    "MovieYear": 2001,
     "FileSizeGB": "3,81 GB"
   },
   {
@@ -17901,8 +17859,8 @@
     "BitRate": 3769,
     "Duration": "02:25:55",
     "Channel": "cuatro",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Harry Potter and the Chamber of Secrets",
+    "MovieYear": 2002,
     "FileSizeGB": "3,84 GB"
   },
   {
@@ -17915,8 +17873,8 @@
     "BitRate": 3886,
     "Duration": "02:04:38",
     "Channel": "cuatro",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Harry Potter and the Prisoner of Azkaban",
+    "MovieYear": 2004,
     "FileSizeGB": "3,38 GB"
   },
   {
@@ -17929,8 +17887,8 @@
     "BitRate": 3717,
     "Duration": "02:18:00",
     "Channel": "cuatro",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Harry Potter and the Goblet of Fire",
+    "MovieYear": 2005,
     "FileSizeGB": "3,58 GB"
   },
   {
@@ -17943,8 +17901,8 @@
     "BitRate": 3337,
     "Duration": "02:18:09",
     "Channel": "cuatro",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Harry Potter and the Half-Blood Prince",
+    "MovieYear": 2009,
     "FileSizeGB": "3,22 GB"
   },
   {
@@ -17957,8 +17915,8 @@
     "BitRate": 4307,
     "Duration": "02:09:21",
     "Channel": "Be Mad",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Harry Potter and the Deathly Hallows: Part 1",
+    "MovieYear": 2010,
     "FileSizeGB": "3,89 GB"
   },
   {
@@ -17971,8 +17929,8 @@
     "BitRate": 3645,
     "Duration": "01:53:26",
     "Channel": "cuatro",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Harry Potter and the Deathly Hallows: Part 2",
+    "MovieYear": 2011,
     "FileSizeGB": "2,89 GB"
   },
   {
@@ -18111,8 +18069,8 @@
     "BitRate": 2672,
     "Duration": "02:31:22",
     "Channel": "clan",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Out of Africa",
+    "MovieYear": 1985,
     "FileSizeGB": "2,83 GB"
   },
   {
@@ -18209,8 +18167,8 @@
     "BitRate": 4301,
     "Duration": "01:46:00",
     "Channel": "Be Mad",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Valkirias",
+    "MovieYear": 2007,
     "FileSizeGB": "3,19 GB"
   },
   {
@@ -18223,8 +18181,8 @@
     "BitRate": 2771,
     "Duration": "01:55:52",
     "Channel": "Telemadrid",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Deadly Illusion",
+    "MovieYear": 1987,
     "FileSizeGB": "2,24 GB"
   },
   {
@@ -18237,8 +18195,8 @@
     "BitRate": 3626,
     "Duration": "02:03:14",
     "Channel": "cuatro",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Harry Potter and the Order of the Phoenix",
+    "MovieYear": 2007,
     "FileSizeGB": "3,12 GB"
   },
   {
@@ -18265,13 +18223,13 @@
     "BitRate": 3507,
     "Duration": "01:59:11",
     "Channel": "cuatro",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Fantastic Beasts and Where to Find Them",
+    "MovieYear": 2016,
     "FileSizeGB": "2,92 GB"
   },
   {
     "VolumeName": "PELICULAS",
-    "FileName": "Animales fant\u00E1sticos 2 - Los cr\u00EDmenes de Grindelwald (2028).mkv",
+    "FileName": "Animales fant\u00E1sticos 2 - Los cr\u00EDmenes de Grindelwald (2018).mkv",
     "FileStatus": "",
     "FileDate": "2026-01-06T15:14:52",
     "FileSize": 3128239716,
@@ -18321,8 +18279,8 @@
     "BitRate": 2463,
     "Duration": "01:52:42",
     "Channel": "8 Madrid",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "El crack dos",
+    "MovieYear": 1983,
     "FileSizeGB": "1,94 GB"
   },
   {
@@ -18363,8 +18321,8 @@
     "BitRate": 4346,
     "Duration": "01:45:44",
     "Channel": "squirrel",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "The Ultimate Gift",
+    "MovieYear": 2007,
     "FileSizeGB": "3,21 GB"
   },
   {
@@ -18433,8 +18391,8 @@
     "BitRate": 4040,
     "Duration": "02:12:07",
     "Channel": "La 1",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Mary Poppins",
+    "MovieYear": 1964,
     "FileSizeGB": "3,73 GB"
   },
   {
@@ -18447,8 +18405,8 @@
     "BitRate": 3465,
     "Duration": "01:54:51",
     "Channel": "La 1",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Pride \u0026 Prejudice",
+    "MovieYear": 2005,
     "FileSizeGB": "2,78 GB"
   },
   {
@@ -18489,8 +18447,8 @@
     "BitRate": 4235,
     "Duration": "01:56:58",
     "Channel": "VEO 7",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Live by Night",
+    "MovieYear": 2016,
     "FileSizeGB": "3,46 GB"
   },
   {
@@ -18503,8 +18461,8 @@
     "BitRate": 3433,
     "Duration": "01:31:52",
     "Channel": "La 1",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Two Weeks Notice",
+    "MovieYear": 2002,
     "FileSizeGB": "2,20 GB"
   },
   {
@@ -18545,8 +18503,8 @@
     "BitRate": 6335,
     "Duration": "01:21:38",
     "Channel": "cuatro",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Crank: High Voltage",
+    "MovieYear": 2009,
     "FileSizeGB": "3,61 GB"
   },
   {
@@ -18601,8 +18559,8 @@
     "BitRate": 1805,
     "Duration": "02:31:20",
     "Channel": "La 2",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Dune: Part Two",
+    "MovieYear": 2024,
     "FileSizeGB": "1,91 GB"
   },
   {
@@ -18615,8 +18573,8 @@
     "BitRate": 4309,
     "Duration": "02:36:41",
     "Channel": "Be Mad",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "The Aviator",
+    "MovieYear": 2004,
     "FileSizeGB": "4,72 GB"
   },
   {
@@ -18629,8 +18587,8 @@
     "BitRate": 4319,
     "Duration": "01:46:45",
     "Channel": "Be Mad",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "The Bone Collector",
+    "MovieYear": 1999,
     "FileSizeGB": "3,22 GB"
   },
   {
@@ -18699,8 +18657,8 @@
     "BitRate": 3200,
     "Duration": "02:59:30",
     "Channel": "Telemadrid",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "The Right Stuff",
+    "MovieYear": 1983,
     "FileSizeGB": "4,01 GB"
   },
   {
@@ -18713,8 +18671,8 @@
     "BitRate": 3932,
     "Duration": "02:24:04",
     "Channel": "neox",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Jackie Brown",
+    "MovieYear": 1997,
     "FileSizeGB": "3,96 GB"
   },
   {
@@ -18727,8 +18685,8 @@
     "BitRate": 4225,
     "Duration": "02:55:37",
     "Channel": "La 2",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "JFK",
+    "MovieYear": 1991,
     "FileSizeGB": "5,18 GB"
   },
   {
@@ -18769,8 +18727,8 @@
     "BitRate": 2512,
     "Duration": "01:39:43",
     "Channel": "8 Madrid",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Uncovered",
+    "MovieYear": 1995,
     "FileSizeGB": "1,75 GB"
   },
   {
@@ -18797,8 +18755,8 @@
     "BitRate": 4303,
     "Duration": "01:22:17",
     "Channel": "Be Mad",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Before I Go to Sleep",
+    "MovieYear": 2014,
     "FileSizeGB": "2,47 GB"
   },
   {
@@ -18951,8 +18909,8 @@
     "BitRate": 3022,
     "Duration": "01:52:24",
     "Channel": "La 2",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Ieri, oggi, domani",
+    "MovieYear": 1963,
     "FileSizeGB": "2,37 GB"
   },
   {
@@ -19167,20 +19125,6 @@
   },
   {
     "VolumeName": "PELICULAS",
-    "FileName": "La hija de Dios (2016).mkv",
-    "FileStatus": "",
-    "FileDate": "2026-03-13T18:37:53.067",
-    "FileSize": 2829190117,
-    "Quality": "1920x1080",
-    "BitRate": 4204,
-    "Duration": "01:29:42",
-    "Channel": "VEO 7",
-    "MovieName": "Exposed",
-    "MovieYear": 2016,
-    "FileSizeGB": "2,63 GB"
-  },
-  {
-    "VolumeName": "PELICULAS",
     "FileName": "La \u00FAltima casa a la izquierda (2009).mkv",
     "FileStatus": "",
     "FileDate": "2026-03-13T18:38:57.82",
@@ -19203,8 +19147,8 @@
     "BitRate": 4679,
     "Duration": "02:07:01",
     "Channel": "Realmadrid TV",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Das Leben der Anderen",
+    "MovieYear": 2006,
     "FileSizeGB": "4,15 GB"
   },
   {
@@ -19231,8 +19175,8 @@
     "BitRate": 4239,
     "Duration": "01:45:44",
     "Channel": "VEO 7",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Mad City",
+    "MovieYear": 1997,
     "FileSizeGB": "3,13 GB"
   },
   {
@@ -19259,8 +19203,8 @@
     "BitRate": 4320,
     "Duration": "01:37:32",
     "Channel": "Be Mad",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Enter the Dragon",
+    "MovieYear": 1973,
     "FileSizeGB": "2,94 GB"
   },
   {
@@ -19273,8 +19217,8 @@
     "BitRate": 4239,
     "Duration": "02:12:18",
     "Channel": "VEO 7",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "The Devil\u0027s Advocate",
+    "MovieYear": 1997,
     "FileSizeGB": "3,92 GB"
   },
   {
@@ -19301,8 +19245,8 @@
     "BitRate": 3630,
     "Duration": "02:00:35",
     "Channel": "La 1",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Fried Green Tomatoes",
+    "MovieYear": 1991,
     "FileSizeGB": "3,06 GB"
   },
   {
@@ -19343,8 +19287,8 @@
     "BitRate": 2522,
     "Duration": "01:50:59",
     "Channel": "La 2",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "La Syndicaliste",
+    "MovieYear": 2023,
     "FileSizeGB": "1,96 GB"
   },
   {
@@ -19357,8 +19301,8 @@
     "BitRate": 2252,
     "Duration": "01:30:19",
     "Channel": "La 2",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Blithe Spirit",
+    "MovieYear": 2020,
     "FileSizeGB": "1,42 GB"
   },
   {
@@ -19371,8 +19315,8 @@
     "BitRate": 2591,
     "Duration": "01:49:26",
     "Channel": "La 1",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "On the Basis of Sex",
+    "MovieYear": 2018,
     "FileSizeGB": "1,98 GB"
   },
   {
@@ -19399,8 +19343,8 @@
     "BitRate": 2950,
     "Duration": "01:59:45",
     "Channel": "La 2",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "The Apartment",
+    "MovieYear": 1960,
     "FileSizeGB": "2,47 GB"
   },
   {
@@ -19413,8 +19357,8 @@
     "BitRate": 4228,
     "Duration": "02:02:59",
     "Channel": "VEO 7",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "The Possession of Joel Delaney",
+    "MovieYear": 1972,
     "FileSizeGB": "3,63 GB"
   },
   {
@@ -19553,8 +19497,8 @@
     "BitRate": 4237,
     "Duration": "02:16:08",
     "Channel": "VEO 7",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Inherent Vice",
+    "MovieYear": 2014,
     "FileSizeGB": "4,03 GB"
   },
   {
@@ -19609,8 +19553,8 @@
     "BitRate": 2720,
     "Duration": "01:55:40",
     "Channel": "La 1",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Special Delivery",
+    "MovieYear": 2015,
     "FileSizeGB": "2,20 GB"
   },
   {
@@ -19623,8 +19567,8 @@
     "BitRate": 3226,
     "Duration": "01:27:24",
     "Channel": "8 Madrid",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Territorio comanche",
+    "MovieYear": 1997,
     "FileSizeGB": "1,97 GB"
   },
   {
@@ -19651,8 +19595,8 @@
     "BitRate": 3328,
     "Duration": "01:40:49",
     "Channel": "8 Madrid",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "El sue\u00F1o del mono loco",
+    "MovieYear": 1989,
     "FileSizeGB": "2,34 GB"
   },
   {
@@ -19665,8 +19609,8 @@
     "BitRate": 3246,
     "Duration": "01:54:40",
     "Channel": "La 1",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "The Painted Veil",
+    "MovieYear": 2006,
     "FileSizeGB": "2,60 GB"
   },
   {
@@ -19679,8 +19623,8 @@
     "BitRate": 4027,
     "Duration": "02:10:11",
     "Channel": "cuatro",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Guardians of the Galaxy Vol. 2",
+    "MovieYear": 2017,
     "FileSizeGB": "3,66 GB"
   },
   {
@@ -19721,8 +19665,8 @@
     "BitRate": 3852,
     "Duration": "02:07:39",
     "Channel": "La 2",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Jerry Maguire",
+    "MovieYear": 1996,
     "FileSizeGB": "3,43 GB"
   },
   {
@@ -19763,8 +19707,8 @@
     "BitRate": 2680,
     "Duration": "02:11:23",
     "Channel": "La 1",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Memoirs of a Geisha",
+    "MovieYear": 2005,
     "FileSizeGB": "2,46 GB"
   },
   {
@@ -19791,8 +19735,8 @@
     "BitRate": 3995,
     "Duration": "02:05:04",
     "Channel": "La 2",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Rebecca",
+    "MovieYear": 1940,
     "FileSizeGB": "3,49 GB"
   },
   {
@@ -19819,8 +19763,8 @@
     "BitRate": 4394,
     "Duration": "01:36:23",
     "Channel": "La 1",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Terminator 3: Rise of the Machines",
+    "MovieYear": 2003,
     "FileSizeGB": "2,96 GB"
   },
   {
@@ -19833,8 +19777,8 @@
     "BitRate": 3342,
     "Duration": "01:47:12",
     "Channel": "FDF",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Terminator Salvation",
+    "MovieYear": 2009,
     "FileSizeGB": "2,50 GB"
   },
   {
@@ -19847,8 +19791,8 @@
     "BitRate": 3586,
     "Duration": "01:53:06",
     "Channel": "cuatro",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Terminator Genisys",
+    "MovieYear": 2015,
     "FileSizeGB": "2,83 GB"
   },
   {
@@ -19861,8 +19805,8 @@
     "BitRate": 4051,
     "Duration": "01:53:17",
     "Channel": "cuatro",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Terminator: Dark Fate",
+    "MovieYear": 2019,
     "FileSizeGB": "3,21 GB"
   },
   {
@@ -19875,8 +19819,8 @@
     "BitRate": 2484,
     "Duration": "01:44:47",
     "Channel": "La 1",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "The Imitation Game",
+    "MovieYear": 2014,
     "FileSizeGB": "1,82 GB"
   },
   {
@@ -20057,8 +20001,8 @@
     "BitRate": 4691,
     "Duration": "01:58:21",
     "Channel": "Realmadrid TV",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Cape Fear",
+    "MovieYear": 1991,
     "FileSizeGB": "3,88 GB"
   },
   {
@@ -20085,8 +20029,8 @@
     "BitRate": 3395,
     "Duration": "01:28:43",
     "Channel": "8 Madrid",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "El crimen de Cuenca",
+    "MovieYear": 1981,
     "FileSizeGB": "2,10 GB"
   },
   {
@@ -20155,8 +20099,8 @@
     "BitRate": 4668,
     "Duration": "02:37:14",
     "Channel": "Realmadrid TV",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Scarface",
+    "MovieYear": 1983,
     "FileSizeGB": "5,13 GB"
   },
   {
@@ -20273,7 +20217,7 @@
   },
   {
     "VolumeName": "PELICULAS",
-    "FileName": "Gente de Sunset Boulevard.mkv",
+    "FileName": "Gente de Sunset Boulevard (1992).mkv",
     "FileStatus": "",
     "FileDate": "2026-05-15T20:41:24.227",
     "FileSize": 2433056196,
@@ -20295,8 +20239,8 @@
     "BitRate": 3684,
     "Duration": "01:34:51",
     "Channel": "Telemadrid",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Moonstruck",
+    "MovieYear": 1987,
     "FileSizeGB": "2,44 GB"
   },
   {
@@ -20323,8 +20267,8 @@
     "BitRate": 2494,
     "Duration": "01:40:34",
     "Channel": "Telemadrid",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Blow Out",
+    "MovieYear": 1981,
     "FileSizeGB": "1,75 GB"
   },
   {
@@ -20337,8 +20281,8 @@
     "BitRate": 4307,
     "Duration": "01:34:03",
     "Channel": "La 1",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Jumanji",
+    "MovieYear": 1995,
     "FileSizeGB": "2,83 GB"
   },
   {
@@ -20393,8 +20337,8 @@
     "BitRate": 4281,
     "Duration": "01:39:27",
     "Channel": "squirrel",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "The Road",
+    "MovieYear": 2009,
     "FileSizeGB": "2,97 GB"
   },
   {
@@ -20449,8 +20393,8 @@
     "BitRate": 3322,
     "Duration": "01:29:52",
     "Channel": "8 Madrid",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "La mirada del otro",
+    "MovieYear": 1998,
     "FileSizeGB": "2,09 GB"
   },
   {
@@ -20505,8 +20449,8 @@
     "BitRate": 4187,
     "Duration": "01:36:33",
     "Channel": "Be Mad",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Los 2 lados de la cama",
+    "MovieYear": 2005,
     "FileSizeGB": "2,82 GB"
   },
   {
@@ -20589,8 +20533,8 @@
     "BitRate": 1947,
     "Duration": "02:06:55",
     "Channel": "La 1",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Molly\u0027s Game",
+    "MovieYear": 2017,
     "FileSizeGB": "1,73 GB"
   },
   {
@@ -20645,8 +20589,8 @@
     "BitRate": 2877,
     "Duration": "01:48:21",
     "Channel": "",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Perros callejeros",
+    "MovieYear": 1977,
     "FileSizeGB": "2,18 GB"
   },
   {
@@ -20659,8 +20603,8 @@
     "BitRate": 3394,
     "Duration": "01:34:49",
     "Channel": "8 Madrid",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Perros callejeros II",
+    "MovieYear": 1979,
     "FileSizeGB": "2,25 GB"
   },
   {
@@ -20673,8 +20617,8 @@
     "BitRate": 3125,
     "Duration": "01:34:47",
     "Channel": "8 Madrid",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Los \u00FAltimos golpes de El Torete",
+    "MovieYear": 1980,
     "FileSizeGB": "2,07 GB"
   },
   {
@@ -20785,8 +20729,8 @@
     "BitRate": 4294,
     "Duration": "02:23:35",
     "Channel": "Be Mad",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Pulp Fiction",
+    "MovieYear": 1994,
     "FileSizeGB": "4,31 GB"
   },
   {
@@ -20813,8 +20757,8 @@
     "BitRate": 4318,
     "Duration": "01:38:07",
     "Channel": "Be Mad",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "The Hangover",
+    "MovieYear": 2009,
     "FileSizeGB": "2,96 GB"
   },
   {
@@ -20841,8 +20785,8 @@
     "BitRate": 4312,
     "Duration": "01:36:40",
     "Channel": "Be Mad",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "The Hangover Part III",
+    "MovieYear": 2013,
     "FileSizeGB": "2,91 GB"
   },
   {
@@ -20897,8 +20841,8 @@
     "BitRate": 1477,
     "Duration": "01:36:40",
     "Channel": "Telemadrid",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Witness for the Prosecution",
+    "MovieYear": 1957,
     "FileSizeGB": "1,00 GB"
   },
   {
@@ -20981,8 +20925,8 @@
     "BitRate": 1828,
     "Duration": "02:16:44",
     "Channel": "La sexta",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Ofrenda a la tormenta",
+    "MovieYear": 2020,
     "FileSizeGB": "1,75 GB"
   },
   {
@@ -20995,8 +20939,8 @@
     "BitRate": 3340,
     "Duration": "01:28:31",
     "Channel": "8 Madrid",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Un buen novio",
+    "MovieYear": 1998,
     "FileSizeGB": "2,07 GB"
   },
   {
@@ -21079,8 +21023,8 @@
     "BitRate": 4318,
     "Duration": "01:37:57",
     "Channel": "Be Mad",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Alien Resurrection",
+    "MovieYear": 1997,
     "FileSizeGB": "2,95 GB"
   },
   {
@@ -21093,8 +21037,8 @@
     "BitRate": 4309,
     "Duration": "01:52:20",
     "Channel": "Be Mad",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Prometheus",
+    "MovieYear": 2012,
     "FileSizeGB": "3,38 GB"
   },
   {
@@ -21107,8 +21051,8 @@
     "BitRate": 3339,
     "Duration": "01:49:38",
     "Channel": "cuatro",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Alien: Covenant",
+    "MovieYear": 2017,
     "FileSizeGB": "2,56 GB"
   },
   {
@@ -21121,8 +21065,8 @@
     "BitRate": 2170,
     "Duration": "01:25:55",
     "Channel": "La sexta",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "AVP: Alien vs. Predator",
+    "MovieYear": 2004,
     "FileSizeGB": "1,30 GB"
   },
   {
@@ -21135,8 +21079,8 @@
     "BitRate": 4299,
     "Duration": "01:23:15",
     "Channel": "Be Mad",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Aliens vs Predator: Requiem",
+    "MovieYear": 2007,
     "FileSizeGB": "2,50 GB"
   },
   {
@@ -21205,8 +21149,8 @@
     "BitRate": 3303,
     "Duration": "02:00:01",
     "Channel": "La sexta",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Batman Begins",
+    "MovieYear": 2005,
     "FileSizeGB": "2,77 GB"
   },
   {
@@ -21233,8 +21177,8 @@
     "BitRate": 3293,
     "Duration": "02:29:41",
     "Channel": "cuatro",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "The Dark Knight Rises",
+    "MovieYear": 2012,
     "FileSizeGB": "3,44 GB"
   },
   {
@@ -21261,8 +21205,8 @@
     "BitRate": 1755,
     "Duration": "01:48:19",
     "Channel": "",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Ghostbusters II",
+    "MovieYear": 1989,
     "FileSizeGB": "1,33 GB"
   },
   {
@@ -21275,8 +21219,8 @@
     "BitRate": 3514,
     "Duration": "01:48:56",
     "Channel": "cuatro",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Ghostbusters: Afterlife",
+    "MovieYear": 2021,
     "FileSizeGB": "2,67 GB"
   },
   {
@@ -21289,8 +21233,8 @@
     "BitRate": 2445,
     "Duration": "01:42:21",
     "Channel": "La 1",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Ghostbusters: Frozen Empire",
+    "MovieYear": 2024,
     "FileSizeGB": "1,75 GB"
   },
   {
@@ -21331,8 +21275,8 @@
     "BitRate": 4118,
     "Duration": "01:46:35",
     "Channel": "cuatro",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Planet of the Apes",
+    "MovieYear": 1968,
     "FileSizeGB": "3,07 GB"
   },
   {
@@ -21345,8 +21289,8 @@
     "BitRate": 8580,
     "Duration": "01:54:03",
     "Channel": "TVE HD",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Planet of the Apes",
+    "MovieYear": 2001,
     "FileSizeGB": "6,84 GB"
   },
   {
@@ -21359,8 +21303,8 @@
     "BitRate": 4172,
     "Duration": "01:37:57",
     "Channel": "cuatro",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Rise of the Planet of the Apes",
+    "MovieYear": 2011,
     "FileSizeGB": "2,85 GB"
   },
   {
@@ -21373,8 +21317,8 @@
     "BitRate": 3270,
     "Duration": "01:55:55",
     "Channel": "La 1",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Dawn of the Planet of the Apes",
+    "MovieYear": 2014,
     "FileSizeGB": "2,65 GB"
   },
   {
@@ -21387,8 +21331,8 @@
     "BitRate": 2856,
     "Duration": "02:06:38",
     "Channel": "La 1",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "War for the Planet of the Apes",
+    "MovieYear": 2017,
     "FileSizeGB": "2,53 GB"
   },
   {
@@ -21401,8 +21345,8 @@
     "BitRate": 3344,
     "Duration": "01:25:18",
     "Channel": "8 Madrid",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "\u00C9xtasis",
+    "MovieYear": 1996,
     "FileSizeGB": "1,99 GB"
   },
   {
@@ -21415,8 +21359,8 @@
     "BitRate": 3362,
     "Duration": "01:37:36",
     "Channel": "La 1",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Dirty Harry",
+    "MovieYear": 1971,
     "FileSizeGB": "2,29 GB"
   },
   {
@@ -21429,8 +21373,8 @@
     "BitRate": 3805,
     "Duration": "01:56:44",
     "Channel": "La sexta",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Magnum Force",
+    "MovieYear": 1973,
     "FileSizeGB": "3,10 GB"
   },
   {
@@ -21443,8 +21387,8 @@
     "BitRate": 4413,
     "Duration": "01:31:09",
     "Channel": "La sexta",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "The Enforcer",
+    "MovieYear": 1976,
     "FileSizeGB": "2,81 GB"
   },
   {
@@ -21457,8 +21401,8 @@
     "BitRate": 2991,
     "Duration": "01:49:12",
     "Channel": "La 1",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Sudden Impact",
+    "MovieYear": 1983,
     "FileSizeGB": "2,28 GB"
   },
   {
@@ -21485,8 +21429,8 @@
     "BitRate": 2758,
     "Duration": "01:56:42",
     "Channel": "La 1",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "The Empire Strikes Back",
+    "MovieYear": 1980,
     "FileSizeGB": "2,25 GB"
   },
   {
@@ -21499,8 +21443,8 @@
     "BitRate": 2917,
     "Duration": "02:02:26",
     "Channel": "La 1",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Return of the Jedi",
+    "MovieYear": 1983,
     "FileSizeGB": "2,50 GB"
   },
   {
@@ -21513,8 +21457,8 @@
     "BitRate": 4188,
     "Duration": "02:42:06",
     "Channel": "Telemadrid",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Il buono, il brutto, il cattivo",
+    "MovieYear": 1966,
     "FileSizeGB": "4,74 GB"
   },
   {
@@ -21527,8 +21471,8 @@
     "BitRate": 2872,
     "Duration": "02:05:40",
     "Channel": "La 1",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Per qualche dollaro in pi\u00F9",
+    "MovieYear": 1965,
     "FileSizeGB": "2,52 GB"
   },
   {
@@ -21541,8 +21485,8 @@
     "BitRate": 5225,
     "Duration": "01:34:57",
     "Channel": "Telemadrid",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Per un pugno di dollari",
+    "MovieYear": 1964,
     "FileSizeGB": "3,47 GB"
   },
   {
@@ -21625,8 +21569,8 @@
     "BitRate": 4311,
     "Duration": "01:53:00",
     "Channel": "Be Mad",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Fifty Shades of Grey",
+    "MovieYear": 2015,
     "FileSizeGB": "3,40 GB"
   },
   {
@@ -21639,8 +21583,8 @@
     "BitRate": 3787,
     "Duration": "01:48:56",
     "Channel": "cuatro",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "D\u00E9licieux",
+    "MovieYear": 2021,
     "FileSizeGB": "2,88 GB"
   },
   {
@@ -21695,8 +21639,8 @@
     "BitRate": 3983,
     "Duration": "01:57:14",
     "Channel": "TRECE",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "El crack",
+    "MovieYear": 1981,
     "FileSizeGB": "3,26 GB"
   },
   {
@@ -21757,7 +21701,7 @@
   },
   {
     "VolumeName": "PELICULAS",
-    "FileName": "Ghost in the Shell, El alma de la m\u00E1quina (2017).mkv",
+    "FileName": "Ghost in the Shell - El alma de la m\u00E1quina (2017).mkv",
     "FileStatus": "",
     "FileDate": "2026-07-04T14:50:34.007",
     "FileSize": 1819018037,
@@ -21793,8 +21737,8 @@
     "BitRate": 4116,
     "Duration": "01:24:25",
     "Channel": "TRECE",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "The Dead Pool",
+    "MovieYear": 1988,
     "FileSizeGB": "2,43 GB"
   },
   {
@@ -21975,8 +21919,8 @@
     "BitRate": 4304,
     "Duration": "02:02:26",
     "Channel": "Be Mad",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Vertigo",
+    "MovieYear": 1958,
     "FileSizeGB": "3,68 GB"
   },
   {
@@ -22003,8 +21947,8 @@
     "BitRate": 3261,
     "Duration": "01:50:28",
     "Channel": "",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Backrooms",
+    "MovieYear": 2026,
     "FileSizeGB": "2,52 GB"
   },
   {
@@ -22031,8 +21975,8 @@
     "BitRate": 4286,
     "Duration": "02:03:08",
     "Channel": "Be Mad",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "\u0427\u0435\u0440\u043D\u043E\u0431\u044B\u043B\u044C",
+    "MovieYear": 2021,
     "FileSizeGB": "3,69 GB"
   },
   {
@@ -22090,5 +22034,131 @@
     "MovieName": "Everything Everywhere All at Once",
     "MovieYear": 2022,
     "FileSizeGB": "4,83 GB"
+  },
+  {
+    "VolumeName": "PELICULAS",
+    "FileName": "Asalto al Banco Central (1983).mkv",
+    "FileStatus": "",
+    "FileDate": "2026-07-30T18:14:57.98",
+    "FileSize": 2309716024,
+    "Quality": "1920x1080",
+    "BitRate": 3384,
+    "Duration": "01:30:59",
+    "Channel": "8 Madrid",
+    "MovieName": "",
+    "MovieYear": null,
+    "FileSizeGB": "2,15 GB"
+  },
+  {
+    "VolumeName": "PELICULAS",
+    "FileName": "El pacto (Guy Ritchie) (2023).mkv",
+    "FileStatus": "",
+    "FileDate": "2026-07-30T18:14:50.25",
+    "FileSize": 3468181377,
+    "Quality": "1920x1080",
+    "BitRate": 3964,
+    "Duration": "01:56:38",
+    "Channel": "cuatro",
+    "MovieName": "",
+    "MovieYear": null,
+    "FileSizeGB": "3,23 GB"
+  },
+  {
+    "VolumeName": "PELICULAS",
+    "FileName": "La hija de Dios (2016).mkv",
+    "FileStatus": "",
+    "FileDate": "2026-07-30T18:14:38.647",
+    "FileSize": 2919411693,
+    "Quality": "1920x1080",
+    "BitRate": 4338,
+    "Duration": "01:29:43",
+    "Channel": "VEO 7",
+    "MovieName": "",
+    "MovieYear": null,
+    "FileSizeGB": "2,72 GB"
+  },
+  {
+    "VolumeName": "PELICULAS",
+    "FileName": "Los extra\u00F1os (2008).mkv",
+    "FileStatus": "",
+    "FileDate": "2026-07-30T18:14:28.517",
+    "FileSize": 2357370586,
+    "Quality": "1920x1080",
+    "BitRate": 4286,
+    "Duration": "01:13:19",
+    "Channel": "VEO 7",
+    "MovieName": "",
+    "MovieYear": null,
+    "FileSizeGB": "2,20 GB"
+  },
+  {
+    "VolumeName": "PELICULAS",
+    "FileName": "Mensaka (1998).mkv",
+    "FileStatus": "",
+    "FileDate": "2026-07-30T18:14:20.153",
+    "FileSize": 2450981100,
+    "Quality": "1920x1080",
+    "BitRate": 3310,
+    "Duration": "01:38:42",
+    "Channel": "8 Madrid",
+    "MovieName": "",
+    "MovieYear": null,
+    "FileSizeGB": "2,28 GB"
+  },
+  {
+    "VolumeName": "PELICULAS",
+    "FileName": "Spider-Man 6 - No Way Home (2021).mkv",
+    "FileStatus": "",
+    "FileDate": "2026-08-03T17:45:24.12",
+    "FileSize": 3771808681,
+    "Quality": "1920x1080",
+    "BitRate": 3840,
+    "Duration": "02:10:55",
+    "Channel": "cuatro",
+    "MovieName": "",
+    "MovieYear": null,
+    "FileSizeGB": "3,51 GB"
+  },
+  {
+    "VolumeName": "PELICULAS",
+    "FileName": "The Mauritanian (2021).mkv",
+    "FileStatus": "",
+    "FileDate": "2026-07-30T18:14:11.937",
+    "FileSize": 3532162462,
+    "Quality": "1920x1080",
+    "BitRate": 3762,
+    "Duration": "02:05:10",
+    "Channel": "cuatro",
+    "MovieName": "",
+    "MovieYear": null,
+    "FileSizeGB": "3,29 GB"
+  },
+  {
+    "VolumeName": "PELICULAS",
+    "FileName": "Torrente 1 - El brazo tonto de la ley (1998).mkv",
+    "FileStatus": "",
+    "FileDate": "2026-08-03T17:45:11.7",
+    "FileSize": 4331159943,
+    "Quality": "1920x1080",
+    "BitRate": 6342,
+    "Duration": "01:31:03",
+    "Channel": "La sexta",
+    "MovieName": "",
+    "MovieYear": null,
+    "FileSizeGB": "4,03 GB"
+  },
+  {
+    "VolumeName": "PELICULAS",
+    "FileName": "Torrente 2 - Misi\u00F3n en Marbella (2001).mkv",
+    "FileStatus": "",
+    "FileDate": "2026-08-03T17:44:58.673",
+    "FileSize": 4176175192,
+    "Quality": "1920x1080",
+    "BitRate": 6219,
+    "Duration": "01:29:32",
+    "Channel": "La sexta",
+    "MovieName": "",
+    "MovieYear": null,
+    "FileSizeGB": "3,89 GB"
   }
 ]
