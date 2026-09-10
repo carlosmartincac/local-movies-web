@@ -93,7 +93,7 @@
     "BitRate": 3065,
     "Duration": "01:44:35",
     "Channel": "La 1",
-    "MovieName": "1917, le train de l\u0027enfer",
+    "MovieName": "1917",
     "MovieYear": 2019,
     "FileSizeGB": "2,24 GB"
   },
@@ -134,7 +134,7 @@
     "Quality": "1920x1080",
     "BitRate": 4654,
     "Duration": "01:40:41",
-    "Channel": "",
+    "Channel": "RTVE",
     "MovieName": "23-F: la pel\u00EDcula",
     "MovieYear": 2011,
     "FileSizeGB": "3,27 GB"
@@ -191,7 +191,7 @@
     "BitRate": 883,
     "Duration": "02:10:51",
     "Channel": "",
-    "MovieName": "5\u002B5",
+    "MovieName": "5.5.5.",
     "MovieYear": 2011,
     "FileSizeGB": "0,81 GB"
   },
@@ -793,8 +793,8 @@
     "BitRate": 3368,
     "Duration": "01:56:11",
     "Channel": "La 1",
-    "MovieName": "\u30DF\u30E5\u30FC\u30B8\u30AB\u30EB\u300E\u30A2\u30F3\u30CA\u30FB\u30AB\u30EC\u30FC\u30CB\u30CA\u300F",
-    "MovieYear": 2011,
+    "MovieName": "Anna Karenina",
+    "MovieYear": 2012,
     "FileSizeGB": "2,73 GB"
   },
   {
@@ -1171,7 +1171,7 @@
     "BitRate": 3630,
     "Duration": "01:43:39",
     "Channel": "cuatro",
-    "MovieName": "Atomica",
+    "MovieName": "Atomic Blonde",
     "MovieYear": 2017,
     "FileSizeGB": "2,63 GB"
   },
@@ -1199,8 +1199,8 @@
     "BitRate": 3321,
     "Duration": "01:42:04",
     "Channel": "La 2",
-    "MovieName": "Skiptrace",
-    "MovieYear": 2016,
+    "MovieName": "To Catch a Thief",
+    "MovieYear": 1955,
     "FileSizeGB": "2,37 GB"
   },
   {
@@ -1409,7 +1409,7 @@
     "BitRate": 4255,
     "Duration": "01:49:51",
     "Channel": "Paramount",
-    "MovieName": "Badland Wives",
+    "MovieName": "Badland",
     "MovieYear": 2019,
     "FileSizeGB": "3,27 GB"
   },
@@ -1549,7 +1549,7 @@
     "BitRate": 2861,
     "Duration": "03:22:26",
     "Channel": "La 1",
-    "MovieName": "Ben-Hurry",
+    "MovieName": "Ben-Hur",
     "MovieYear": 1959,
     "FileSizeGB": "4,05 GB"
   },
@@ -2095,7 +2095,7 @@
     "BitRate": 2973,
     "Duration": "01:38:17",
     "Channel": "La 1",
-    "MovieName": "Chaos",
+    "MovieName": "Havoc",
     "MovieYear": 2005,
     "FileSizeGB": "2,04 GB"
   },
@@ -2291,7 +2291,7 @@
     "BitRate": 4423,
     "Duration": "02:14:15",
     "Channel": "Telemadrid",
-    "MovieName": "The Chaplin Puzzle",
+    "MovieName": "Chaplin",
     "MovieYear": 1992,
     "FileSizeGB": "4,15 GB"
   },
@@ -2431,8 +2431,8 @@
     "BitRate": 1317,
     "Duration": "01:43:43",
     "Channel": "",
-    "MovieName": "Cisne Cuello Negro, Cuello Blanco",
-    "MovieYear": 2009,
+    "MovieName": "Black Swan",
+    "MovieYear": 2010,
     "FileSizeGB": "0,95 GB"
   },
   {
@@ -2627,7 +2627,7 @@
     "BitRate": 3807,
     "Duration": "01:42:12",
     "Channel": "cuatro",
-    "MovieName": "Coma",
+    "MovieName": "Koma",
     "MovieYear": 2019,
     "FileSizeGB": "2,72 GB"
   },
@@ -2921,8 +2921,8 @@
     "BitRate": 4323,
     "Duration": "01:58:22",
     "Channel": "Be Mad",
-    "MovieName": "Coraz\u00F3n salvaje",
-    "MovieYear": 1968,
+    "MovieName": "Wild at Heart",
+    "MovieYear": 1990,
     "FileSizeGB": "3,57 GB"
   },
   {
@@ -3089,8 +3089,8 @@
     "BitRate": 2227,
     "Duration": "01:21:43",
     "Channel": "La sexta",
-    "MovieName": "Death Game",
-    "MovieYear": 1996,
+    "MovieName": "Cube",
+    "MovieYear": 1998,
     "FileSizeGB": "1,27 GB"
   },
   {
@@ -3271,7 +3271,7 @@
     "BitRate": 4319,
     "Duration": "01:37:20",
     "Channel": "Be Mad",
-    "MovieName": "Predator 2",
+    "MovieName": "Depredador chicano",
     "MovieYear": 1990,
     "FileSizeGB": "2,94 GB"
   },
@@ -3593,8 +3593,8 @@
     "BitRate": 3873,
     "Duration": "02:42:58",
     "Channel": "La sexta",
-    "MovieName": "And Then There Were None",
-    "MovieYear": 1974,
+    "MovieName": "There Were None",
+    "MovieYear": 2015,
     "FileSizeGB": "4,41 GB"
   },
   {
@@ -3635,7 +3635,7 @@
     "BitRate": 5193,
     "Duration": "01:40:05",
     "Channel": "La 1",
-    "MovieName": "District 9",
+    "MovieName": "Banlieue 13 - Ultimatum",
     "MovieYear": 2009,
     "FileSizeGB": "3,63 GB"
   },
@@ -3762,7 +3762,7 @@
     "Duration": "03:42:30",
     "Channel": "Be Mad",
     "MovieName": "Doctor Zhivago",
-    "MovieYear": 1965,
+    "MovieYear": 2002,
     "FileSizeGB": "6,71 GB"
   },
   {
@@ -4532,7 +4532,7 @@
     "Duration": "02:23:01",
     "Channel": "La 2",
     "MovieName": "The Color Purple",
-    "MovieYear": 2023,
+    "MovieYear": 1985,
     "FileSizeGB": "3,09 GB"
   },
   {
@@ -4615,8 +4615,8 @@
     "BitRate": 4213,
     "Duration": "01:47:56",
     "Channel": "Telemadrid",
-    "MovieName": "El desaf\u00EDo",
-    "MovieYear": 2014,
+    "MovieName": "The Edge",
+    "MovieYear": 1997,
     "FileSizeGB": "3,18 GB"
   },
   {
@@ -4671,8 +4671,8 @@
     "BitRate": 3413,
     "Duration": "01:24:41",
     "Channel": "cuatro",
-    "MovieName": "Il falsario",
-    "MovieYear": 2025,
+    "MovieName": "The Forger",
+    "MovieYear": 2014,
     "FileSizeGB": "2,02 GB"
   },
   {
@@ -4741,8 +4741,8 @@
     "BitRate": 3375,
     "Duration": "02:02:10",
     "Channel": "La 2",
-    "MovieName": "El m\u00E1s fabuloso golpe del Far-West",
-    "MovieYear": 1972,
+    "MovieName": "The Sting",
+    "MovieYear": 1973,
     "FileSizeGB": "2,88 GB"
   },
   {
@@ -5021,8 +5021,8 @@
     "BitRate": 2602,
     "Duration": "02:35:11",
     "Channel": "",
-    "MovieName": "El Hundimiento del Belgrano",
-    "MovieYear": 2003,
+    "MovieName": "Der Untergang",
+    "MovieYear": 2004,
     "FileSizeGB": "2,82 GB"
   },
   {
@@ -5203,8 +5203,8 @@
     "BitRate": 3413,
     "Duration": "01:50:34",
     "Channel": "La 1",
-    "MovieName": "El lector",
-    "MovieYear": 2022,
+    "MovieName": "The Reader",
+    "MovieYear": 2008,
     "FileSizeGB": "2,64 GB"
   },
   {
@@ -5217,8 +5217,8 @@
     "BitRate": 4289,
     "Duration": "02:12:50",
     "Channel": "Paramount",
-    "MovieName": "El Libro Negro",
-    "MovieYear": 2009,
+    "MovieName": "Zwartboek",
+    "MovieYear": 2006,
     "FileSizeGB": "3,98 GB"
   },
   {
@@ -5427,8 +5427,8 @@
     "BitRate": 2927,
     "Duration": "02:24:04",
     "Channel": "La 2",
-    "MovieName": "The Godfather Part II",
-    "MovieYear": 1974,
+    "MovieName": "The Godfather Part III",
+    "MovieYear": 1990,
     "FileSizeGB": "2,95 GB"
   },
   {
@@ -5595,8 +5595,8 @@
     "BitRate": 4321,
     "Duration": "01:22:18",
     "Channel": "Be Mad",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Battle For the Planet of the Apes",
+    "MovieYear": 1973,
     "FileSizeGB": "2,48 GB"
   },
   {
@@ -6001,8 +6001,8 @@
     "BitRate": 3033,
     "Duration": "03:14:47",
     "Channel": "La 2",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Das Boot (The Boat)",
+    "MovieYear": 1981,
     "FileSizeGB": "4,13 GB"
   },
   {
@@ -6099,8 +6099,8 @@
     "BitRate": 4223,
     "Duration": "01:52:23",
     "Channel": "Telemadrid",
-    "MovieName": "3:10 to Yuma",
-    "MovieYear": 1957,
+    "MovieName": "Ben 10: Secret of the Omnitrix",
+    "MovieYear": 2007,
     "FileSizeGB": "3,32 GB"
   },
   {
@@ -6169,8 +6169,8 @@
     "BitRate": 4549,
     "Duration": "01:16:55",
     "Channel": "Realmadrid TV",
-    "MovieName": "\u5287\u5834\u7248\u30DD\u30B1\u30C3\u30C8\u30E2\u30F3\u30B9\u30BF\u30FC \u5E7B\u306E\u30DD\u30B1\u30E2\u30F3 \u30EB\u30AE\u30A2\u7206\u8A95",
-    "MovieYear": 1999,
+    "MovieName": "The One",
+    "MovieYear": 2001,
     "FileSizeGB": "2,44 GB"
   },
   {
@@ -6253,7 +6253,7 @@
     "BitRate": 3806,
     "Duration": "02:12:31",
     "Channel": "Telecinco",
-    "MovieName": "Flight of the Butterflies",
+    "MovieName": "Flight",
     "MovieYear": 2012,
     "FileSizeGB": "3,52 GB"
   },
@@ -6365,8 +6365,8 @@
     "BitRate": 4120,
     "Duration": "01:46:42",
     "Channel": "neox",
-    "MovieName": "Walk the Line",
-    "MovieYear": 2005,
+    "MovieName": "Tightrope",
+    "MovieYear": 1984,
     "FileSizeGB": "3,07 GB"
   },
   {
@@ -6827,7 +6827,7 @@
     "BitRate": 3165,
     "Duration": "01:28:03",
     "Channel": "La sexta",
-    "MovieName": "The Universe, UFO: The Real Deal",
+    "MovieName": "Extraterrestre",
     "MovieYear": 2011,
     "FileSizeGB": "1,95 GB"
   },
@@ -7261,8 +7261,8 @@
     "BitRate": 4318,
     "Duration": "01:19:48",
     "Channel": "Be Mad",
-    "MovieName": "\u96FB\u5F71\u9D28",
-    "MovieYear": 1999,
+    "MovieName": "Life of a Gigolo",
+    "MovieYear": 1998,
     "FileSizeGB": "2,41 GB"
   },
   {
@@ -7611,8 +7611,8 @@
     "BitRate": 4320,
     "Duration": "01:33:09",
     "Channel": "Be Mad",
-    "MovieName": "Headhunters of World War II",
-    "MovieYear": 2010,
+    "MovieName": "Hodejegerne (Headhunters) ",
+    "MovieYear": 2011,
     "FileSizeGB": "2,81 GB"
   },
   {
@@ -7639,8 +7639,8 @@
     "BitRate": 1612,
     "Duration": "02:57:12",
     "Channel": "",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Hitler: The Rise of Evil ",
+    "MovieYear": 2003,
     "FileSizeGB": "2,00 GB"
   },
   {
@@ -7968,7 +7968,7 @@
   {
     "VolumeName": "PELICULAS",
     "FileName": "Infiltrado en el KKKlan (2018).avi",
-    "FileStatus": "",
+    "FileStatus": "DELETED",
     "FileDate": "2019-04-19T17:07:51.25",
     "FileSize": 2480453632,
     "Quality": "720x304",
@@ -8367,7 +8367,7 @@
     "BitRate": 4329,
     "Duration": "01:57:13",
     "Channel": "Telemadrid",
-    "MovieName": "Jennifer Eight",
+    "MovieName": "Jennifer Hodge: The Glory and the Pain",
     "MovieYear": 1992,
     "FileSizeGB": "3,55 GB"
   },
@@ -8381,8 +8381,8 @@
     "BitRate": 2970,
     "Duration": "01:30:20",
     "Channel": "Antena 3",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "John Wick",
+    "MovieYear": 2014,
     "FileSizeGB": "1,87 GB"
   },
   {
@@ -8661,7 +8661,7 @@
     "BitRate": 3877,
     "Duration": "01:58:46",
     "Channel": "neox",
-    "MovieName": "Kill Bill: Vol. 2",
+    "MovieName": "Kill Bill: Volume 2",
     "MovieYear": 2004,
     "FileSizeGB": "3,22 GB"
   },
@@ -9214,7 +9214,7 @@
   {
     "VolumeName": "PELICULAS",
     "FileName": "La gran apuesta (2015).avi",
-    "FileStatus": "",
+    "FileStatus": "DELETED",
     "FileDate": "2016-06-24T15:32:28.873",
     "FileSize": 2488426496,
     "Quality": "720x304",
@@ -9403,8 +9403,8 @@
     "BitRate": 3719,
     "Duration": "01:40:25",
     "Channel": "",
-    "MovieName": "La invitaci\u00F3n del presidente",
-    "MovieYear": 2014,
+    "MovieName": "The Invitation ",
+    "MovieYear": 2015,
     "FileSizeGB": "2,61 GB"
   },
   {
@@ -10635,8 +10635,8 @@
     "BitRate": 3305,
     "Duration": "01:55:47",
     "Channel": "cuatro",
-    "MovieName": "Los 33",
-    "MovieYear": 2021,
+    "MovieName": "Descendants",
+    "MovieYear": 2015,
     "FileSizeGB": "2,67 GB"
   },
   {
@@ -10691,8 +10691,8 @@
     "BitRate": 2997,
     "Duration": "01:25:28",
     "Channel": "La 2",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Monty Python and the Holy Grail ",
+    "MovieYear": 1975,
     "FileSizeGB": "1,79 GB"
   },
   {
@@ -10733,8 +10733,8 @@
     "BitRate": 2188,
     "Duration": "01:45:09",
     "Channel": "La 1",
-    "MovieName": "Descendants",
-    "MovieYear": 2015,
+    "MovieName": "The Descendants",
+    "MovieYear": 2011,
     "FileSizeGB": "1,61 GB"
   },
   {
@@ -10775,8 +10775,8 @@
     "BitRate": 4132,
     "Duration": "01:56:15",
     "Channel": "Telemadrid",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Sneakers",
+    "MovieYear": 1992,
     "FileSizeGB": "3,36 GB"
   },
   {
@@ -11265,8 +11265,8 @@
     "BitRate": 4087,
     "Duration": "01:26:44",
     "Channel": "neox",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Mad Max",
+    "MovieYear": 1979,
     "FileSizeGB": "2,48 GB"
   },
   {
@@ -11279,8 +11279,8 @@
     "BitRate": 4747,
     "Duration": "01:28:25",
     "Channel": "neox",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Mad Max 2: The Road Warrior",
+    "MovieYear": 1981,
     "FileSizeGB": "2,93 GB"
   },
   {
@@ -11293,8 +11293,8 @@
     "BitRate": 4496,
     "Duration": "01:45:25",
     "Channel": "RTVE",
-    "MovieName": "Madame Curie",
-    "MovieYear": 1943,
+    "MovieName": "Radioactive",
+    "MovieYear": 2020,
     "FileSizeGB": "3,31 GB"
   },
   {
@@ -11363,8 +11363,8 @@
     "BitRate": 4306,
     "Duration": "01:38:56",
     "Channel": "Telemadrid",
-    "MovieName": "Poison Ivy",
-    "MovieYear": 1992,
+    "MovieName": "Malice",
+    "MovieYear": 1993,
     "FileSizeGB": "2,98 GB"
   },
   {
@@ -11433,8 +11433,8 @@
     "BitRate": 2715,
     "Duration": "02:16:49",
     "Channel": "8 Madrid",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Marisol",
+    "MovieYear": 2009,
     "FileSizeGB": "2,60 GB"
   },
   {
@@ -11475,8 +11475,8 @@
     "BitRate": 4034,
     "Duration": "01:57:37",
     "Channel": "Telemadrid",
-    "MovieName": "After.Life",
-    "MovieYear": 2009,
+    "MovieName": "Hereafter",
+    "MovieYear": 2010,
     "FileSizeGB": "3,31 GB"
   },
   {
@@ -11576,20 +11576,6 @@
     "MovieName": "The Matrix Revolutions",
     "MovieYear": 2003,
     "FileSizeGB": "3,47 GB"
-  },
-  {
-    "VolumeName": "PELICULAS",
-    "FileName": "Matrix 4 - Resurrections (2021).mkv",
-    "FileStatus": "",
-    "FileDate": "2023-02-08T20:23:47.497",
-    "FileSize": 3220527014,
-    "Quality": "1920x804",
-    "BitRate": 2903,
-    "Duration": "02:27:54",
-    "Channel": "",
-    "MovieName": "The Matrix Resurrections",
-    "MovieYear": 2021,
-    "FileSizeGB": "3,00 GB"
   },
   {
     "VolumeName": "PELICULAS",
@@ -12063,8 +12049,8 @@
     "BitRate": 4285,
     "Duration": "01:49:07",
     "Channel": "Paramount",
-    "MovieName": "Nightcrawlers",
-    "MovieYear": 2013,
+    "MovieName": "Nightcrawler",
+    "MovieYear": 2014,
     "FileSizeGB": "3,27 GB"
   },
   {
@@ -12133,7 +12119,7 @@
     "BitRate": 3544,
     "Duration": "02:35:30",
     "Channel": "La 2",
-    "MovieName": "Novecento",
+    "MovieName": "Novecento (1900)",
     "MovieYear": 1976,
     "FileSizeGB": "3,85 GB"
   },
@@ -12147,7 +12133,7 @@
     "BitRate": 3429,
     "Duration": "02:23:14",
     "Channel": "La 2",
-    "MovieName": "Novecento",
+    "MovieName": "Novecento (1900)",
     "MovieYear": 1976,
     "FileSizeGB": "3,43 GB"
   },
@@ -12343,8 +12329,8 @@
     "BitRate": 4096,
     "Duration": "01:34:34",
     "Channel": "La sexta",
-    "MovieName": "\uC62C\uB4DC\uBCF4\uC774",
-    "MovieYear": 2003,
+    "MovieName": "Oldboy (Old Boy)",
+    "MovieYear": 2013,
     "FileSizeGB": "2,71 GB"
   },
   {
@@ -12399,7 +12385,7 @@
     "BitRate": 4249,
     "Duration": "02:03:12",
     "Channel": "Paramount",
-    "MovieName": "Tierra sublevada: oro negro",
+    "MovieName": "Or Noir (Black Gold)",
     "MovieYear": 2011,
     "FileSizeGB": "3,66 GB"
   },
@@ -12472,20 +12458,6 @@
     "MovieName": "Daylight",
     "MovieYear": 1996,
     "FileSizeGB": "2,07 GB"
-  },
-  {
-    "VolumeName": "PELICULAS",
-    "FileName": "Papillon (2017).mkv",
-    "FileStatus": "",
-    "FileDate": "2023-03-14T15:17:29.183",
-    "FileSize": 2996387276,
-    "Quality": "1920x1080",
-    "BitRate": 3325,
-    "Duration": "02:00:09",
-    "Channel": "La 1",
-    "MovieName": "Papillon",
-    "MovieYear": 2017,
-    "FileSizeGB": "2,79 GB"
   },
   {
     "VolumeName": "PELICULAS",
@@ -12987,7 +12959,7 @@
     "BitRate": 3970,
     "Duration": "01:35:32",
     "Channel": "cuatro",
-    "MovieName": "The Meg",
+    "MovieName": "The Predator",
     "MovieYear": 2018,
     "FileSizeGB": "2,65 GB"
   },
@@ -13043,8 +13015,8 @@
     "BitRate": 4208,
     "Duration": "01:42:57",
     "Channel": "Telemadrid",
-    "MovieName": "\u0E19\u0E32\u0E07\u0E19\u0E32\u0E01",
-    "MovieYear": 1999,
+    "MovieName": "The Gift",
+    "MovieYear": 2000,
     "FileSizeGB": "3,03 GB"
   },
   {
@@ -13099,7 +13071,7 @@
     "BitRate": 4279,
     "Duration": "01:12:25",
     "Channel": "squirrel",
-    "MovieName": "Cr\u00F3nica del primer festival internacional del Sahara",
+    "MovieName": "50 First Dates",
     "MovieYear": 2004,
     "FileSizeGB": "2,17 GB"
   },
@@ -13435,7 +13407,7 @@
     "BitRate": 4317,
     "Duration": "01:23:57",
     "Channel": "Be Mad",
-    "MovieName": "Valley Girl",
+    "MovieName": "The Outsiders",
     "MovieYear": 1983,
     "FileSizeGB": "2,53 GB"
   },
@@ -13729,7 +13701,7 @@
     "BitRate": 4320,
     "Duration": "01:23:37",
     "Channel": "Be Mad",
-    "MovieName": "Rocky Hollow",
+    "MovieName": "Rocky IV",
     "MovieYear": 1985,
     "FileSizeGB": "2,52 GB"
   },
@@ -13743,7 +13715,7 @@
     "BitRate": 4319,
     "Duration": "03:10:23",
     "Channel": "Be Mad",
-    "MovieName": "La fabulosa y pat\u00E9tica historia de un montaje llamado I Love Romeo y Julieta",
+    "MovieName": "Romeo e Giulietta",
     "MovieYear": 2014,
     "FileSizeGB": "5,74 GB"
   },
@@ -14037,7 +14009,7 @@
     "BitRate": 3945,
     "Duration": "01:56:46",
     "Channel": "cuatro",
-    "MovieName": "Seven Landscapes",
+    "MovieName": "Seven (Se7en)",
     "MovieYear": 1995,
     "FileSizeGB": "3,22 GB"
   },
@@ -14250,20 +14222,6 @@
     "MovieName": "Gone",
     "MovieYear": 2012,
     "FileSizeGB": "2,32 GB"
-  },
-  {
-    "VolumeName": "PELICULAS",
-    "FileName": "Sin rodeos (2018).mkv",
-    "FileStatus": "",
-    "FileDate": "2023-03-14T13:13:36.54",
-    "FileSize": 2433617128,
-    "Quality": "1920x1080",
-    "BitRate": 3674,
-    "Duration": "01:28:18",
-    "Channel": "Antena 3",
-    "MovieName": "Sin rodeos",
-    "MovieYear": 2018,
-    "FileSizeGB": "2,27 GB"
   },
   {
     "VolumeName": "PELICULAS",
@@ -14499,8 +14457,8 @@
     "BitRate": 4694,
     "Duration": "01:26:51",
     "Channel": "cuatro",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Star Wars: The Legacy Revealed",
+    "MovieYear": 2007,
     "FileSizeGB": "2,85 GB"
   },
   {
@@ -14558,20 +14516,6 @@
     "MovieName": "Stardust",
     "MovieYear": 2007,
     "FileSizeGB": "3,30 GB"
-  },
-  {
-    "VolumeName": "PELICULAS",
-    "FileName": "Stargate (1994).mkv",
-    "FileStatus": "",
-    "FileDate": "2024-08-06T19:05:55.96",
-    "FileSize": 3820877081,
-    "Quality": "1920x1080",
-    "BitRate": 4632,
-    "Duration": "01:49:57",
-    "Channel": "Be Mad",
-    "MovieName": "Stargate",
-    "MovieYear": 1994,
-    "FileSizeGB": "3,56 GB"
   },
   {
     "VolumeName": "PELICULAS",
@@ -14639,8 +14583,8 @@
     "BitRate": 4321,
     "Duration": "02:10:01",
     "Channel": "Be Mad",
-    "MovieName": "Abar, the First Black Superman",
-    "MovieYear": 1977,
+    "MovieName": "Superman: The Movie",
+    "MovieYear": 1978,
     "FileSizeGB": "3,92 GB"
   },
   {
@@ -14793,7 +14737,7 @@
     "BitRate": 4185,
     "Duration": "01:43:39",
     "Channel": "Telemadrid",
-    "MovieName": "Gentlemen Of The World",
+    "MovieName": "The Gentlemen",
     "MovieYear": 2019,
     "FileSizeGB": "3,03 GB"
   },
@@ -14807,8 +14751,8 @@
     "BitRate": 4311,
     "Duration": "01:24:16",
     "Channel": "Be Mad",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "The Giver",
+    "MovieYear": 2014,
     "FileSizeGB": "2,54 GB"
   },
   {
@@ -14863,7 +14807,7 @@
     "BitRate": 4343,
     "Duration": "01:31:52",
     "Channel": "squirrel",
-    "MovieName": "Behind the Scenes of Full Metal Jacket",
+    "MovieName": "The Jacket",
     "MovieYear": 2005,
     "FileSizeGB": "2,79 GB"
   },
@@ -15073,7 +15017,7 @@
     "BitRate": 4668,
     "Duration": "02:59:29",
     "Channel": "Telecinco",
-    "MovieName": "Titanic: Untold Stories",
+    "MovieName": "La femme de chambre du Titanic",
     "MovieYear": 1997,
     "FileSizeGB": "5,85 GB"
   },
@@ -15241,7 +15185,7 @@
     "BitRate": 4316,
     "Duration": "02:15:13",
     "Channel": "Be Mad",
-    "MovieName": "Inside Traffic: The Making of \u0027Traffic\u0027",
+    "MovieName": "Traffic",
     "MovieYear": 2000,
     "FileSizeGB": "4,08 GB"
   },
@@ -15426,20 +15370,6 @@
     "MovieName": "Triple 9",
     "MovieYear": 2016,
     "FileSizeGB": "3,18 GB"
-  },
-  {
-    "VolumeName": "PELICULAS",
-    "FileName": "Troya (2004).mkv",
-    "FileStatus": "",
-    "FileDate": "2023-03-12T18:29:17.093",
-    "FileSize": 4100553552,
-    "Quality": "1920x1080",
-    "BitRate": 3737,
-    "Duration": "02:26:16",
-    "Channel": "Antena 3",
-    "MovieName": "Troy",
-    "MovieYear": 2004,
-    "FileSizeGB": "3,82 GB"
   },
   {
     "VolumeName": "PELICULAS",
@@ -15717,8 +15647,8 @@
     "BitRate": 4307,
     "Duration": "01:22:46",
     "Channel": "Be Mad",
-    "MovieName": "\u558B\u8840\u8857\u982D",
-    "MovieYear": 1990,
+    "MovieName": "Bullet to the Head",
+    "MovieYear": 2012,
     "FileSizeGB": "2,49 GB"
   },
   {
@@ -15773,8 +15703,8 @@
     "BitRate": 3188,
     "Duration": "01:23:40",
     "Channel": "La 2",
-    "MovieName": "Una pareja perfecta",
-    "MovieYear": 1998,
+    "MovieName": "Un couple \u00E9patant",
+    "MovieYear": 2002,
     "FileSizeGB": "1,86 GB"
   },
   {
@@ -15871,8 +15801,8 @@
     "BitRate": 3489,
     "Duration": "01:58:57",
     "Channel": "cuatro",
-    "MovieName": "Man on Fire",
-    "MovieYear": 2004,
+    "MovieName": "V for Vendetta",
+    "MovieYear": 2006,
     "FileSizeGB": "2,90 GB"
   },
   {
@@ -15955,8 +15885,8 @@
     "BitRate": 2877,
     "Duration": "01:35:00",
     "Channel": "La 1",
-    "MovieName": "Verano 70",
-    "MovieYear": 1970,
+    "MovieName": "Fuiste m\u00EDa un verano",
+    "MovieYear": 1969,
     "FileSizeGB": "1,91 GB"
   },
   {
@@ -16011,8 +15941,8 @@
     "BitRate": 2087,
     "Duration": "01:38:34",
     "Channel": "",
-    "MovieName": "Senescent Vivarium",
-    "MovieYear": 2018,
+    "MovieName": "Vivarium",
+    "MovieYear": 2019,
     "FileSizeGB": "1,44 GB"
   },
   {
@@ -16767,8 +16697,8 @@
     "BitRate": 4277,
     "Duration": "01:16:59",
     "Channel": "Paramount",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Rambo",
+    "MovieYear": 2008,
     "FileSizeGB": "2,30 GB"
   },
   {
@@ -16852,7 +16782,7 @@
     "Duration": "01:33:53",
     "Channel": "La 2",
     "MovieName": "Tambi\u00E9n la lluvia",
-    "MovieYear": 2011,
+    "MovieYear": 2010,
     "FileSizeGB": "1,66 GB"
   },
   {
@@ -17621,8 +17551,8 @@
     "BitRate": 1559,
     "Duration": "01:51:10",
     "Channel": "",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "2010: The Year We Make Contact ",
+    "MovieYear": 1984,
     "FileSizeGB": "1,21 GB"
   },
   {
@@ -17677,7 +17607,7 @@
     "BitRate": 6259,
     "Duration": "01:26:32",
     "Channel": "",
-    "MovieName": "The Apology Line",
+    "MovieName": "Apollo 18",
     "MovieYear": 2011,
     "FileSizeGB": "3,78 GB"
   },
@@ -18089,20 +18019,6 @@
   },
   {
     "VolumeName": "PELICULAS",
-    "FileName": "Notting Hill (1999).mkv",
-    "FileStatus": "",
-    "FileDate": "2025-12-13T11:05:04.177",
-    "FileSize": 2862549136,
-    "Quality": "1920x1080",
-    "BitRate": 3326,
-    "Duration": "01:54:45",
-    "Channel": "Divinity",
-    "MovieName": "Notting Hill",
-    "MovieYear": 1999,
-    "FileSizeGB": "2,67 GB"
-  },
-  {
-    "VolumeName": "PELICULAS",
     "FileName": "Siete a\u00F1os en el T\u00EDbet (1997).mkv",
     "FileStatus": "",
     "FileDate": "2025-11-30T12:12:23.05",
@@ -18167,8 +18083,8 @@
     "BitRate": 4301,
     "Duration": "01:46:00",
     "Channel": "Be Mad",
-    "MovieName": "Valkirias",
-    "MovieYear": 2007,
+    "MovieName": "Valkyrie",
+    "MovieYear": 2008,
     "FileSizeGB": "3,19 GB"
   },
   {
@@ -18181,7 +18097,7 @@
     "BitRate": 2771,
     "Duration": "01:55:52",
     "Channel": "Telemadrid",
-    "MovieName": "Deadly Illusion",
+    "MovieName": "Wall Street",
     "MovieYear": 1987,
     "FileSizeGB": "2,24 GB"
   },
@@ -18237,8 +18153,8 @@
     "BitRate": 3486,
     "Duration": "01:59:37",
     "Channel": "cuatro",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Fantastic Beasts: The Crimes of Grindelwald",
+    "MovieYear": 2018,
     "FileSizeGB": "2,91 GB"
   },
   {
@@ -18251,8 +18167,8 @@
     "BitRate": 4176,
     "Duration": "01:28:38",
     "Channel": "Paramount",
-    "MovieName": "Arctic Adventure: On Frozen Pond",
-    "MovieYear": 2016,
+    "MovieName": "Arctic",
+    "MovieYear": 2018,
     "FileSizeGB": "2,59 GB"
   },
   {
@@ -18349,8 +18265,8 @@
     "BitRate": 3259,
     "Duration": "01:30:32",
     "Channel": "Telemadrid",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "After Hours",
+    "MovieYear": 1985,
     "FileSizeGB": "2,06 GB"
   },
   {
@@ -18867,8 +18783,8 @@
     "BitRate": 2444,
     "Duration": "02:51:11",
     "Channel": "La 1",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Anatom\u00EDa de un instante",
+    "MovieYear": 2025,
     "FileSizeGB": "2,92 GB"
   },
   {
@@ -19357,8 +19273,8 @@
     "BitRate": 4228,
     "Duration": "02:02:59",
     "Channel": "VEO 7",
-    "MovieName": "The Possession of Joel Delaney",
-    "MovieYear": 1972,
+    "MovieName": "The Exorcist",
+    "MovieYear": 1973,
     "FileSizeGB": "3,63 GB"
   },
   {
@@ -19553,7 +19469,7 @@
     "BitRate": 2720,
     "Duration": "01:55:40",
     "Channel": "La 1",
-    "MovieName": "Special Delivery",
+    "MovieName": "Spotlight",
     "MovieYear": 2015,
     "FileSizeGB": "2,20 GB"
   },
@@ -19959,7 +19875,7 @@
     "BitRate": 4692,
     "Duration": "01:39:52",
     "Channel": "Realmadrid TV",
-    "MovieName": "Petty Cash",
+    "MovieName": "Ca$h (Cash)",
     "MovieYear": 2010,
     "FileSizeGB": "3,27 GB"
   },
@@ -20225,8 +20141,8 @@
     "BitRate": 3180,
     "Duration": "01:41:59",
     "Channel": "8 Madrid",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Mistress",
+    "MovieYear": 1992,
     "FileSizeGB": "2,27 GB"
   },
   {
@@ -20547,7 +20463,7 @@
     "BitRate": 4205,
     "Duration": "01:47:54",
     "Channel": "VEO 7",
-    "MovieName": "Multiple Schicksale",
+    "MovieName": "Split",
     "MovieYear": 2016,
     "FileSizeGB": "3,17 GB"
   },
@@ -21155,34 +21071,6 @@
   },
   {
     "VolumeName": "PELICULAS",
-    "FileName": "Batman 6 - El caballero oscuro (2008).mkv",
-    "FileStatus": "",
-    "FileDate": "2024-01-26T18:14:58.737",
-    "FileSize": 3380088849,
-    "Quality": "1920x1080",
-    "BitRate": 3267,
-    "Duration": "02:17:55",
-    "Channel": "cuatro",
-    "MovieName": "The Dark Knight",
-    "MovieYear": 2008,
-    "FileSizeGB": "3,15 GB"
-  },
-  {
-    "VolumeName": "PELICULAS",
-    "FileName": "Batman 7 - La leyenda renace (2012).mkv",
-    "FileStatus": "",
-    "FileDate": "2024-01-26T18:16:25.283",
-    "FileSize": 3697323989,
-    "Quality": "1920x1080",
-    "BitRate": 3293,
-    "Duration": "02:29:41",
-    "Channel": "cuatro",
-    "MovieName": "The Dark Knight Rises",
-    "MovieYear": 2012,
-    "FileSizeGB": "3,44 GB"
-  },
-  {
-    "VolumeName": "PELICULAS",
     "FileName": "Cazafantasmas 1 - Los cazafantasmas 1 (1984).mkv",
     "FileStatus": "",
     "FileDate": "2024-11-16T14:18:36.99",
@@ -21709,8 +21597,8 @@
     "BitRate": 2465,
     "Duration": "01:38:23",
     "Channel": "La sexta",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Ghost in the Shell",
+    "MovieYear": 2017,
     "FileSizeGB": "1,69 GB"
   },
   {
@@ -21975,7 +21863,7 @@
     "BitRate": 4286,
     "Duration": "02:03:08",
     "Channel": "Be Mad",
-    "MovieName": "\u0427\u0435\u0440\u043D\u043E\u0431\u044B\u043B\u044C",
+    "MovieName": "Chernobyl",
     "MovieYear": 2021,
     "FileSizeGB": "3,69 GB"
   },
@@ -22045,8 +21933,8 @@
     "BitRate": 3384,
     "Duration": "01:30:59",
     "Channel": "8 Madrid",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Asalto al Banco Central",
+    "MovieYear": 1983,
     "FileSizeGB": "2,15 GB"
   },
   {
@@ -22059,8 +21947,8 @@
     "BitRate": 3964,
     "Duration": "01:56:38",
     "Channel": "cuatro",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Guy Ritchie\u0027s The Covenant",
+    "MovieYear": 2023,
     "FileSizeGB": "3,23 GB"
   },
   {
@@ -22073,8 +21961,8 @@
     "BitRate": 4338,
     "Duration": "01:29:43",
     "Channel": "VEO 7",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Exposed",
+    "MovieYear": 2016,
     "FileSizeGB": "2,72 GB"
   },
   {
@@ -22087,8 +21975,8 @@
     "BitRate": 4286,
     "Duration": "01:13:19",
     "Channel": "VEO 7",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "The Strangers",
+    "MovieYear": 2008,
     "FileSizeGB": "2,20 GB"
   },
   {
@@ -22101,8 +21989,8 @@
     "BitRate": 3310,
     "Duration": "01:38:42",
     "Channel": "8 Madrid",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Mensaka",
+    "MovieYear": 1998,
     "FileSizeGB": "2,28 GB"
   },
   {
@@ -22115,8 +22003,8 @@
     "BitRate": 3840,
     "Duration": "02:10:55",
     "Channel": "cuatro",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Spider-Man: No Way Home",
+    "MovieYear": 2021,
     "FileSizeGB": "3,51 GB"
   },
   {
@@ -22129,8 +22017,8 @@
     "BitRate": 3762,
     "Duration": "02:05:10",
     "Channel": "cuatro",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "The Mauritanian",
+    "MovieYear": 2021,
     "FileSizeGB": "3,29 GB"
   },
   {
@@ -22143,8 +22031,8 @@
     "BitRate": 6342,
     "Duration": "01:31:03",
     "Channel": "La sexta",
-    "MovieName": "",
-    "MovieYear": null,
+    "MovieName": "Torrente, el brazo tonto de la ley",
+    "MovieYear": 1998,
     "FileSizeGB": "4,03 GB"
   },
   {
@@ -22157,8 +22045,288 @@
     "BitRate": 6219,
     "Duration": "01:29:32",
     "Channel": "La sexta",
+    "MovieName": "Torrente 2: Misi\u00F3n en Marbella",
+    "MovieYear": 2001,
+    "FileSizeGB": "3,89 GB"
+  },
+  {
+    "VolumeName": "PELICULAS",
+    "FileName": "Avatar 3 - Fuego y ceniza (2025).mkv",
+    "FileStatus": "",
+    "FileDate": "2026-08-22T11:03:33.747",
+    "FileSize": 3000701399,
+    "Quality": "1920x1036",
+    "BitRate": 2087,
+    "Duration": "03:11:37",
+    "Channel": "",
     "MovieName": "",
     "MovieYear": null,
-    "FileSizeGB": "3,89 GB"
+    "FileSizeGB": "2,79 GB"
+  },
+  {
+    "VolumeName": "PELICULAS",
+    "FileName": "Batman 6 - El caballero oscuro (2008).mkv",
+    "FileStatus": "",
+    "FileDate": "2026-09-07T19:37:57.297",
+    "FileSize": 4218336258,
+    "Quality": "1920x1080",
+    "BitRate": 4075,
+    "Duration": "02:18:00",
+    "Channel": "cuatro",
+    "MovieName": "",
+    "MovieYear": null,
+    "FileSizeGB": "3,93 GB"
+  },
+  {
+    "VolumeName": "PELICULAS",
+    "FileName": "Batman 7 - La leyenda renace (2012).mkv",
+    "FileStatus": "",
+    "FileDate": "2026-09-07T19:37:43.44",
+    "FileSize": 4641367369,
+    "Quality": "1920x1080",
+    "BitRate": 4134,
+    "Duration": "02:29:39",
+    "Channel": "cuatro",
+    "MovieName": "",
+    "MovieYear": null,
+    "FileSizeGB": "4,32 GB"
+  },
+  {
+    "VolumeName": "PELICULAS",
+    "FileName": "Deep Impact (1998).mkv",
+    "FileStatus": "",
+    "FileDate": "2026-09-07T19:37:28.15",
+    "FileSize": 2565523767,
+    "Quality": "1920x1080",
+    "BitRate": 3161,
+    "Duration": "01:48:12",
+    "Channel": "La sexta",
+    "MovieName": "",
+    "MovieYear": null,
+    "FileSizeGB": "2,39 GB"
+  },
+  {
+    "VolumeName": "PELICULAS",
+    "FileName": "Disco, Ibiza, Locom\u00EDa (2024).mkv",
+    "FileStatus": "",
+    "FileDate": "2026-08-17T18:34:33.3",
+    "FileSize": 2956839027,
+    "Quality": "1920x1080",
+    "BitRate": 3914,
+    "Duration": "01:40:43",
+    "Channel": "La sexta",
+    "MovieName": "",
+    "MovieYear": null,
+    "FileSizeGB": "2,75 GB"
+  },
+  {
+    "VolumeName": "PELICULAS",
+    "FileName": "Free Guy (2021).mkv",
+    "FileStatus": "",
+    "FileDate": "2026-09-07T19:37:08.76",
+    "FileSize": 3174242613,
+    "Quality": "1920x1080",
+    "BitRate": 3975,
+    "Duration": "01:46:27",
+    "Channel": "cuatro",
+    "MovieName": "",
+    "MovieYear": null,
+    "FileSizeGB": "2,96 GB"
+  },
+  {
+    "VolumeName": "PELICULAS",
+    "FileName": "Infiltrado en el KKKlan (2018).mkv",
+    "FileStatus": "",
+    "FileDate": "2026-08-20T17:25:54.417",
+    "FileSize": 3835492455,
+    "Quality": "1920x1080",
+    "BitRate": 4115,
+    "Duration": "02:04:15",
+    "Channel": "BOM",
+    "MovieName": "",
+    "MovieYear": null,
+    "FileSizeGB": "3,57 GB"
+  },
+  {
+    "VolumeName": "PELICULAS",
+    "FileName": "Insomnio (1997).mkv",
+    "FileStatus": "",
+    "FileDate": "2026-08-17T18:34:23.893",
+    "FileSize": 2386404493,
+    "Quality": "1920x1080",
+    "BitRate": 3286,
+    "Duration": "01:36:49",
+    "Channel": "8 Madrid",
+    "MovieName": "",
+    "MovieYear": null,
+    "FileSizeGB": "2,22 GB"
+  },
+  {
+    "VolumeName": "PELICULAS",
+    "FileName": "La ardilla roja (1993).mkv",
+    "FileStatus": "",
+    "FileDate": "2026-08-17T18:34:15.71",
+    "FileSize": 2689566285,
+    "Quality": "1920x1080",
+    "BitRate": 3345,
+    "Duration": "01:47:10",
+    "Channel": "8 Madrid",
+    "MovieName": "",
+    "MovieYear": null,
+    "FileSizeGB": "2,50 GB"
+  },
+  {
+    "VolumeName": "PELICULAS",
+    "FileName": "La gran apuesta (2015).mkv",
+    "FileStatus": "",
+    "FileDate": "2026-08-17T18:34:06.647",
+    "FileSize": 2831860426,
+    "Quality": "1920x1080",
+    "BitRate": 3196,
+    "Duration": "01:58:07",
+    "Channel": "La 1",
+    "MovieName": "",
+    "MovieYear": null,
+    "FileSizeGB": "2,64 GB"
+  },
+  {
+    "VolumeName": "PELICULAS",
+    "FileName": "La \u00FAltima luz (2022).mkv",
+    "FileStatus": "",
+    "FileDate": "2026-08-17T18:33:57.057",
+    "FileSize": 5440259123,
+    "Quality": "1920x1080",
+    "BitRate": 3550,
+    "Duration": "03:24:17",
+    "Channel": "cuatro",
+    "MovieName": "",
+    "MovieYear": null,
+    "FileSizeGB": "5,07 GB"
+  },
+  {
+    "VolumeName": "PELICULAS",
+    "FileName": "Matrix 4 - Resurrections (2021).mkv",
+    "FileStatus": "",
+    "FileDate": "2026-09-08T18:02:25.753",
+    "FileSize": 2799858212,
+    "Quality": "1920x1080",
+    "BitRate": 2695,
+    "Duration": "02:18:29",
+    "Channel": "neox",
+    "MovieName": "",
+    "MovieYear": null,
+    "FileSizeGB": "2,61 GB"
+  },
+  {
+    "VolumeName": "PELICULAS",
+    "FileName": "Notting Hill (1999).mkv",
+    "FileStatus": "",
+    "FileDate": "2026-09-07T19:36:57.927",
+    "FileSize": 4090047622,
+    "Quality": "1920x1080",
+    "BitRate": 4526,
+    "Duration": "02:00:28",
+    "Channel": "Telecinco",
+    "MovieName": "",
+    "MovieYear": null,
+    "FileSizeGB": "3,81 GB"
+  },
+  {
+    "VolumeName": "PELICULAS",
+    "FileName": "Papillon (2017).mkv",
+    "FileStatus": "",
+    "FileDate": "2026-09-07T19:36:44.847",
+    "FileSize": 3114481331,
+    "Quality": "1920x1080",
+    "BitRate": 3455,
+    "Duration": "02:00:10",
+    "Channel": "La sexta",
+    "MovieName": "",
+    "MovieYear": null,
+    "FileSizeGB": "2,90 GB"
+  },
+  {
+    "VolumeName": "PELICULAS",
+    "FileName": "Pudor (2007).mkv",
+    "FileStatus": "",
+    "FileDate": "2026-09-08T18:02:15.333",
+    "FileSize": 2493650831,
+    "Quality": "1920x1080",
+    "BitRate": 3196,
+    "Duration": "01:44:00",
+    "Channel": "8 Madrid",
+    "MovieName": "",
+    "MovieYear": null,
+    "FileSizeGB": "2,32 GB"
+  },
+  {
+    "VolumeName": "PELICULAS",
+    "FileName": "Sin rodeos (2018).mkv",
+    "FileStatus": "",
+    "FileDate": "2026-08-17T18:34:39.643",
+    "FileSize": 1835668047,
+    "Quality": "1920x1080",
+    "BitRate": 2938,
+    "Duration": "01:23:18",
+    "Channel": "La sexta",
+    "MovieName": "",
+    "MovieYear": null,
+    "FileSizeGB": "1,71 GB"
+  },
+  {
+    "VolumeName": "PELICULAS",
+    "FileName": "Stargate (1994).mkv",
+    "FileStatus": "",
+    "FileDate": "2026-08-17T18:33:13.877",
+    "FileSize": 3214696336,
+    "Quality": "1920x1080",
+    "BitRate": 3898,
+    "Duration": "01:49:56",
+    "Channel": "cuatro",
+    "MovieName": "",
+    "MovieYear": null,
+    "FileSizeGB": "2,99 GB"
+  },
+  {
+    "VolumeName": "PELICULAS",
+    "FileName": "The Boy (2016).mkv",
+    "FileStatus": "",
+    "FileDate": "2026-09-08T18:02:06.54",
+    "FileSize": 2858248732,
+    "Quality": "1920x1080",
+    "BitRate": 4314,
+    "Duration": "01:28:20",
+    "Channel": "Be Mad",
+    "MovieName": "",
+    "MovieYear": null,
+    "FileSizeGB": "2,66 GB"
+  },
+  {
+    "VolumeName": "PELICULAS",
+    "FileName": "Troya (2004).mkv",
+    "FileStatus": "",
+    "FileDate": "2026-08-17T18:33:03.263",
+    "FileSize": 4303519183,
+    "Quality": "1920x1080",
+    "BitRate": 3921,
+    "Duration": "02:26:19",
+    "Channel": "La sexta",
+    "MovieName": "",
+    "MovieYear": null,
+    "FileSizeGB": "4,01 GB"
+  },
+  {
+    "VolumeName": "PELICULAS",
+    "FileName": "Venganza asesina (2023).mkv",
+    "FileStatus": "",
+    "FileDate": "2026-09-07T19:36:33.863",
+    "FileSize": 2631305832,
+    "Quality": "1920x1080",
+    "BitRate": 3776,
+    "Duration": "01:32:53",
+    "Channel": "cuatro",
+    "MovieName": "",
+    "MovieYear": null,
+    "FileSizeGB": "2,45 GB"
   }
 ]
