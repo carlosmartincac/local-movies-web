@@ -18435,6 +18435,21 @@
     "FileSizeGB": "2,20 GB"
   },
   {
+    "Id": 19216,
+    "VolumeName": "PELICULAS",
+    "FileName": "Oc\u00E9anos de fuego (Hidalgo) (2004).mkv",
+    "FileStatus": "DELETED",
+    "FileDate": "2025-10-18T13:19:06.72",
+    "FileSize": 3522153680,
+    "Quality": "1920x1080",
+    "BitRate": 3785,
+    "Duration": "02:04:03",
+    "Channel": "cuatro",
+    "MovieName": "Hidalgo",
+    "MovieYear": 2004,
+    "FileSizeGB": "3,28 GB"
+  },
+  {
     "Id": 19217,
     "VolumeName": "PELICULAS",
     "FileName": "Operaci\u00F3n UNCLE (2015).mkv",
